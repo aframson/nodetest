@@ -222,5 +222,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Adam",
+      "last": "Perrin"
+    },
+    "location": {
+      "street": {
+        "number": 6247,
+        "name": "Rue du Bât-D'Argent"
+      },
+      "city": "Limoges",
+      "state": "Gard",
+      "country": "France",
+      "postcode": 19826,
+      "coordinates": {
+        "latitude": "-15.0394",
+        "longitude": "-153.6216"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "adam.perrin@example.com",
+    "login": {
+      "uuid": "0cf9c741-ff62-4c21-b058-4a0a5ed36ce2",
+      "username": "goldenleopard359",
+      "password": "1357",
+      "salt": "80AiWkhS",
+      "md5": "798e2cb274093803389b14f20accd409",
+      "sha1": "955b466aebc1ae953a326d5327d1ebe778462132",
+      "sha256": "8c63937ef220e39fcd28c21aa717288e6d0629719b4ec0ef347ebcbd326dff6b"
+    },
+    "dob": {
+      "date": "1982-05-14T16:50:50.741Z",
+      "age": 42
+    },
+    "registered": {
+      "date": "2002-05-29T02:06:32.860Z",
+      "age": 22
+    },
+    "phone": "02-88-23-79-11",
+    "cell": "06-15-26-71-42",
+    "id": {
+      "name": "INSEE",
+      "value": "1820435118444 88"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/66.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    },
+    "nat": "FR"
   }
 ]
