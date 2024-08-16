@@ -558,5 +558,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Oscar",
+      "last": "Crespo"
+    },
+    "location": {
+      "street": {
+        "number": 6171,
+        "name": "Avenida de Burgos"
+      },
+      "city": "La Coruña",
+      "state": "Cantabria",
+      "country": "Spain",
+      "postcode": 35153,
+      "coordinates": {
+        "latitude": "-33.7278",
+        "longitude": "-77.1087"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "oscar.crespo@example.com",
+    "login": {
+      "uuid": "c2891634-1abc-4120-af0f-d08e94c408b7",
+      "username": "beautifulzebra859",
+      "password": "wapapapa",
+      "salt": "fOTWhldA",
+      "md5": "e44c922ac6f5d79cbd49ebdf324eff4b",
+      "sha1": "e57f1f2b0b335f1c9b67bff2bc73e0022e9f2a9d",
+      "sha256": "ab1cbc3a1e895731da2312ba580ed2ce0a6a6ff295ddda8e67f8c423a784d951"
+    },
+    "dob": {
+      "date": "1947-03-31T20:29:28.270Z",
+      "age": 77
+    },
+    "registered": {
+      "date": "2013-05-10T03:57:04.764Z",
+      "age": 11
+    },
+    "phone": "963-720-574",
+    "cell": "629-849-208",
+    "id": {
+      "name": "DNI",
+      "value": "20433959-M"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/89.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    },
+    "nat": "ES"
   }
 ]
