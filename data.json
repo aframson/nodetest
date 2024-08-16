@@ -110,5 +110,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Divozir",
+      "last": "Rindzak"
+    },
+    "location": {
+      "street": {
+        "number": 5415,
+        "name": "Akademika Pisarzhevskogo"
+      },
+      "city": "Kipuche",
+      "state": "Luganska",
+      "country": "Ukraine",
+      "postcode": 27236,
+      "coordinates": {
+        "latitude": "79.7743",
+        "longitude": "-101.1616"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "divozir.rindzak@example.com",
+    "login": {
+      "uuid": "5b78a673-b1f3-46f8-9820-ac0682e54a43",
+      "username": "blackbear697",
+      "password": "lillian",
+      "salt": "Qe8lA9Ge",
+      "md5": "04ca6114a03d7a6dbfb6ed9385def35e",
+      "sha1": "5e7f3c35d1a24ac50b9be31d494815c07b3aca27",
+      "sha256": "5c65f2e32330491a54a63c4e09ee1644f11b8eaf203f908965b4ed3e0721af66"
+    },
+    "dob": {
+      "date": "1988-03-30T04:52:45.727Z",
+      "age": 36
+    },
+    "registered": {
+      "date": "2002-04-23T08:05:00.445Z",
+      "age": 22
+    },
+    "phone": "(096) E93-2622",
+    "cell": "(067) L58-6706",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/41.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    },
+    "nat": "UA"
   }
 ]
