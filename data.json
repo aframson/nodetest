@@ -54,5 +54,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jules",
+      "last": "Laurent"
+    },
+    "location": {
+      "street": {
+        "number": 3138,
+        "name": "Rue Desaix"
+      },
+      "city": "Rennes",
+      "state": "Haute-Corse",
+      "country": "France",
+      "postcode": 95422,
+      "coordinates": {
+        "latitude": "-19.5825",
+        "longitude": "-90.1898"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "jules.laurent@example.com",
+    "login": {
+      "uuid": "6755bc5f-adef-450a-b8e2-04c80fc2c189",
+      "username": "tinycat114",
+      "password": "kayleigh",
+      "salt": "N157udOm",
+      "md5": "aa789689089b2de91a8a133aa05bbe49",
+      "sha1": "6e8544c6c434b906344ced25004df3e1a7cedecc",
+      "sha256": "f890bbeaa382e6a9cae44cd61a7d0d3de5ceb35c86b5633e4da07af16d7e8d92"
+    },
+    "dob": {
+      "date": "1960-04-25T04:36:19.806Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2017-06-05T01:47:41.701Z",
+      "age": 7
+    },
+    "phone": "01-97-17-05-56",
+    "cell": "06-09-53-81-54",
+    "id": {
+      "name": "INSEE",
+      "value": "1600349020884 71"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/54.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+    },
+    "nat": "FR"
   }
 ]
