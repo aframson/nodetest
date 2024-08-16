@@ -31,7 +31,7 @@
   
         - name: Run Node.js script
           run: |
-            node app.py
+            node app.js
             
         
         - name: Commit changes
