@@ -614,5 +614,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dennis",
+      "last": "Bergan"
+    },
+    "location": {
+      "street": {
+        "number": 7669,
+        "name": "Lofsrudveien"
+      },
+      "city": "Beisfjord",
+      "state": "Akershus",
+      "country": "Norway",
+      "postcode": "9146",
+      "coordinates": {
+        "latitude": "42.8851",
+        "longitude": "-145.6315"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "dennis.bergan@example.com",
+    "login": {
+      "uuid": "30fc8001-38c8-4195-bbe2-30af3d682770",
+      "username": "tinydog315",
+      "password": "porsche",
+      "salt": "lGYIeKwm",
+      "md5": "70513701dddad1c1b0ed2ae594ce073b",
+      "sha1": "c02593388897e03cd6c2fea46acb33664a3277ec",
+      "sha256": "0b4498bd16dee524ab3a939e37140eb29c9c93f265a5b86bbc1259ea1f94193d"
+    },
+    "dob": {
+      "date": "1946-01-03T04:26:39.128Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2015-09-03T10:49:30.548Z",
+      "age": 8
+    },
+    "phone": "38351440",
+    "cell": "97034821",
+    "id": {
+      "name": "FN",
+      "value": "03014629393"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/96.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    },
+    "nat": "NO"
   }
 ]
