@@ -1,0 +1,58 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dagmar",
+      "last": "Costa"
+    },
+    "location": {
+      "street": {
+        "number": 506,
+        "name": "Beco dos Namorados"
+      },
+      "city": "Caruaru",
+      "state": "Alagoas",
+      "country": "Brazil",
+      "postcode": 68132,
+      "coordinates": {
+        "latitude": "-73.4594",
+        "longitude": "-151.2814"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "dagmar.costa@example.com",
+    "login": {
+      "uuid": "43e0130a-b9df-4feb-91ba-f75ca8903e8c",
+      "username": "silvermouse981",
+      "password": "annmarie",
+      "salt": "SLZ776T2",
+      "md5": "2fbab0fb1a5bc5e06f79fa1edda55bb2",
+      "sha1": "bf776913165f71c3811f7be4d2ef667923af559b",
+      "sha256": "b09fc11fa9a336dbd58296dc8541075de97e323f48458f753b98d683749f115b"
+    },
+    "dob": {
+      "date": "1971-09-28T00:57:45.571Z",
+      "age": 52
+    },
+    "registered": {
+      "date": "2009-07-02T03:01:25.857Z",
+      "age": 15
+    },
+    "phone": "(65) 6019-5782",
+    "cell": "(34) 7845-5532",
+    "id": {
+      "name": "CPF",
+      "value": "037.296.781-46"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/77.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    },
+    "nat": "BR"
+  }
+]
