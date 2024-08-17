@@ -670,5 +670,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Toby",
+      "last": "Clarke"
+    },
+    "location": {
+      "street": {
+        "number": 9979,
+        "name": "Moorhouse Avenue"
+      },
+      "city": "Napier",
+      "state": "Nelson",
+      "country": "New Zealand",
+      "postcode": 53133,
+      "coordinates": {
+        "latitude": "53.5958",
+        "longitude": "-41.2264"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "toby.clarke@example.com",
+    "login": {
+      "uuid": "f1cf8777-a983-41c9-a40b-64cd4155e22d",
+      "username": "beautifulpanda442",
+      "password": "dolphin",
+      "salt": "NKImgVJh",
+      "md5": "6775090039eeb470114e999493ae1dfd",
+      "sha1": "98981ed14af981e96c8cf877c4f0a59e77f8c105",
+      "sha256": "22a053eb486d8fd9478c32e2cd9bbedc56bf104e43d42e38d24e5e735ef3cbf0"
+    },
+    "dob": {
+      "date": "1960-12-08T21:23:21.239Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2017-07-28T21:08:37.647Z",
+      "age": 7
+    },
+    "phone": "(303)-381-1814",
+    "cell": "(013)-615-4196",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "NZ"
   }
 ]
