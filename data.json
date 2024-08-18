@@ -726,5 +726,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Taras",
+      "last": "Palamar"
+    },
+    "location": {
+      "street": {
+        "number": 6957,
+        "name": "Borisa Garina"
+      },
+      "city": "Lutugine",
+      "state": "Luganska",
+      "country": "Ukraine",
+      "postcode": 17132,
+      "coordinates": {
+        "latitude": "73.1049",
+        "longitude": "-83.4434"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "taras.palamar@example.com",
+    "login": {
+      "uuid": "da9b3871-7810-41fd-aa81-420012746103",
+      "username": "orangebutterfly334",
+      "password": "ou812",
+      "salt": "EHfce91h",
+      "md5": "d3df135326d53737615e080131701379",
+      "sha1": "a80f1f6d3473b07513e99cf1b350e2543db96b88",
+      "sha256": "65858dc6ea5c1acd610ced1dbbc67f8fb9e0ef26ef021497041d54eaf1b3d33f"
+    },
+    "dob": {
+      "date": "1953-02-12T20:00:54.748Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2002-06-19T08:02:41.014Z",
+      "age": 22
+    },
+    "phone": "(066) D42-4002",
+    "cell": "(098) G54-9655",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/2.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    },
+    "nat": "UA"
   }
 ]
