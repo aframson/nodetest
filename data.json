@@ -838,5 +838,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Stanley",
+      "last": "Graham"
+    },
+    "location": {
+      "street": {
+        "number": 3014,
+        "name": "Boghall Road"
+      },
+      "city": "Celbridge",
+      "state": "Donegal",
+      "country": "Ireland",
+      "postcode": 73669,
+      "coordinates": {
+        "latitude": "2.4773",
+        "longitude": "-146.3048"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "stanley.graham@example.com",
+    "login": {
+      "uuid": "e584033b-47f8-4e75-ba43-b9f6c29b76c9",
+      "username": "crazyduck722",
+      "password": "musashi",
+      "salt": "qB0H3EwE",
+      "md5": "17a62d14ca7238dfdc64c3297df46afd",
+      "sha1": "c4b23f3bfccef7f5fbf3253bb0da0c7f42283fd3",
+      "sha256": "f5f930fc30bb8d39b01036991ca1bf4daad2918760f720cbd066b92b5219fdf5"
+    },
+    "dob": {
+      "date": "1977-08-12T20:45:51.021Z",
+      "age": 47
+    },
+    "registered": {
+      "date": "2021-07-27T00:23:16.472Z",
+      "age": 3
+    },
+    "phone": "061-157-4375",
+    "cell": "081-699-3377",
+    "id": {
+      "name": "PPS",
+      "value": "5981194T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/42.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    },
+    "nat": "IE"
   }
 ]
