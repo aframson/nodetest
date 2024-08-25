@@ -1118,5 +1118,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Modesto",
+      "last": "Tafoya"
+    },
+    "location": {
+      "street": {
+        "number": 3849,
+        "name": "Pasaje Valencia"
+      },
+      "city": "La Cañada",
+      "state": "Estado de Mexico",
+      "country": "Mexico",
+      "postcode": 60798,
+      "coordinates": {
+        "latitude": "27.4477",
+        "longitude": "-88.4661"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "modesto.tafoya@example.com",
+    "login": {
+      "uuid": "bd46b659-c3ba-467e-9ceb-d88c57c4b56b",
+      "username": "whitepanda856",
+      "password": "scooby1",
+      "salt": "VmSQAD71",
+      "md5": "998533fa89becafec46eae85dbdf4b8e",
+      "sha1": "40a7a6e3a8e5e2d41b64ec703aabf07f75d5b565",
+      "sha256": "f4e048c8f72ab5e8af9f1398b0ad206608379a9ee92280a85efe9c4d6fab38f0"
+    },
+    "dob": {
+      "date": "1975-07-02T08:20:12.987Z",
+      "age": 49
+    },
+    "registered": {
+      "date": "2013-07-20T21:53:47.217Z",
+      "age": 11
+    },
+    "phone": "(634) 727 3379",
+    "cell": "(618) 986 9197",
+    "id": {
+      "name": "NSS",
+      "value": "28 24 96 0861 5"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+    },
+    "nat": "MX"
   }
 ]
