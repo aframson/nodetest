@@ -1398,5 +1398,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mete",
+      "last": "Kalkman"
+    },
+    "location": {
+      "street": {
+        "number": 9263,
+        "name": "Jacob Reviuslaan"
+      },
+      "city": "Renswoude",
+      "state": "Gelderland",
+      "country": "Netherlands",
+      "postcode": "2070 FO",
+      "coordinates": {
+        "latitude": "35.5817",
+        "longitude": "-162.1440"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "mete.kalkman@example.com",
+    "login": {
+      "uuid": "95aedb49-d47f-4b8c-aff5-1dfb9254701c",
+      "username": "yellowfrog196",
+      "password": "warthog",
+      "salt": "1qE8TIXA",
+      "md5": "61cd286b69d6c3dd6b376f7d84d40b1b",
+      "sha1": "651621b14595257a4e710b9f8198eba4b7da4b50",
+      "sha256": "79ec58090c2e570488eb1a80e02bc579e35609f98821c0253d5c1b07156edddd"
+    },
+    "dob": {
+      "date": "1992-11-16T06:58:51.241Z",
+      "age": 31
+    },
+    "registered": {
+      "date": "2021-06-18T03:33:26.713Z",
+      "age": 3
+    },
+    "phone": "(061) 3240170",
+    "cell": "(06) 19451837",
+    "id": {
+      "name": "BSN",
+      "value": "12778260"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/74.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    },
+    "nat": "NL"
   }
 ]
