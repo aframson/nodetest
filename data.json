@@ -1510,5 +1510,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Elliot",
+      "last": "Morin"
+    },
+    "location": {
+      "street": {
+        "number": 7335,
+        "name": "St. Catherine St"
+      },
+      "city": "Chatham",
+      "state": "Newfoundland and Labrador",
+      "country": "Canada",
+      "postcode": "S0P 5A6",
+      "coordinates": {
+        "latitude": "-70.8304",
+        "longitude": "-86.3847"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "elliot.morin@example.com",
+    "login": {
+      "uuid": "4abbd25b-f27f-4bce-9881-bfc181d2dcac",
+      "username": "orangebutterfly746",
+      "password": "kennedy",
+      "salt": "9iE8QV6K",
+      "md5": "577079a44e06365efd2630c8ec671dce",
+      "sha1": "df5adfe8f315a4d6c56de540e8c1b292c0ec9e71",
+      "sha256": "15d23b65ebbd23c3d5f90daeaccc796c5ebdd1845838a75031e870da200904c8"
+    },
+    "dob": {
+      "date": "2000-09-20T13:36:25.510Z",
+      "age": 23
+    },
+    "registered": {
+      "date": "2018-06-03T09:28:14.961Z",
+      "age": 6
+    },
+    "phone": "O18 D87-6793",
+    "cell": "B85 K55-8410",
+    "id": {
+      "name": "SIN",
+      "value": "546385634"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/10.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    },
+    "nat": "CA"
   }
 ]
