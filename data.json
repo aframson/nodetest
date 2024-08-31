@@ -1622,5 +1622,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Clinton",
+      "last": "Soto"
+    },
+    "location": {
+      "street": {
+        "number": 5946,
+        "name": "Oak Ridge Ln"
+      },
+      "city": "Tamworth",
+      "state": "Northern Territory",
+      "country": "Australia",
+      "postcode": 3125,
+      "coordinates": {
+        "latitude": "-87.7356",
+        "longitude": "-108.5258"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "clinton.soto@example.com",
+    "login": {
+      "uuid": "3dd99d49-1f0b-4acd-9e40-cdf784c521eb",
+      "username": "brownbear823",
+      "password": "trooper",
+      "salt": "g0aRMXZZ",
+      "md5": "81fdf63070371c99ffa6107e29da0ebe",
+      "sha1": "dd590de3f773dabbeb66c632956ae7209c99fc83",
+      "sha256": "eccddb077037a4632e98fb714717bc1780804dd92ae5a3b5037feffdbdfad0df"
+    },
+    "dob": {
+      "date": "1992-02-15T04:41:03.866Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2022-02-05T18:53:36.566Z",
+      "age": 2
+    },
+    "phone": "05-2731-1960",
+    "cell": "0444-513-062",
+    "id": {
+      "name": "TFN",
+      "value": "565738626"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/49.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    },
+    "nat": "AU"
   }
 ]
