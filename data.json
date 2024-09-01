@@ -1734,5 +1734,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Armindo",
+      "last": "Martins"
+    },
+    "location": {
+      "street": {
+        "number": 4022,
+        "name": "Avenida da Democracia"
+      },
+      "city": "Rio Claro",
+      "state": "Pernambuco",
+      "country": "Brazil",
+      "postcode": 16534,
+      "coordinates": {
+        "latitude": "-79.8023",
+        "longitude": "-92.8284"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "armindo.martins@example.com",
+    "login": {
+      "uuid": "28a60b91-eccf-454c-983f-b5100b07a1fc",
+      "username": "brownzebra769",
+      "password": "longdong",
+      "salt": "3VU8vsUf",
+      "md5": "c2fc6d186fb5824ffdc93699405958d3",
+      "sha1": "408a7b2ba3a7403a23d152135525d97b8b6e2073",
+      "sha256": "1a005cb7ae41ce2b675fdd354b59f8571a28b3aa9243c3e4946c23e20a35cb1c"
+    },
+    "dob": {
+      "date": "1964-05-08T00:22:00.426Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2003-07-08T13:07:40.860Z",
+      "age": 21
+    },
+    "phone": "(06) 0460-9717",
+    "cell": "(82) 7006-8993",
+    "id": {
+      "name": "CPF",
+      "value": "309.514.695-12"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/1.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    },
+    "nat": "BR"
   }
 ]
