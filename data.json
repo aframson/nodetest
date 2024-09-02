@@ -1846,5 +1846,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nihal",
+      "last": "Bolatlı"
+    },
+    "location": {
+      "street": {
+        "number": 4128,
+        "name": "Istiklal Cd"
+      },
+      "city": "Gaziantep",
+      "state": "Ankara",
+      "country": "Turkey",
+      "postcode": 98653,
+      "coordinates": {
+        "latitude": "65.7061",
+        "longitude": "-83.3772"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "nihal.bolatli@example.com",
+    "login": {
+      "uuid": "c3e6751f-d944-458f-a93d-de3b849eef15",
+      "username": "bluesnake866",
+      "password": "morales",
+      "salt": "1MrqwF0N",
+      "md5": "f75d28077d4415bd1f7194c427c72f72",
+      "sha1": "923baf4ef575cc6823f955a542e8377ae2269ade",
+      "sha256": "242221381f7f8b5fea91841962bd42c0b8ac3907eb703b42f8f292416c4d3909"
+    },
+    "dob": {
+      "date": "1995-04-27T03:06:18.661Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2007-02-10T13:00:45.378Z",
+      "age": 17
+    },
+    "phone": "(525)-999-0309",
+    "cell": "(588)-403-3795",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/70.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    },
+    "nat": "TR"
   }
 ]
