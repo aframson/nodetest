@@ -1902,5 +1902,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Bozhemir",
+      "last": "Balaban"
+    },
+    "location": {
+      "street": {
+        "number": 5608,
+        "name": "Proviantska"
+      },
+      "city": "Valki",
+      "state": "Zaporizka",
+      "country": "Ukraine",
+      "postcode": 97136,
+      "coordinates": {
+        "latitude": "81.3661",
+        "longitude": "-117.6226"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "bozhemir.balaban@example.com",
+    "login": {
+      "uuid": "1038b25f-e18f-4358-bcc3-531d3f93ba07",
+      "username": "silverduck402",
+      "password": "sam123",
+      "salt": "5eG7mtFS",
+      "md5": "c957c36b56204e4cc4ccac41cc8bbf35",
+      "sha1": "1cc5ef6c05a9c1b38955eeab97cef3e5601ba8f3",
+      "sha256": "ae19fa11092b63b4815fda231124940acc273a38dded72f9a6aea28dc09b524d"
+    },
+    "dob": {
+      "date": "1955-12-14T22:21:53.808Z",
+      "age": 68
+    },
+    "registered": {
+      "date": "2004-06-24T01:45:57.780Z",
+      "age": 20
+    },
+    "phone": "(067) Z51-7604",
+    "cell": "(097) Q38-8541",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "UA"
   }
 ]
