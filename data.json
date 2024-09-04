@@ -2070,5 +2070,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
     },
     "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Lyubomil",
+      "last": "Rusnak"
+    },
+    "location": {
+      "street": {
+        "number": 704,
+        "name": "Velika Panasivska"
+      },
+      "city": "Brovari",
+      "state": "Odeska",
+      "country": "Ukraine",
+      "postcode": 67035,
+      "coordinates": {
+        "latitude": "75.8176",
+        "longitude": "-9.9904"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "lyubomil.rusnak@example.com",
+    "login": {
+      "uuid": "8b61119a-32ad-458c-9c06-196170987400",
+      "username": "angrygorilla185",
+      "password": "salesman",
+      "salt": "mkOZwIUZ",
+      "md5": "7587c5dcafbfacdcbb8b377cf185f11a",
+      "sha1": "485371277123af4f48ff4936850d27193a1bb510",
+      "sha256": "f3487e1e2d16330c5851ac880b7871ee380ac3d94eacd6575da7d33b301d54f4"
+    },
+    "dob": {
+      "date": "1979-09-16T05:08:26.527Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2010-11-27T20:32:31.336Z",
+      "age": 13
+    },
+    "phone": "(096) B55-4200",
+    "cell": "(067) O18-8348",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/11.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    },
+    "nat": "UA"
   }
 ]
