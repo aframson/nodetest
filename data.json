@@ -2182,5 +2182,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Simon",
+      "last": "Meyer"
+    },
+    "location": {
+      "street": {
+        "number": 7633,
+        "name": "Rue de L'Abbé-Grégoire"
+      },
+      "city": "Écublens (Vd)",
+      "state": "Nidwalden",
+      "country": "Switzerland",
+      "postcode": 9489,
+      "coordinates": {
+        "latitude": "-60.0608",
+        "longitude": "-169.5186"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "simon.meyer@example.com",
+    "login": {
+      "uuid": "ea5c8381-772a-4a80-96c3-ec2dfecb155a",
+      "username": "silverdog924",
+      "password": "hank",
+      "salt": "DBkPPFbd",
+      "md5": "1ec82e11ee9da17572ffb8253946edc9",
+      "sha1": "2cc5660c5f54cf04688583c7f4073292725305af",
+      "sha256": "91b451167264096e609fe329926665eea0f8e25d659678bf4c56b8e22646f72f"
+    },
+    "dob": {
+      "date": "1988-01-15T01:50:18.127Z",
+      "age": 36
+    },
+    "registered": {
+      "date": "2004-10-05T08:33:30.017Z",
+      "age": 19
+    },
+    "phone": "079 771 33 60",
+    "cell": "078 362 63 21",
+    "id": {
+      "name": "AVS",
+      "value": "756.0623.4314.71"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/85.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    },
+    "nat": "CH"
   }
 ]
