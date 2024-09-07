@@ -2350,5 +2350,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Stella",
+      "last": "Garnier"
+    },
+    "location": {
+      "street": {
+        "number": 2415,
+        "name": "Rue Dumenge"
+      },
+      "city": "Pau",
+      "state": "Loir-et-Cher",
+      "country": "France",
+      "postcode": 67852,
+      "coordinates": {
+        "latitude": "-15.1681",
+        "longitude": "38.1471"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "stella.garnier@example.com",
+    "login": {
+      "uuid": "f5bc3ea8-a449-477d-81bb-9154fa82a3f2",
+      "username": "sadlion196",
+      "password": "puffer",
+      "salt": "stJDCZbf",
+      "md5": "3d7b0a8cbb1b97d852526261068cd756",
+      "sha1": "c594b383e8308d0bd2c8e691beaae9f7436338da",
+      "sha256": "b52a0f97e2d1a13ebf3e130b4ad3b063a78c1a13d5a3b42e9e52c6f4c62ff560"
+    },
+    "dob": {
+      "date": "1963-06-16T19:27:25.586Z",
+      "age": 61
+    },
+    "registered": {
+      "date": "2008-06-15T11:12:39.179Z",
+      "age": 16
+    },
+    "phone": "04-51-62-91-65",
+    "cell": "06-11-48-73-33",
+    "id": {
+      "name": "INSEE",
+      "value": "2630592132746 82"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/94.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+    },
+    "nat": "FR"
   }
 ]
