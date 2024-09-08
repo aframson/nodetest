@@ -2518,5 +2518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Félix",
+      "last": "Marín"
+    },
+    "location": {
+      "street": {
+        "number": 2339,
+        "name": "Calle Covadonga"
+      },
+      "city": "Arrecife",
+      "state": "La Rioja",
+      "country": "Spain",
+      "postcode": 56271,
+      "coordinates": {
+        "latitude": "-33.1017",
+        "longitude": "-89.2321"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "felix.marin@example.com",
+    "login": {
+      "uuid": "583331c8-3ef2-457f-97e7-06ba455b4254",
+      "username": "tinyladybug152",
+      "password": "hopeless",
+      "salt": "p68iuE9K",
+      "md5": "4f2bb059d12be7980ba2fac555f2589c",
+      "sha1": "0d7bd2a60b19b03255fec37436b06de95bf97218",
+      "sha256": "63759f94a9579856ab7bd91c70084b0192ad0175af669eb751dcb28854c01386"
+    },
+    "dob": {
+      "date": "1969-01-05T23:19:37.850Z",
+      "age": 55
+    },
+    "registered": {
+      "date": "2016-03-07T20:11:51.112Z",
+      "age": 8
+    },
+    "phone": "923-372-132",
+    "cell": "640-427-535",
+    "id": {
+      "name": "DNI",
+      "value": "26883698-F"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/63.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "nat": "ES"
   }
 ]
