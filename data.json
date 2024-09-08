@@ -2462,5 +2462,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Rubén",
+      "last": "Nieto"
+    },
+    "location": {
+      "street": {
+        "number": 5496,
+        "name": "Circunvalación Yemen"
+      },
+      "city": "San Mateo Oxtotitlán",
+      "state": "Tlaxcala",
+      "country": "Mexico",
+      "postcode": 40276,
+      "coordinates": {
+        "latitude": "27.6766",
+        "longitude": "-106.7600"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "ruben.nieto@example.com",
+    "login": {
+      "uuid": "d9086be5-2c29-4494-a043-bd316f31370e",
+      "username": "browndog727",
+      "password": "1954",
+      "salt": "iXlJtKr4",
+      "md5": "187aa5cb3c88c65f1200756c42be0065",
+      "sha1": "2101fb9c24627beed582857a4e2f5918f324af44",
+      "sha256": "0720153efbf689ab571b37fbfacf09d1e32bcc72088612fc16e55b26b185d1da"
+    },
+    "dob": {
+      "date": "1992-05-08T09:22:31.251Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2006-05-18T12:49:43.792Z",
+      "age": 18
+    },
+    "phone": "(639) 112 4092",
+    "cell": "(605) 637 9967",
+    "id": {
+      "name": "NSS",
+      "value": "76 15 83 0654 7"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/11.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    },
+    "nat": "MX"
   }
 ]
