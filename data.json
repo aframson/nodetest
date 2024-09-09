@@ -2574,5 +2574,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Mattia",
+      "last": "Legrand"
+    },
+    "location": {
+      "street": {
+        "number": 6611,
+        "name": "Place de L'Europe"
+      },
+      "city": "La Praz",
+      "state": "Zürich",
+      "country": "Switzerland",
+      "postcode": 6783,
+      "coordinates": {
+        "latitude": "-57.3759",
+        "longitude": "-128.7353"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "mattia.legrand@example.com",
+    "login": {
+      "uuid": "a8ca37f7-5222-4576-a325-c415a906957a",
+      "username": "blackfrog789",
+      "password": "chillin",
+      "salt": "vklkwEAl",
+      "md5": "07a38553a52f9eda4d930db654baaac0",
+      "sha1": "f954cf3f40f00d1858670cfc0bbc44a0167c2d7f",
+      "sha256": "ee22ffeba553d338380e1dca44089cdc24b98b35fa8bf0987ece536907348a86"
+    },
+    "dob": {
+      "date": "1962-02-15T21:55:50.810Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2004-04-16T13:44:43.097Z",
+      "age": 20
+    },
+    "phone": "078 036 34 62",
+    "cell": "078 248 79 61",
+    "id": {
+      "name": "AVS",
+      "value": "756.8311.5764.35"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/32.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+    },
+    "nat": "CH"
   }
 ]
