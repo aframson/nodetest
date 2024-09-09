@@ -2630,5 +2630,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Noah",
+      "last": "Pereira"
+    },
+    "location": {
+      "street": {
+        "number": 8710,
+        "name": "Rua Treze de Maio "
+      },
+      "city": "Mogi Guaçu",
+      "state": "Rondônia",
+      "country": "Brazil",
+      "postcode": 64768,
+      "coordinates": {
+        "latitude": "-78.0795",
+        "longitude": "-27.8943"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "noah.pereira@example.com",
+    "login": {
+      "uuid": "bbcdd8c9-5927-4739-becb-fd7046a01c20",
+      "username": "silverpanda974",
+      "password": "swords",
+      "salt": "wKkBBpLS",
+      "md5": "21c84432ebeb2da81589f0a059e90523",
+      "sha1": "d3b4fae9baec6167bfcffcd543f3a6a111de83b6",
+      "sha256": "31bed66eb28fd994bf400bd34fb59012bf276833b9c2302c9419791e44011772"
+    },
+    "dob": {
+      "date": "1991-11-30T20:29:02.686Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2011-02-05T07:02:52.779Z",
+      "age": 13
+    },
+    "phone": "(24) 6017-1019",
+    "cell": "(54) 1904-9973",
+    "id": {
+      "name": "CPF",
+      "value": "103.827.832-37"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/0.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    },
+    "nat": "BR"
   }
 ]
