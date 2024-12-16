@@ -3022,5 +3022,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gabino",
+      "last": "Ozuna"
+    },
+    "location": {
+      "street": {
+        "number": 3680,
+        "name": "Circuito Durango"
+      },
+      "city": "Calera de Víctor Rosales",
+      "state": "Sinaloa",
+      "country": "Mexico",
+      "postcode": 61134,
+      "coordinates": {
+        "latitude": "24.5840",
+        "longitude": "-35.2821"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "gabino.ozuna@example.com",
+    "login": {
+      "uuid": "5ab551c9-30f3-404b-b5a4-c165cbfedd8a",
+      "username": "redelephant793",
+      "password": "enterpri",
+      "salt": "mb7lbtT9",
+      "md5": "c306b86b0fbabdd05a5c8caaa6ea1604",
+      "sha1": "f33fc0af153a45d83b6304a99da2f1508f44b751",
+      "sha256": "c5d7bb6bf02046a798e86e9a120c518c384dc8b5229a224b82dd50fe7f30a970"
+    },
+    "dob": {
+      "date": "1948-04-26T07:44:03.678Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2010-03-20T13:01:11.086Z",
+      "age": 14
+    },
+    "phone": "(677) 988 8563",
+    "cell": "(625) 717 3725",
+    "id": {
+      "name": "NSS",
+      "value": "07 18 52 3749 7"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/32.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+    },
+    "nat": "MX"
   }
 ]
