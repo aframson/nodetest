@@ -2910,5 +2910,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Garance",
+      "last": "Lefevre"
+    },
+    "location": {
+      "street": {
+        "number": 7285,
+        "name": "Rue du Château"
+      },
+      "city": "Champigny-sur-Marne",
+      "state": "Drôme",
+      "country": "France",
+      "postcode": 18039,
+      "coordinates": {
+        "latitude": "-13.8937",
+        "longitude": "81.4478"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "garance.lefevre@example.com",
+    "login": {
+      "uuid": "6819bc34-1912-4f28-b95d-3be0248a825a",
+      "username": "smallduck744",
+      "password": "english",
+      "salt": "Lei8kGTM",
+      "md5": "fcd24dbaa8b70f31733eaf8b0e0ec3ce",
+      "sha1": "4aa1803762346bda5a49245d4c05550d63c18f9f",
+      "sha256": "69340b4fc625f68dd1d0999e785d78dea3bf697eb307c1aed1105b69e0fcfbe1"
+    },
+    "dob": {
+      "date": "1997-07-23T09:38:42.384Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2003-05-21T23:35:56.331Z",
+      "age": 21
+    },
+    "phone": "02-56-51-36-52",
+    "cell": "06-30-24-76-39",
+    "id": {
+      "name": "INSEE",
+      "value": "2970665291612 54"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/13.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+    },
+    "nat": "FR"
   }
 ]
