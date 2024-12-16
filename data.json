@@ -2798,5 +2798,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Karl-Jürgen",
+      "last": "Schürmann"
+    },
+    "location": {
+      "street": {
+        "number": 8378,
+        "name": "Brunnenstraße"
+      },
+      "city": "Rhinow",
+      "state": "Thüringen",
+      "country": "Germany",
+      "postcode": 87027,
+      "coordinates": {
+        "latitude": "-51.1515",
+        "longitude": "-52.7479"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "karl-jurgen.schurmann@example.com",
+    "login": {
+      "uuid": "9dad2bfd-a442-4614-8db9-6a370e75b68f",
+      "username": "redmeercat440",
+      "password": "surfer1",
+      "salt": "Oqqhzhrr",
+      "md5": "00a19af360e85b9bbe630a75522fc138",
+      "sha1": "84aa25b234b71c6b5533684cb8368dc4622e9b05",
+      "sha256": "152a114787dd83156d7a24019972d80b29cd2f28b0a34ae84d2988f88a908c4a"
+    },
+    "dob": {
+      "date": "1981-05-22T13:58:27.206Z",
+      "age": 43
+    },
+    "registered": {
+      "date": "2006-09-14T09:56:27.356Z",
+      "age": 18
+    },
+    "phone": "0084-3745952",
+    "cell": "0173-7204496",
+    "id": {
+      "name": "SVNR",
+      "value": "20 220581 S 484"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/44.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+    },
+    "nat": "DE"
   }
 ]
