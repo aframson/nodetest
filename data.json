@@ -2966,5 +2966,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jack",
+      "last": "Evans"
+    },
+    "location": {
+      "street": {
+        "number": 1937,
+        "name": "Remuera Road"
+      },
+      "city": "Dunedin",
+      "state": "Bay of Plenty",
+      "country": "New Zealand",
+      "postcode": 33949,
+      "coordinates": {
+        "latitude": "52.9788",
+        "longitude": "-39.0060"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "jack.evans@example.com",
+    "login": {
+      "uuid": "7273b214-0514-4388-9d5d-743dd3fe145a",
+      "username": "goldenswan532",
+      "password": "stream",
+      "salt": "dwfqnGIx",
+      "md5": "e2829416de469df21c7cab7481499e6d",
+      "sha1": "79f34b25442f6ddc0c99551b314a2b76fb52c85f",
+      "sha256": "19613a3e6a3e5a30a3aa0ad46019b8c396f69ad03c6f7ed86b578c8a0f5bbbe1"
+    },
+    "dob": {
+      "date": "1961-12-29T23:01:57.766Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2006-02-28T20:03:55.501Z",
+      "age": 18
+    },
+    "phone": "(829)-912-3648",
+    "cell": "(177)-185-9664",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/82.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+    },
+    "nat": "NZ"
   }
 ]
