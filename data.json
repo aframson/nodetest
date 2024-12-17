@@ -3694,5 +3694,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Marvin",
+      "last": "Mason"
+    },
+    "location": {
+      "street": {
+        "number": 2139,
+        "name": "W Campbell Ave"
+      },
+      "city": "Gladstone",
+      "state": "Northern Territory",
+      "country": "Australia",
+      "postcode": 7836,
+      "coordinates": {
+        "latitude": "-86.6049",
+        "longitude": "-161.7704"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "marvin.mason@example.com",
+    "login": {
+      "uuid": "a933e654-deba-4964-a794-4199539ffa8a",
+      "username": "organicelephant335",
+      "password": "horizon",
+      "salt": "15TOMyt6",
+      "md5": "71b696562bc2f3e8441d8fdd75df6a31",
+      "sha1": "f1ac5cd92a6e8e8e81edf74fbb4e50ecdd638b12",
+      "sha256": "ef30d1f2e5dedcb9c1a04576c84b6b2f223ec1d4c0ed4709b153053a274bbec3"
+    },
+    "dob": {
+      "date": "1950-07-06T07:18:00.452Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2014-03-28T11:15:54.267Z",
+      "age": 10
+    },
+    "phone": "03-2699-6561",
+    "cell": "0442-565-907",
+    "id": {
+      "name": "TFN",
+      "value": "714247064"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/57.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    },
+    "nat": "AU"
   }
 ]
