@@ -3358,5 +3358,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Christer",
+      "last": "Ljosland"
+    },
+    "location": {
+      "street": {
+        "number": 4879,
+        "name": "Gjerdesmutten"
+      },
+      "city": "Hammarvika",
+      "state": "Møre og Romsdal",
+      "country": "Norway",
+      "postcode": "9585",
+      "coordinates": {
+        "latitude": "45.7979",
+        "longitude": "-116.6592"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "christer.ljosland@example.com",
+    "login": {
+      "uuid": "27374361-f718-446e-b879-dd4851db9d2e",
+      "username": "heavymeercat851",
+      "password": "keith",
+      "salt": "7CgFsA4E",
+      "md5": "4f6799810a44f84b6a743ad5180b7aa3",
+      "sha1": "f6fce3c3608b0ed7d82e1183b00ec77510c5e3a5",
+      "sha256": "f3cc60c3f645d50c611986fe0f0202b7710ebcbf727b0befccf61e1938c49134"
+    },
+    "dob": {
+      "date": "1994-01-26T19:47:09.324Z",
+      "age": 30
+    },
+    "registered": {
+      "date": "2007-04-26T00:14:47.202Z",
+      "age": 17
+    },
+    "phone": "51876819",
+    "cell": "98465772",
+    "id": {
+      "name": "FN",
+      "value": "26019438197"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/53.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    },
+    "nat": "NO"
   }
 ]
