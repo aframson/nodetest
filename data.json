@@ -3302,5 +3302,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Massimiliano",
+      "last": "Gonzalez"
+    },
+    "location": {
+      "street": {
+        "number": 8829,
+        "name": "Quai Chauveau"
+      },
+      "city": "Massagno",
+      "state": "Uri",
+      "country": "Switzerland",
+      "postcode": 9988,
+      "coordinates": {
+        "latitude": "-61.0230",
+        "longitude": "-162.1747"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "massimiliano.gonzalez@example.com",
+    "login": {
+      "uuid": "a66e58de-dec3-4179-b58a-be23fadce88f",
+      "username": "orangemouse735",
+      "password": "eeyore",
+      "salt": "27WoeEM9",
+      "md5": "f1785b46f085404203d593d43262b87f",
+      "sha1": "0155a41c594eda86513360ecab366ce52a66f02d",
+      "sha256": "4db1ead3a97bca20392a53041d0f3d64bb033417d4c07381991e912cf86788c5"
+    },
+    "dob": {
+      "date": "1995-02-19T22:08:05.253Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2004-12-27T13:07:14.428Z",
+      "age": 19
+    },
+    "phone": "078 879 55 93",
+    "cell": "077 085 49 36",
+    "id": {
+      "name": "AVS",
+      "value": "756.5777.4693.96"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/24.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+    },
+    "nat": "CH"
   }
 ]
