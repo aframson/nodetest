@@ -3526,5 +3526,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ugo",
+      "last": "Lecomte"
+    },
+    "location": {
+      "street": {
+        "number": 9552,
+        "name": "Rue D'Abbeville"
+      },
+      "city": "Lyon",
+      "state": "Yonne",
+      "country": "France",
+      "postcode": 55049,
+      "coordinates": {
+        "latitude": "-20.8894",
+        "longitude": "-93.3150"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "ugo.lecomte@example.com",
+    "login": {
+      "uuid": "f86f77f8-b8e6-462c-936d-2cbccb705fa6",
+      "username": "greenswan254",
+      "password": "christa",
+      "salt": "RI4AziVK",
+      "md5": "aee36e11eca460a2139f4ed3e80310f2",
+      "sha1": "5c0781125d56d1c3190416d4727a73a4479ce43b",
+      "sha256": "20aa1396baf563e57f5005db8c1e79482e17338cd0b5eb024d2c84ef38fa2203"
+    },
+    "dob": {
+      "date": "1989-07-15T23:46:30.227Z",
+      "age": 35
+    },
+    "registered": {
+      "date": "2016-08-30T13:45:10.369Z",
+      "age": 8
+    },
+    "phone": "04-64-03-96-31",
+    "cell": "06-83-23-11-50",
+    "id": {
+      "name": "INSEE",
+      "value": "1890649344745 78"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/77.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    },
+    "nat": "FR"
   }
 ]
