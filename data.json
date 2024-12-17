@@ -3582,5 +3582,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Chanakya",
+      "last": "Jain"
+    },
+    "location": {
+      "street": {
+        "number": 7913,
+        "name": "Shakespeare Sarani"
+      },
+      "city": "Kadapa",
+      "state": "Chhattisgarh",
+      "country": "India",
+      "postcode": 64949,
+      "coordinates": {
+        "latitude": "10.3843",
+        "longitude": "-140.0607"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "chanakya.jain@example.com",
+    "login": {
+      "uuid": "45bcd739-cbd6-4f99-b51b-dedd890aee60",
+      "username": "bigpeacock875",
+      "password": "films+pic+galeries",
+      "salt": "US2x0LMR",
+      "md5": "240f9ebcc538b37bf3e24a106b4835c6",
+      "sha1": "ed4d9fa0e1f60f9d0439c2515e5db8f5d85dbd8a",
+      "sha256": "d10aeed2941bc06dd762fadd1bcb5d7584aa4b966859e58658d7d643b4f2a677"
+    },
+    "dob": {
+      "date": "1997-07-09T06:19:18.828Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2019-05-13T14:33:08.192Z",
+      "age": 5
+    },
+    "phone": "8506894060",
+    "cell": "9601519966",
+    "id": {
+      "name": "UIDAI",
+      "value": "967723356842"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/85.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    },
+    "nat": "IN"
   }
 ]
