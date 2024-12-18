@@ -4198,5 +4198,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gary",
+      "last": "Lowe"
+    },
+    "location": {
+      "street": {
+        "number": 8643,
+        "name": "Daisy Dr"
+      },
+      "city": "Frisco",
+      "state": "Mississippi",
+      "country": "United States",
+      "postcode": 40797,
+      "coordinates": {
+        "latitude": "87.3674",
+        "longitude": "-107.1511"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "gary.lowe@example.com",
+    "login": {
+      "uuid": "58ed2575-53e9-4937-a1ab-ae127f0cf57f",
+      "username": "purplepanda683",
+      "password": "abc1234",
+      "salt": "up3IJmDi",
+      "md5": "9c438afff333df077d882a2452e006ab",
+      "sha1": "b8339577e280a215b1d342b882a84d3fc288288f",
+      "sha256": "e497c77eb193a07c834a7fe2a713de5a59239c690914abd4299e6af735d57a62"
+    },
+    "dob": {
+      "date": "1996-12-26T02:31:13.512Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2004-04-19T05:40:30.633Z",
+      "age": 20
+    },
+    "phone": "(590) 893-4930",
+    "cell": "(343) 433-7897",
+    "id": {
+      "name": "SSN",
+      "value": "736-09-4874"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/17.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    },
+    "nat": "US"
   }
 ]
