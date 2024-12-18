@@ -3750,5 +3750,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Valentin",
+      "last": "Martinez"
+    },
+    "location": {
+      "street": {
+        "number": 5284,
+        "name": "Rue Louis-Garrand"
+      },
+      "city": "Orléans",
+      "state": "Seine-et-Marne",
+      "country": "France",
+      "postcode": 43800,
+      "coordinates": {
+        "latitude": "-20.9172",
+        "longitude": "-104.8579"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "valentin.martinez@example.com",
+    "login": {
+      "uuid": "fa08ead6-7090-441e-82dd-740cd4c288e3",
+      "username": "tinysnake540",
+      "password": "beast1",
+      "salt": "EcKbrh5I",
+      "md5": "997fecc5456f22eb0265022dc02a6fdc",
+      "sha1": "c5e5bd97b42786aa38d2d8d742841669e4d810ec",
+      "sha256": "ab42b7f6f17907c38623563701d5ef9ad4c9ffd45dca6993757ad6612492c060"
+    },
+    "dob": {
+      "date": "1961-10-20T22:21:15.291Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2002-09-25T00:05:44.300Z",
+      "age": 22
+    },
+    "phone": "05-28-15-59-25",
+    "cell": "06-55-69-40-74",
+    "id": {
+      "name": "INSEE",
+      "value": "1610925095604 57"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/75.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    },
+    "nat": "FR"
   }
 ]
