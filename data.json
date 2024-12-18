@@ -3862,5 +3862,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alexander",
+      "last": "Sørensen"
+    },
+    "location": {
+      "street": {
+        "number": 3625,
+        "name": "Hærvejen"
+      },
+      "city": "Stenderup",
+      "state": "Hovedstaden",
+      "country": "Denmark",
+      "postcode": 50445,
+      "coordinates": {
+        "latitude": "-43.5433",
+        "longitude": "-157.8676"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "alexander.sorensen@example.com",
+    "login": {
+      "uuid": "0f355c57-1a0a-453f-be62-1140eb97953e",
+      "username": "happydog191",
+      "password": "tttttt",
+      "salt": "eQcOul0D",
+      "md5": "a56efa33f834613d97f8412dea7f5456",
+      "sha1": "69054c864d9c9a1e1909325178ab342999a38710",
+      "sha256": "8c7c4e765019516af787a803f206d71f050c2fc978c0dfcfceea971fa044619e"
+    },
+    "dob": {
+      "date": "1951-05-22T14:36:28.530Z",
+      "age": 73
+    },
+    "registered": {
+      "date": "2008-03-01T20:43:43.491Z",
+      "age": 16
+    },
+    "phone": "87645329",
+    "cell": "48374028",
+    "id": {
+      "name": "CPR",
+      "value": "220551-6553"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/0.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    },
+    "nat": "DK"
   }
 ]
