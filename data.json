@@ -4926,5 +4926,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Anaëlle",
+      "last": "Andre"
+    },
+    "location": {
+      "street": {
+        "number": 2452,
+        "name": "Rue Cyrus-Hugues"
+      },
+      "city": "Aulnay-sous-Bois",
+      "state": "Côtes-D'Armor",
+      "country": "France",
+      "postcode": 60120,
+      "coordinates": {
+        "latitude": "-14.6703",
+        "longitude": "61.3335"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "anaelle.andre@example.com",
+    "login": {
+      "uuid": "109f3713-8e48-41a5-b2d9-3c3be309ac24",
+      "username": "purpleduck784",
+      "password": "stealth",
+      "salt": "4qGeNxnk",
+      "md5": "9a3b8c2d6ca1d86bac3cc929b6a3daf6",
+      "sha1": "fb795d27d2c973c1dd058559b478a0f6a2afb9aa",
+      "sha256": "d13ca832e2b031d4faced14a43cc21e2ab73408273a8564b9fd267c852da991a"
+    },
+    "dob": {
+      "date": "1957-11-07T00:49:02.163Z",
+      "age": 67
+    },
+    "registered": {
+      "date": "2016-04-20T09:50:15.017Z",
+      "age": 8
+    },
+    "phone": "02-05-67-12-19",
+    "cell": "06-88-83-54-90",
+    "id": {
+      "name": "INSEE",
+      "value": "2571088678003 59"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/90.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+    },
+    "nat": "FR"
   }
 ]
