@@ -4478,5 +4478,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Yann",
+      "last": "Fontai"
+    },
+    "location": {
+      "street": {
+        "number": 3836,
+        "name": "Rue du Moulin"
+      },
+      "city": "Lavey-Morcles",
+      "state": "Glarus",
+      "country": "Switzerland",
+      "postcode": 7627,
+      "coordinates": {
+        "latitude": "-63.8569",
+        "longitude": "-157.5644"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "yann.fontai@example.com",
+    "login": {
+      "uuid": "f446d757-76dd-4d4a-8323-e0fdbeea4379",
+      "username": "blueduck910",
+      "password": "chrisbln",
+      "salt": "Dy22YsPY",
+      "md5": "d6d8809739415ce3be2f104fbb5fd738",
+      "sha1": "06f6c33957cac72e7b5914720620117a810d7a8e",
+      "sha256": "3e7b0ec3296d4c1eafd70c27a2cd4b02aa3b41b67ccd7234ee42a3fb08f32003"
+    },
+    "dob": {
+      "date": "1946-01-03T23:38:44.816Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2021-06-10T07:57:03.685Z",
+      "age": 3
+    },
+    "phone": "079 862 24 59",
+    "cell": "076 280 60 62",
+    "id": {
+      "name": "AVS",
+      "value": "756.1843.0630.31"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/84.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+    },
+    "nat": "CH"
   }
 ]
