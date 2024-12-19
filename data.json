@@ -5038,5 +5038,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Augustin",
+      "last": "Grabow"
+    },
+    "location": {
+      "street": {
+        "number": 5837,
+        "name": "Tannenweg"
+      },
+      "city": "Joachimsthal",
+      "state": "Schleswig-Holstein",
+      "country": "Germany",
+      "postcode": 53680,
+      "coordinates": {
+        "latitude": "-50.9768",
+        "longitude": "-130.9684"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "augustin.grabow@example.com",
+    "login": {
+      "uuid": "1499e6e7-4366-419c-97ef-4968b95f2ac7",
+      "username": "whitewolf338",
+      "password": "homepage",
+      "salt": "soAyeMUv",
+      "md5": "ec907c2a44ca53c24222d2c491aee166",
+      "sha1": "948d9f22de4d2e958c0198ceeba5afed4330abcd",
+      "sha256": "eeef0f42f2adc0a3eb4f207fffb77c7e505843bdd8a5703e686457c19d4c1e37"
+    },
+    "dob": {
+      "date": "1978-01-12T23:51:57.710Z",
+      "age": 46
+    },
+    "registered": {
+      "date": "2011-01-10T20:35:46.914Z",
+      "age": 13
+    },
+    "phone": "0763-9168422",
+    "cell": "0177-3919681",
+    "id": {
+      "name": "SVNR",
+      "value": "10 120178 G 097"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/53.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    },
+    "nat": "DE"
   }
 ]
