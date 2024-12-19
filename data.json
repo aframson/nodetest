@@ -4534,5 +4534,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Abhijith",
+      "last": "Banerjee"
+    },
+    "location": {
+      "street": {
+        "number": 1311,
+        "name": "Rani No Hajiro"
+      },
+      "city": "Jalgaon",
+      "state": "Delhi",
+      "country": "India",
+      "postcode": 36326,
+      "coordinates": {
+        "latitude": "6.3367",
+        "longitude": "-96.7964"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "abhijith.banerjee@example.com",
+    "login": {
+      "uuid": "0122b644-bb5e-4d01-9d8c-9e025eae08ad",
+      "username": "orangerabbit635",
+      "password": "spikes",
+      "salt": "SSw61agh",
+      "md5": "25eac79eb4be389c3ec4e23469dede76",
+      "sha1": "c2f763f43fc24f65c8a64861b458c1505babf199",
+      "sha256": "b757ce1d2b43fbc7e418cc0f636f9080926336ffe64c14bb4d0b35972fbfc469"
+    },
+    "dob": {
+      "date": "1997-05-24T19:32:56.373Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2002-04-03T15:56:14.131Z",
+      "age": 22
+    },
+    "phone": "7869056882",
+    "cell": "7887356010",
+    "id": {
+      "name": "UIDAI",
+      "value": "937133318013"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/17.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    },
+    "nat": "IN"
   }
 ]
