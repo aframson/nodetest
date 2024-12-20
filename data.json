@@ -5542,5 +5542,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Luis",
+      "last": "Muller"
+    },
+    "location": {
+      "street": {
+        "number": 9808,
+        "name": "Rue Jean-Baldassini"
+      },
+      "city": "Castaneda",
+      "state": "Jura",
+      "country": "Switzerland",
+      "postcode": 2123,
+      "coordinates": {
+        "latitude": "-62.7868",
+        "longitude": "-6.3338"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "luis.muller@example.com",
+    "login": {
+      "uuid": "9b6fe266-46e1-49d5-b38e-145b13f40ff0",
+      "username": "orangewolf165",
+      "password": "comfort",
+      "salt": "rz4eKYwS",
+      "md5": "2c2410a7dc9fa34f27abaccd1fe020c2",
+      "sha1": "91b70fd6e59670328c5f072d56ae5cac37724c0d",
+      "sha256": "1cb6c02d49029092dab2c73726abb553289a1655c7d462396db38af593278a26"
+    },
+    "dob": {
+      "date": "1962-01-16T07:38:38.461Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2009-02-12T00:56:50.510Z",
+      "age": 15
+    },
+    "phone": "076 920 99 06",
+    "cell": "076 664 37 24",
+    "id": {
+      "name": "AVS",
+      "value": "756.2493.7341.85"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/73.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    },
+    "nat": "CH"
   }
 ]
