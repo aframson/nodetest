@@ -5318,5 +5318,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Wolf",
+      "last": "Kleinert"
+    },
+    "location": {
+      "street": {
+        "number": 5402,
+        "name": "Gartenstraße"
+      },
+      "city": "Langenau",
+      "state": "Berlin",
+      "country": "Germany",
+      "postcode": 20732,
+      "coordinates": {
+        "latitude": "-50.3793",
+        "longitude": "-12.7180"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "wolf.kleinert@example.com",
+    "login": {
+      "uuid": "f7585721-05a1-4eef-837b-e33702c318e9",
+      "username": "heavyostrich932",
+      "password": "cococo",
+      "salt": "cvNd530X",
+      "md5": "232816acf7d18b941997859a63bec93f",
+      "sha1": "c0c65ef9810120b6aadb1f1c2da091a40a77722d",
+      "sha256": "0bcf075a2227f71c5f6f047b9191e91313a71a71e41453b4f70cfc6dd06478ce"
+    },
+    "dob": {
+      "date": "1955-06-20T06:13:10.982Z",
+      "age": 69
+    },
+    "registered": {
+      "date": "2006-06-25T20:02:39.877Z",
+      "age": 18
+    },
+    "phone": "0017-2159638",
+    "cell": "0175-0020488",
+    "id": {
+      "name": "SVNR",
+      "value": "79 200655 K 122"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/46.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+    },
+    "nat": "DE"
   }
 ]
