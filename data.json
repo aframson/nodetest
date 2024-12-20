@@ -5150,5 +5150,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nathan",
+      "last": "Jones"
+    },
+    "location": {
+      "street": {
+        "number": 8639,
+        "name": "Charles St"
+      },
+      "city": "Chesterville",
+      "state": "Alberta",
+      "country": "Canada",
+      "postcode": "E0V 8S4",
+      "coordinates": {
+        "latitude": "-69.0293",
+        "longitude": "-166.5373"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "nathan.jones@example.com",
+    "login": {
+      "uuid": "a7bd420b-ea23-4e54-b52b-503cb97a687b",
+      "username": "blackpanda392",
+      "password": "frisco",
+      "salt": "5Pio5urp",
+      "md5": "1961fe93c0220d22cecb37684b1c2561",
+      "sha1": "2d2c6611756a1072f0ea0a7015cea731958d7306",
+      "sha256": "991fb973551d06afce51c42e1a8c4fa8c5c5dcdccf88ca8f181bdd6e2bfd0b45"
+    },
+    "dob": {
+      "date": "1945-10-14T18:08:59.807Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2006-07-23T07:23:31.941Z",
+      "age": 18
+    },
+    "phone": "T54 R45-4734",
+    "cell": "G26 A56-8178",
+    "id": {
+      "name": "SIN",
+      "value": "752357079"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/77.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    },
+    "nat": "CA"
   }
 ]
