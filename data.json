@@ -5262,5 +5262,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Bradley",
+      "last": "Reyes"
+    },
+    "location": {
+      "street": {
+        "number": 715,
+        "name": "Washington Ave"
+      },
+      "city": "Chandler",
+      "state": "Utah",
+      "country": "United States",
+      "postcode": 28008,
+      "coordinates": {
+        "latitude": "89.4526",
+        "longitude": "-51.8699"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "bradley.reyes@example.com",
+    "login": {
+      "uuid": "1b71f2d3-e2bf-4338-ac40-ae9318f85619",
+      "username": "crazybird667",
+      "password": "samuel",
+      "salt": "6jT8loF5",
+      "md5": "6f94df9e8931fdd9e7dda8a31c11900f",
+      "sha1": "34c2f2372a9ad7f4f80db78daed2ab0dffe603d9",
+      "sha256": "dc7853fd4280a0cfb18f35fa6aad43aa9b7d32393d2d4b81076f5c34f6b2fc4d"
+    },
+    "dob": {
+      "date": "1997-07-04T10:17:54.299Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2014-09-13T10:42:07.442Z",
+      "age": 10
+    },
+    "phone": "(259) 634-1533",
+    "cell": "(754) 914-9533",
+    "id": {
+      "name": "SSN",
+      "value": "416-19-0240"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/24.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+    },
+    "nat": "US"
   }
 ]
