@@ -5374,5 +5374,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Virgil",
+      "last": "Cunningham"
+    },
+    "location": {
+      "street": {
+        "number": 4779,
+        "name": "Broadway"
+      },
+      "city": "Stoke-on-Trent",
+      "state": "Worcestershire",
+      "country": "United Kingdom",
+      "postcode": "E9M 4ZQ",
+      "coordinates": {
+        "latitude": "-9.5539",
+        "longitude": "-114.2969"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "virgil.cunningham@example.com",
+    "login": {
+      "uuid": "f2a70df4-b7dd-4904-bc04-ad8db9996396",
+      "username": "angryfish688",
+      "password": "rrrr",
+      "salt": "SCZ1Marn",
+      "md5": "99dbe97acc1969ae756ee97e880985c2",
+      "sha1": "884fcd691066e68207ed9060a6990e55cac5b460",
+      "sha256": "dce0dd62b7d2b4e551773c800a78d6d8e7f3a167cf94ad25f77e9b0b3c148fc1"
+    },
+    "dob": {
+      "date": "1991-11-27T11:30:04.687Z",
+      "age": 33
+    },
+    "registered": {
+      "date": "2013-04-04T01:14:46.471Z",
+      "age": 11
+    },
+    "phone": "0171 657 5874",
+    "cell": "07766 610717",
+    "id": {
+      "name": "NINO",
+      "value": "XZ 68 58 68 S"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/85.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    },
+    "nat": "GB"
   }
 ]
