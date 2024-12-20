@@ -5430,5 +5430,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jacob",
+      "last": "Patel"
+    },
+    "location": {
+      "street": {
+        "number": 5244,
+        "name": "Dieppe Ave"
+      },
+      "city": "Elgin",
+      "state": "Newfoundland and Labrador",
+      "country": "Canada",
+      "postcode": "R3E 2N6",
+      "coordinates": {
+        "latitude": "-67.5098",
+        "longitude": "-11.7421"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "jacob.patel@example.com",
+    "login": {
+      "uuid": "6be85458-b676-4985-9520-7f10f3adf358",
+      "username": "blackbird519",
+      "password": "eileen",
+      "salt": "TxEALFxM",
+      "md5": "b6f8f1e63b03e7381e57a47cc35866cd",
+      "sha1": "6d6105f93c77523f29db717334fe711470842f11",
+      "sha256": "ff97e192238c758ab3a2aa865e30f4be26ee08480a7a2e320b9dc1144e4ee015"
+    },
+    "dob": {
+      "date": "2000-08-04T18:04:46.836Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2003-11-16T15:17:41.398Z",
+      "age": 21
+    },
+    "phone": "Y26 V91-3531",
+    "cell": "P49 T82-4419",
+    "id": {
+      "name": "SIN",
+      "value": "725748537"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/1.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    },
+    "nat": "CA"
   }
 ]
