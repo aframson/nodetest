@@ -6270,5 +6270,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Guarani",
+      "last": "Almeida"
+    },
+    "location": {
+      "street": {
+        "number": 8756,
+        "name": "Rua São João "
+      },
+      "city": "Taboão da Serra",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "postcode": 61311,
+      "coordinates": {
+        "latitude": "-77.1390",
+        "longitude": "-55.3006"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "guarani.almeida@example.com",
+    "login": {
+      "uuid": "70aecef9-1aa5-4fc2-a2f6-9dd624b9d3aa",
+      "username": "yellowkoala644",
+      "password": "bootie",
+      "salt": "hOQv0Ujy",
+      "md5": "b1b3e80cacddadd555a3414a727c78b8",
+      "sha1": "c8d6f36c88fd2df5502cdc3a8618166167452cfb",
+      "sha256": "f54b7126ac2bda19ad229f9a74eccd0added9fd109b40464d5846cb01e55a45c"
+    },
+    "dob": {
+      "date": "1992-03-12T01:04:22.339Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2019-08-12T04:05:49.303Z",
+      "age": 5
+    },
+    "phone": "(12) 7682-6686",
+    "cell": "(27) 3086-0298",
+    "id": {
+      "name": "CPF",
+      "value": "223.593.770-22"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    },
+    "nat": "BR"
   }
 ]
