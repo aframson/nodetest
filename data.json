@@ -6326,5 +6326,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Javier",
+      "last": "Mora"
+    },
+    "location": {
+      "street": {
+        "number": 1647,
+        "name": "Calle del Arenal"
+      },
+      "city": "Palma de Mallorca",
+      "state": "Región de Murcia",
+      "country": "Spain",
+      "postcode": 11328,
+      "coordinates": {
+        "latitude": "-33.4269",
+        "longitude": "-66.4040"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "javier.mora@example.com",
+    "login": {
+      "uuid": "89e2caf0-682f-4eeb-99ad-4abbb3d2913c",
+      "username": "purpleswan346",
+      "password": "mikey",
+      "salt": "yHj054U2",
+      "md5": "695bb339852367d9b60226dd05456f69",
+      "sha1": "fadcc0d4d88d8ef3fb3b8766105252f3f3bb4ed1",
+      "sha256": "ce19a38dc79c571b48265ed93cab6c6ae97fc71fb19f290dcd217c25a056bbbe"
+    },
+    "dob": {
+      "date": "1980-11-05T19:04:42.655Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2016-10-31T20:44:29.036Z",
+      "age": 8
+    },
+    "phone": "971-816-028",
+    "cell": "649-699-216",
+    "id": {
+      "name": "DNI",
+      "value": "07283504-T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/69.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+    },
+    "nat": "ES"
   }
 ]
