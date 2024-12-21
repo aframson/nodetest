@@ -5990,5 +5990,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Addison",
+      "last": "Roy"
+    },
+    "location": {
+      "street": {
+        "number": 1886,
+        "name": "Maple Ave"
+      },
+      "city": "New Glasgow",
+      "state": "Newfoundland and Labrador",
+      "country": "Canada",
+      "postcode": "P8A 6D5",
+      "coordinates": {
+        "latitude": "-66.4200",
+        "longitude": "143.2236"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "addison.roy@example.com",
+    "login": {
+      "uuid": "0c8b3a96-25f8-4504-b22d-53e658637d0d",
+      "username": "smallgoose298",
+      "password": "buffa",
+      "salt": "t0Fvcp8l",
+      "md5": "bd4d7a008048cae674416dbaf1b17904",
+      "sha1": "0a78940fbe0753c15c7a3d9edf6db3d1e994d032",
+      "sha256": "c22b7b3fef0c2e55f84a52a89d5ffcd0f4ef345a864d8eeaeefbdab2ece370ba"
+    },
+    "dob": {
+      "date": "1995-10-17T10:00:56.136Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2010-07-18T11:16:54.751Z",
+      "age": 14
+    },
+    "phone": "N42 L80-8116",
+    "cell": "S90 Z28-9759",
+    "id": {
+      "name": "SIN",
+      "value": "305174609"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    },
+    "nat": "CA"
   }
 ]
