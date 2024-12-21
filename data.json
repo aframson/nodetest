@@ -6158,5 +6158,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Roman",
+      "last": "Marie"
+    },
+    "location": {
+      "street": {
+        "number": 1389,
+        "name": "Place de L'Abbé-Franz-Stock"
+      },
+      "city": "Fällanden",
+      "state": "Glarus",
+      "country": "Switzerland",
+      "postcode": 5337,
+      "coordinates": {
+        "latitude": "-60.5654",
+        "longitude": "-128.0713"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "roman.marie@example.com",
+    "login": {
+      "uuid": "d9123456-b021-4e05-aa98-6331731b9f49",
+      "username": "orangeleopard483",
+      "password": "objects",
+      "salt": "Rbkh5dvl",
+      "md5": "8a2905eb480152c20ee27deec3f00e48",
+      "sha1": "51ae9470ace7045dba97d385ef3879579295f79f",
+      "sha256": "88adb0b98b6bc84fea9f7d12c19ae8bcbecfc0d70144d69fbcc3ebff91d6e5e4"
+    },
+    "dob": {
+      "date": "1955-11-05T20:09:28.246Z",
+      "age": 69
+    },
+    "registered": {
+      "date": "2007-03-04T03:15:21.310Z",
+      "age": 17
+    },
+    "phone": "075 175 92 57",
+    "cell": "075 558 93 59",
+    "id": {
+      "name": "AVS",
+      "value": "756.4505.5108.67"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/10.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    },
+    "nat": "CH"
   }
 ]
