@@ -6382,5 +6382,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gaël",
+      "last": "Menard"
+    },
+    "location": {
+      "street": {
+        "number": 5415,
+        "name": "Rue Barrème"
+      },
+      "city": "Mulhouse",
+      "state": "Corrèze",
+      "country": "France",
+      "postcode": 70758,
+      "coordinates": {
+        "latitude": "-18.9381",
+        "longitude": "-61.8630"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "gael.menard@example.com",
+    "login": {
+      "uuid": "5ab8682a-465d-48ee-a4d7-f63e217e156c",
+      "username": "smallkoala970",
+      "password": "dimas",
+      "salt": "sBv1H56h",
+      "md5": "acb0ea4db7164a1d949b51c2a55755c5",
+      "sha1": "f4cd2112d134b2a9ec518b1f0f7d8ae05463f25e",
+      "sha256": "168b071c6f459970c87076fc5584c2641f064df82e2b1696946d3cf7a6f29c16"
+    },
+    "dob": {
+      "date": "1966-12-30T13:15:47.856Z",
+      "age": 57
+    },
+    "registered": {
+      "date": "2007-03-16T02:53:45.352Z",
+      "age": 17
+    },
+    "phone": "01-14-90-34-71",
+    "cell": "06-11-12-89-95",
+    "id": {
+      "name": "INSEE",
+      "value": "1661132401545 40"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/91.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    },
+    "nat": "FR"
   }
 ]
