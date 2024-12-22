@@ -6606,5 +6606,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Théo",
+      "last": "Gonzalez"
+    },
+    "location": {
+      "street": {
+        "number": 9762,
+        "name": "Avenue de la République"
+      },
+      "city": "Nanterre",
+      "state": "Seine-et-Marne",
+      "country": "France",
+      "postcode": 55979,
+      "coordinates": {
+        "latitude": "-18.9351",
+        "longitude": "-109.2307"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "theo.gonzalez@example.com",
+    "login": {
+      "uuid": "e67f09d8-9a3d-4669-be43-a66d0adc39f9",
+      "username": "crazyelephant681",
+      "password": "tacobell",
+      "salt": "LNm2yALn",
+      "md5": "ec81d168c79e5ce9ca5fff4dbe51f955",
+      "sha1": "a30968921a9396e95b4f8a0360d1d14c6b77c3e4",
+      "sha256": "3da0b22b7ad473c44c56d2eeddae2ccaab43b26880c8d6c58abca9fafd605cbc"
+    },
+    "dob": {
+      "date": "1969-03-05T05:48:09.019Z",
+      "age": 55
+    },
+    "registered": {
+      "date": "2010-01-14T23:16:27.037Z",
+      "age": 14
+    },
+    "phone": "01-68-82-69-51",
+    "cell": "06-37-58-38-15",
+    "id": {
+      "name": "INSEE",
+      "value": "1690285949177 94"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "FR"
   }
 ]
