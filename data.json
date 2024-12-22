@@ -6550,5 +6550,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Justin",
+      "last": "Li"
+    },
+    "location": {
+      "street": {
+        "number": 8224,
+        "name": "Grand Marais Ave"
+      },
+      "city": "Maidstone",
+      "state": "Nunavut",
+      "country": "Canada",
+      "postcode": "H9M 6Y2",
+      "coordinates": {
+        "latitude": "-70.0076",
+        "longitude": "-48.6050"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "justin.li@example.com",
+    "login": {
+      "uuid": "78ad888d-7df1-43f6-8efa-d1cfab79aa35",
+      "username": "yellowmouse854",
+      "password": "travel",
+      "salt": "BY8go7yV",
+      "md5": "279edc8d0cdab0da28e4f4c5e6e56203",
+      "sha1": "a3262373f47787a66b256a300274dde4249515aa",
+      "sha256": "20363203d3a609a456a2e397aa4bc38609f356725a8e10fb7251c5535b05c7d8"
+    },
+    "dob": {
+      "date": "1950-11-14T10:56:23.120Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2018-05-15T02:10:37.548Z",
+      "age": 6
+    },
+    "phone": "R74 O66-1384",
+    "cell": "Q13 O56-5458",
+    "id": {
+      "name": "SIN",
+      "value": "966790743"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/96.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    },
+    "nat": "CA"
   }
 ]
