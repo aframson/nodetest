@@ -6942,5 +6942,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Marvin",
+      "last": "Hayes"
+    },
+    "location": {
+      "street": {
+        "number": 3151,
+        "name": "O'Connell Street"
+      },
+      "city": "Cashel",
+      "state": "Kilkenny",
+      "country": "Ireland",
+      "postcode": 70172,
+      "coordinates": {
+        "latitude": "-0.9097",
+        "longitude": "-128.9054"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "marvin.hayes@example.com",
+    "login": {
+      "uuid": "a6b5936a-fce5-409f-8f22-df6079b6157e",
+      "username": "blackdog836",
+      "password": "vegitto",
+      "salt": "7W6xcJ8X",
+      "md5": "94ce8429972e175dd426254364db43c3",
+      "sha1": "85dd767c0cedac3d525fe723f3eddd8145cc2ab4",
+      "sha256": "ffd75bf4ab0de58109ce724c381d5052d7b8acdfa80a24bad7ececfa2ebc47c9"
+    },
+    "dob": {
+      "date": "1999-11-15T05:51:23.996Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2010-06-14T01:17:17.501Z",
+      "age": 14
+    },
+    "phone": "041-574-0349",
+    "cell": "081-371-9676",
+    "id": {
+      "name": "PPS",
+      "value": "8292920T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/1.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    },
+    "nat": "IE"
   }
 ]
