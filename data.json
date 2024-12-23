@@ -7446,5 +7446,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mademoiselle",
+      "first": "Jane",
+      "last": "Bernard"
+    },
+    "location": {
+      "street": {
+        "number": 8512,
+        "name": "Rue Abel-Gance"
+      },
+      "city": "Lohnstorf",
+      "state": "Graubünden",
+      "country": "Switzerland",
+      "postcode": 9180,
+      "coordinates": {
+        "latitude": "-61.6508",
+        "longitude": "104.8550"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "jane.bernard@example.com",
+    "login": {
+      "uuid": "7059d586-32d0-4fa3-86ba-3e03e3e57c99",
+      "username": "purpleduck893",
+      "password": "picard",
+      "salt": "iYa7PmWz",
+      "md5": "084cd47eed59664bbc40e798e861523e",
+      "sha1": "498fc2ff47b148320dc28473c175fb18db358354",
+      "sha256": "9dca3617342f3aac80008678b020a64220aa5f11243bb1641ce755c4136bffb4"
+    },
+    "dob": {
+      "date": "1945-05-31T20:39:07.136Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2006-12-13T20:24:58.145Z",
+      "age": 18
+    },
+    "phone": "076 486 60 67",
+    "cell": "075 842 84 65",
+    "id": {
+      "name": "AVS",
+      "value": "756.9065.7310.36"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+    },
+    "nat": "CH"
   }
 ]
