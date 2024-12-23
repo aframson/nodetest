@@ -7558,5 +7558,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Benjamin",
+      "last": "Rasmussen"
+    },
+    "location": {
+      "street": {
+        "number": 7688,
+        "name": "Ringgade"
+      },
+      "city": "Aalborg S.Ø.",
+      "state": "Danmark",
+      "country": "Denmark",
+      "postcode": 69188,
+      "coordinates": {
+        "latitude": "-44.9056",
+        "longitude": "-34.7123"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "benjamin.rasmussen@example.com",
+    "login": {
+      "uuid": "2d3ca01a-b7e9-4d12-bb69-f8e5ae577b0c",
+      "username": "happylion991",
+      "password": "poochie",
+      "salt": "TC5K2elT",
+      "md5": "add1511c0a3c242ad4d4ee4c4ec8602d",
+      "sha1": "df1e137e863ae7ff7ef0944d096428c1494cbe2d",
+      "sha256": "d636feb463ecd0e26e974b07a76de41e919ed5840209951c891295f5a6c7b510"
+    },
+    "dob": {
+      "date": "1973-12-11T22:02:26.419Z",
+      "age": 51
+    },
+    "registered": {
+      "date": "2020-07-22T19:51:11.142Z",
+      "age": 4
+    },
+    "phone": "69344707",
+    "cell": "80767058",
+    "id": {
+      "name": "CPR",
+      "value": "111273-1639"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "DK"
   }
 ]
