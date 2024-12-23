@@ -7670,5 +7670,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Dulce",
+      "last": "Ozuna"
+    },
+    "location": {
+      "street": {
+        "number": 6402,
+        "name": "Peatonal San Marino"
+      },
+      "city": "Santa María Zacatepec",
+      "state": "Estado de Mexico",
+      "country": "Mexico",
+      "postcode": 25962,
+      "coordinates": {
+        "latitude": "25.8595",
+        "longitude": "90.4452"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "dulce.ozuna@example.com",
+    "login": {
+      "uuid": "4a27acc5-2ade-4017-b68b-ee631f24917b",
+      "username": "sadtiger904",
+      "password": "lord",
+      "salt": "PZ3cfC8z",
+      "md5": "a5f7be9b30d21d1133b6a0b0730a9969",
+      "sha1": "955f7c8efe31e4452b72e0628e9c1d09f4496d16",
+      "sha256": "1d5bbfc9e1ca9f6dec5f064accf77f5f82baf61f5707c37835846c02835ec77c"
+    },
+    "dob": {
+      "date": "1966-10-25T11:30:30.095Z",
+      "age": 58
+    },
+    "registered": {
+      "date": "2007-03-09T17:19:37.324Z",
+      "age": 17
+    },
+    "phone": "(691) 260 4706",
+    "cell": "(654) 252 9024",
+    "id": {
+      "name": "NSS",
+      "value": "61 57 11 0740 1"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/6.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    },
+    "nat": "MX"
   }
 ]
