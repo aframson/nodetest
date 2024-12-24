@@ -7838,5 +7838,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Teodosije",
+      "last": "Živković"
+    },
+    "location": {
+      "street": {
+        "number": 213,
+        "name": "Velislava Vulovića"
+      },
+      "city": "Pećinci",
+      "state": "Peć",
+      "country": "Serbia",
+      "postcode": 31444,
+      "coordinates": {
+        "latitude": "59.4084",
+        "longitude": "-78.2789"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "teodosije.zivkovic@example.com",
+    "login": {
+      "uuid": "cff0e973-8be1-4603-a3bd-36cd9a8ee465",
+      "username": "redsnake317",
+      "password": "checkers",
+      "salt": "FU5fyamA",
+      "md5": "0eef2cd43d96472851f106daa166667a",
+      "sha1": "2a6338164b44da7673f50bbd809f17e414a5604e",
+      "sha256": "bb13bce9d1c76cbce38e30df36524b800dc417b98de5f3faca48d7de9c54527b"
+    },
+    "dob": {
+      "date": "1969-03-14T01:25:11.141Z",
+      "age": 55
+    },
+    "registered": {
+      "date": "2018-03-28T00:46:38.641Z",
+      "age": 6
+    },
+    "phone": "026-5982-437",
+    "cell": "064-2070-555",
+    "id": {
+      "name": "SID",
+      "value": "943297100"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/83.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    },
+    "nat": "RS"
   }
 ]
