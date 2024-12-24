@@ -8230,5 +8230,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sven",
+      "last": "Tveita"
+    },
+    "location": {
+      "street": {
+        "number": 2504,
+        "name": "Jegerveien"
+      },
+      "city": "Nordkisa",
+      "state": "Oslo",
+      "country": "Norway",
+      "postcode": "6290",
+      "coordinates": {
+        "latitude": "43.5531",
+        "longitude": "-94.1914"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "sven.tveita@example.com",
+    "login": {
+      "uuid": "de146994-eeb9-4831-be4c-9f86ba25f783",
+      "username": "crazyrabbit636",
+      "password": "valencia",
+      "salt": "34SLGodR",
+      "md5": "2b76b29fbad5971f79b5c3237d4727a7",
+      "sha1": "20b18b9c5f989a2a65034d1dbcc5d88174d80839",
+      "sha256": "679e844818f1df744590636874deaa6087350f7710039cdd606db8ae251528dc"
+    },
+    "dob": {
+      "date": "1999-11-14T21:26:46.661Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2012-06-01T16:08:07.348Z",
+      "age": 12
+    },
+    "phone": "76139452",
+    "cell": "49912674",
+    "id": {
+      "name": "FN",
+      "value": "14119919968"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/42.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    },
+    "nat": "NO"
   }
 ]
