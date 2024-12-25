@@ -8958,5 +8958,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jezdimir",
+      "last": "Vasić"
+    },
+    "location": {
+      "street": {
+        "number": 184,
+        "name": "Emila Zole"
+      },
+      "city": "Aranđelovac",
+      "state": "North Bačka",
+      "country": "Serbia",
+      "postcode": 87378,
+      "coordinates": {
+        "latitude": "55.7531",
+        "longitude": "-74.9106"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "jezdimir.vasic@example.com",
+    "login": {
+      "uuid": "5ec0307d-5875-49a5-acbb-c6fb2da89a45",
+      "username": "sadpanda787",
+      "password": "salvador",
+      "salt": "tFEvJOwi",
+      "md5": "61aaa9a4b761cb2f40dcb488a282c2b7",
+      "sha1": "dd314e58db8ab6e569960a695b55414c2e7851f4",
+      "sha256": "da60ebbcb5d9f6329d00764a147851ee9b9031bedbde00de200bed68fba25ead"
+    },
+    "dob": {
+      "date": "1966-06-15T11:42:43.825Z",
+      "age": 58
+    },
+    "registered": {
+      "date": "2021-07-14T05:32:30.795Z",
+      "age": 3
+    },
+    "phone": "018-6556-234",
+    "cell": "063-9747-568",
+    "id": {
+      "name": "SID",
+      "value": "575674300"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/69.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+    },
+    "nat": "RS"
   }
 ]
