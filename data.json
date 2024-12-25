@@ -8734,5 +8734,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dan",
+      "last": "Lane"
+    },
+    "location": {
+      "street": {
+        "number": 2672,
+        "name": "South Street"
+      },
+      "city": "City of London",
+      "state": "Powys",
+      "country": "United Kingdom",
+      "postcode": "J5 2SJ",
+      "coordinates": {
+        "latitude": "-4.8453",
+        "longitude": "-96.1433"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "dan.lane@example.com",
+    "login": {
+      "uuid": "3804b3b3-c1c2-4acd-a7ef-8ecdb838a164",
+      "username": "tinyzebra567",
+      "password": "idunno",
+      "salt": "XhYkNUZ3",
+      "md5": "4abfbfc5c2949f618fdfdf33a0ce29f6",
+      "sha1": "2a9030c45e70e17a542291b6fd42928f7a75d901",
+      "sha256": "630e3418db904520b394f7f6362c37631f2f0a8cf90b728094bba5646729e29d"
+    },
+    "dob": {
+      "date": "1995-01-04T01:59:21.777Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2017-07-22T15:36:14.956Z",
+      "age": 7
+    },
+    "phone": "017687 57094",
+    "cell": "07435 438008",
+    "id": {
+      "name": "NINO",
+      "value": "PH 52 71 48 P"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/85.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    },
+    "nat": "GB"
   }
 ]
