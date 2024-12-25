@@ -8790,5 +8790,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Kuzey",
+      "last": "Poyrazoğlu"
+    },
+    "location": {
+      "street": {
+        "number": 6554,
+        "name": "Istiklal Cd"
+      },
+      "city": "Afyonkarahisar",
+      "state": "Kocaeli",
+      "country": "Turkey",
+      "postcode": 23801,
+      "coordinates": {
+        "latitude": "66.6875",
+        "longitude": "-65.9942"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "kuzey.poyrazoglu@example.com",
+    "login": {
+      "uuid": "8a9a7082-c033-4ccb-9876-0425a22ad626",
+      "username": "lazygorilla126",
+      "password": "lestat",
+      "salt": "XapmXXTt",
+      "md5": "c7e7a39c0e943616680834d3828a3f6a",
+      "sha1": "c246bc000993abdc77645f048fc22ece0a7a20a6",
+      "sha256": "d0c4fdbb3f91375f6470be74ca4ae2a80003d908dbe8d80f7e5bff052432b211"
+    },
+    "dob": {
+      "date": "1960-07-23T23:08:19.354Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2005-10-01T07:38:48.198Z",
+      "age": 19
+    },
+    "phone": "(611)-684-1425",
+    "cell": "(951)-388-9422",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "TR"
   }
 ]
