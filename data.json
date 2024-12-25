@@ -8454,5 +8454,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Scott",
+      "last": "Røren"
+    },
+    "location": {
+      "street": {
+        "number": 97,
+        "name": "Sigurd Hoels vei"
+      },
+      "city": "Kolnes",
+      "state": "Finnmark - Finnmárku",
+      "country": "Norway",
+      "postcode": "3674",
+      "coordinates": {
+        "latitude": "40.7379",
+        "longitude": "-43.5991"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "scott.roren@example.com",
+    "login": {
+      "uuid": "cb30b633-9aa4-45e5-be59-81c2b3a927db",
+      "username": "greenlion604",
+      "password": "talk",
+      "salt": "LNPsv4u7",
+      "md5": "d60f23fa78e679567c85e558e833c7cd",
+      "sha1": "f3badb784ec6a45742866870eded24e16e3cc7af",
+      "sha256": "b6eb6791cf3b26521915d7608bba6a75c0136ee89591d716e398de2357c37eb2"
+    },
+    "dob": {
+      "date": "1950-07-28T21:29:40.271Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2017-11-18T15:41:04.042Z",
+      "age": 7
+    },
+    "phone": "72661487",
+    "cell": "41939598",
+    "id": {
+      "name": "FN",
+      "value": "28075026589"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/15.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+    },
+    "nat": "NO"
   }
 ]
