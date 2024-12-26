@@ -9406,5 +9406,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mademoiselle",
+      "first": "Miranda",
+      "last": "Brunet"
+    },
+    "location": {
+      "street": {
+        "number": 7199,
+        "name": "Rue de la Fontaine"
+      },
+      "city": "Deisswil bei Münchenbuchsee",
+      "state": "Uri",
+      "country": "Switzerland",
+      "postcode": 9262,
+      "coordinates": {
+        "latitude": "-58.6412",
+        "longitude": "128.6840"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "miranda.brunet@example.com",
+    "login": {
+      "uuid": "b182ba3d-f47c-44af-93b8-a72373edf965",
+      "username": "orangeostrich539",
+      "password": "popeye",
+      "salt": "qEVqQ72o",
+      "md5": "def1e339e73c9c8effcd48334cdf7bfb",
+      "sha1": "6abda5c947cfcf64e3650a58caac5d3cb1212b3e",
+      "sha256": "67b22ff8aef81fde1cc63cb053428aa9c9ce4e8848f26942dc2ad1bf8f22a0d4"
+    },
+    "dob": {
+      "date": "1953-03-24T19:12:58.969Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2007-03-25T04:20:31.326Z",
+      "age": 17
+    },
+    "phone": "079 953 30 35",
+    "cell": "078 000 95 73",
+    "id": {
+      "name": "AVS",
+      "value": "756.1602.7556.70"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/46.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+    },
+    "nat": "CH"
   }
 ]
