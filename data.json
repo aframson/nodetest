@@ -9238,5 +9238,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Leo",
+      "last": "Bergeron"
+    },
+    "location": {
+      "street": {
+        "number": 83,
+        "name": "Oak St"
+      },
+      "city": "Russell",
+      "state": "Québec",
+      "country": "Canada",
+      "postcode": "V8X 9R5",
+      "coordinates": {
+        "latitude": "-64.8287",
+        "longitude": "-78.4925"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "leo.bergeron@example.com",
+    "login": {
+      "uuid": "81b0abc3-8028-4106-9582-9eeb9f496eab",
+      "username": "lazydog611",
+      "password": "ebony",
+      "salt": "IalHgczK",
+      "md5": "ea76c90a2666c51086408a9bf965e6df",
+      "sha1": "f9eedd323e2fade5f3110a1f9591d78d73ca150e",
+      "sha256": "2b14b064cc642c656fa88533e7c35c78de9a5a1a9f9f0515e73dab4fb8de3ab4"
+    },
+    "dob": {
+      "date": "1996-06-13T00:53:41.170Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2019-12-03T04:38:45.406Z",
+      "age": 5
+    },
+    "phone": "Q93 P39-6798",
+    "cell": "F84 Y18-8600",
+    "id": {
+      "name": "SIN",
+      "value": "508125846"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/72.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+    },
+    "nat": "CA"
   }
 ]
