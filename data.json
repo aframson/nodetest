@@ -9686,5 +9686,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hans Peter",
+      "last": "Fengler"
+    },
+    "location": {
+      "street": {
+        "number": 521,
+        "name": "Poststraße"
+      },
+      "city": "Gießen",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "postcode": 99032,
+      "coordinates": {
+        "latitude": "-50.9855",
+        "longitude": "-129.3369"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "hanspeter.fengler@example.com",
+    "login": {
+      "uuid": "53a0c43f-ad1c-4271-93b8-e46637ba7f2f",
+      "username": "sadleopard939",
+      "password": "cassidy",
+      "salt": "P1gUiEgg",
+      "md5": "1a3b1bf78b3cad7c0427f68be139653e",
+      "sha1": "146dda23ba0e9f85492f4e5a78f361b786d0420f",
+      "sha256": "3565e3ed5e54d20a88d3d0df8c2a20557a84c1f4bc718a1a54cd3893a6dda324"
+    },
+    "dob": {
+      "date": "1961-05-31T02:14:43.278Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2010-09-26T23:15:06.572Z",
+      "age": 14
+    },
+    "phone": "0247-6491932",
+    "cell": "0179-8724391",
+    "id": {
+      "name": "SVNR",
+      "value": "53 300561 F 422"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/43.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+    },
+    "nat": "DE"
   }
 ]
