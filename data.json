@@ -9518,5 +9518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Daniel",
+      "last": "Robinson"
+    },
+    "location": {
+      "street": {
+        "number": 7946,
+        "name": "Beach Road"
+      },
+      "city": "Gisborne",
+      "state": "Canterbury",
+      "country": "New Zealand",
+      "postcode": 95231,
+      "coordinates": {
+        "latitude": "54.9998",
+        "longitude": "-174.9312"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "daniel.robinson@example.com",
+    "login": {
+      "uuid": "4a9c132f-72dc-4ba2-85cf-a5fbdee517a2",
+      "username": "silverzebra685",
+      "password": "dupont",
+      "salt": "Bi1XSPjH",
+      "md5": "06a6e2254682c584f1cba1e63e79fb5a",
+      "sha1": "d82e10cf964e21b987f2dd37f8f9c18ffa3eec9b",
+      "sha256": "2147ae499ce08baa3b3ac3ca2498ce3d7c01f6dbe0632b34b4369a506ee81bd3"
+    },
+    "dob": {
+      "date": "1965-06-28T23:01:04.397Z",
+      "age": 59
+    },
+    "registered": {
+      "date": "2021-04-21T00:19:42.718Z",
+      "age": 3
+    },
+    "phone": "(899)-304-6118",
+    "cell": "(476)-406-5794",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/70.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    },
+    "nat": "NZ"
   }
 ]
