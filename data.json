@@ -9630,5 +9630,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Batur",
+      "last": "Ertürk"
+    },
+    "location": {
+      "street": {
+        "number": 2223,
+        "name": "Abanoz Sk"
+      },
+      "city": "Ordu",
+      "state": "Eskişehir",
+      "country": "Turkey",
+      "postcode": 54751,
+      "coordinates": {
+        "latitude": "66.2380",
+        "longitude": "-146.4382"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "batur.erturk@example.com",
+    "login": {
+      "uuid": "16e36a57-0039-43ac-af81-6364c06069a2",
+      "username": "orangebird490",
+      "password": "whales",
+      "salt": "dbpMlOVA",
+      "md5": "2b72a3c92c35519fd660fcea08e535cb",
+      "sha1": "b00d2f19f80311c4426f5c09ba9f81626d4b5500",
+      "sha256": "cd7a21b2b980316b2fbc0c24cf21907b4b225caa2e9982dfe38b1e85c5f6544f"
+    },
+    "dob": {
+      "date": "1958-07-07T22:49:42.464Z",
+      "age": 66
+    },
+    "registered": {
+      "date": "2010-08-13T22:36:49.791Z",
+      "age": 14
+    },
+    "phone": "(704)-035-6145",
+    "cell": "(617)-565-6700",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/26.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    },
+    "nat": "TR"
   }
 ]
