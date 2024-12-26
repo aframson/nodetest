@@ -9182,5 +9182,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Valdemar",
+      "last": "Mortensen"
+    },
+    "location": {
+      "street": {
+        "number": 8522,
+        "name": "Poppelvej"
+      },
+      "city": "Argerskov",
+      "state": "Midtjylland",
+      "country": "Denmark",
+      "postcode": 33269,
+      "coordinates": {
+        "latitude": "-39.9976",
+        "longitude": "-98.8063"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "valdemar.mortensen@example.com",
+    "login": {
+      "uuid": "e84da154-6d73-4c0e-a1c8-33921a326a4b",
+      "username": "smallleopard276",
+      "password": "ametuer",
+      "salt": "A2DoVd3y",
+      "md5": "adcacf034b3d72283f07013a858d3a31",
+      "sha1": "c320fd4997516fa77137d625bf264e70a4f45ec4",
+      "sha256": "56446d31b1bebd8edf6a54865e409161263a4de2876a29b0d3d780dbacaae361"
+    },
+    "dob": {
+      "date": "1957-05-10T07:37:50.576Z",
+      "age": 67
+    },
+    "registered": {
+      "date": "2013-11-11T02:28:34.735Z",
+      "age": 11
+    },
+    "phone": "06214636",
+    "cell": "97901385",
+    "id": {
+      "name": "CPR",
+      "value": "100557-6682"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/18.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    },
+    "nat": "DK"
   }
 ]
