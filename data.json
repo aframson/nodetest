@@ -9462,5 +9462,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Livio",
+      "last": "Brunet"
+    },
+    "location": {
+      "street": {
+        "number": 3903,
+        "name": "Place de L'Europe"
+      },
+      "city": "Nice",
+      "state": "Moselle",
+      "country": "France",
+      "postcode": 89459,
+      "coordinates": {
+        "latitude": "-21.0207",
+        "longitude": "-112.8939"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "livio.brunet@example.com",
+    "login": {
+      "uuid": "71d639be-eaea-44bc-acdf-b81a1b41f5c2",
+      "username": "ticklishzebra764",
+      "password": "silver",
+      "salt": "3O4PqTYA",
+      "md5": "4109d04acd52b46960471196c1947dfc",
+      "sha1": "7e96354f2510169d6c828a1c9339fefa97f8f36d",
+      "sha256": "bbaafbfd75dfc249ce3a584c74eda132cac01cfc2af75dbfe30b48c557a53058"
+    },
+    "dob": {
+      "date": "1976-04-22T23:26:36.538Z",
+      "age": 48
+    },
+    "registered": {
+      "date": "2004-08-13T16:10:37.471Z",
+      "age": 20
+    },
+    "phone": "01-72-09-37-16",
+    "cell": "06-24-13-11-63",
+    "id": {
+      "name": "INSEE",
+      "value": "1760309910662 79"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/68.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    },
+    "nat": "FR"
   }
 ]
