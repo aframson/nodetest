@@ -9854,5 +9854,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Johan",
+      "last": "Pedersen"
+    },
+    "location": {
+      "street": {
+        "number": 7996,
+        "name": "Septembervej"
+      },
+      "city": "Stenderup",
+      "state": "Danmark",
+      "country": "Denmark",
+      "postcode": 31620,
+      "coordinates": {
+        "latitude": "-38.6251",
+        "longitude": "-125.4055"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "johan.pedersen@example.com",
+    "login": {
+      "uuid": "6b9cbc03-e072-424a-ac25-87c4f8703f48",
+      "username": "bluefrog560",
+      "password": "show",
+      "salt": "4bCikrQA",
+      "md5": "181e9007a24d1300e571f85324199ad2",
+      "sha1": "85a6639835546ae99fdd032b755d24ec2e215570",
+      "sha256": "5f0a80e3da30e4299c49a715584ab236e0209f4ed8254de2a7ee62f029eee562"
+    },
+    "dob": {
+      "date": "1972-10-03T14:42:00.680Z",
+      "age": 52
+    },
+    "registered": {
+      "date": "2018-03-24T02:58:13.860Z",
+      "age": 6
+    },
+    "phone": "95402925",
+    "cell": "54800323",
+    "id": {
+      "name": "CPR",
+      "value": "031072-9394"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/30.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+    },
+    "nat": "DK"
   }
 ]
