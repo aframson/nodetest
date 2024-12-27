@@ -10190,5 +10190,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Horst",
+      "last": "Lemoine"
+    },
+    "location": {
+      "street": {
+        "number": 410,
+        "name": "Rue du Château"
+      },
+      "city": "Bettingen",
+      "state": "Appenzell Innerrhoden",
+      "country": "Switzerland",
+      "postcode": 2841,
+      "coordinates": {
+        "latitude": "-62.9105",
+        "longitude": "-11.6741"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "horst.lemoine@example.com",
+    "login": {
+      "uuid": "68d0c112-1e1f-4ee8-93b9-b22539c23eea",
+      "username": "sadmeercat728",
+      "password": "codered",
+      "salt": "f3g856Gx",
+      "md5": "9e0e204a164bbb54c4b4aa6a316cf860",
+      "sha1": "fd31b17dd1074010a4f0898c40163a4f74bf5df7",
+      "sha256": "4d1a85e017412ef19edee92ddefe2fc04f93d178e8163c0ba5c35d91d4e5118b"
+    },
+    "dob": {
+      "date": "1954-12-26T03:07:33.739Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2005-06-28T15:22:54.111Z",
+      "age": 19
+    },
+    "phone": "077 812 88 66",
+    "cell": "076 203 90 87",
+    "id": {
+      "name": "AVS",
+      "value": "756.5695.8699.19"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/37.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    },
+    "nat": "CH"
   }
 ]
