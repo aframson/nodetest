@@ -9910,5 +9910,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mateo",
+      "last": "Rolón"
+    },
+    "location": {
+      "street": {
+        "number": 1426,
+        "name": "Circunvalación Nayarit"
+      },
+      "city": "San Andrés Coru",
+      "state": "Chiapas",
+      "country": "Mexico",
+      "postcode": 89579,
+      "coordinates": {
+        "latitude": "28.3439",
+        "longitude": "-67.9598"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "mateo.rolon@example.com",
+    "login": {
+      "uuid": "acd26a2e-3056-4acf-a9db-33dc85a2888e",
+      "username": "tinypanda272",
+      "password": "molly",
+      "salt": "obuyNX9P",
+      "md5": "c79a51bbd6062b19ca54ce5468d2674f",
+      "sha1": "f9e46b3907bb5474c2c7c456c1ac6e11f55285ce",
+      "sha256": "1c9c2aa0794e72874c5909559e02a03a24d4bade31a6cde9a0a5e5226c54dd0a"
+    },
+    "dob": {
+      "date": "1958-01-11T09:55:19.523Z",
+      "age": 66
+    },
+    "registered": {
+      "date": "2019-06-19T07:35:23.860Z",
+      "age": 5
+    },
+    "phone": "(653) 615 5592",
+    "cell": "(680) 265 5860",
+    "id": {
+      "name": "NSS",
+      "value": "79 84 53 5607 2"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/78.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+    },
+    "nat": "MX"
   }
 ]
