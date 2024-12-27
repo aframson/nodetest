@@ -10022,5 +10022,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alexandre",
+      "last": "Andersen"
+    },
+    "location": {
+      "street": {
+        "number": 5926,
+        "name": "Cedar St"
+      },
+      "city": "Chipman",
+      "state": "Newfoundland and Labrador",
+      "country": "Canada",
+      "postcode": "N5Z 1L3",
+      "coordinates": {
+        "latitude": "-65.8201",
+        "longitude": "-12.4930"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "alexandre.andersen@example.com",
+    "login": {
+      "uuid": "00f9335c-40c7-4663-bb2a-092ab37c5dbd",
+      "username": "blueostrich124",
+      "password": "pipeline",
+      "salt": "rdWCxymD",
+      "md5": "1ec9855b224e7a4e8426820299e2926e",
+      "sha1": "40fd4d09ba445fd38ad85382196151e616757c6c",
+      "sha256": "cd238eb5b3ef022224e4c17db230e8891daaece10f04d45d954128473919b5be"
+    },
+    "dob": {
+      "date": "1979-05-26T17:23:19.597Z",
+      "age": 45
+    },
+    "registered": {
+      "date": "2005-04-09T16:22:00.693Z",
+      "age": 19
+    },
+    "phone": "S24 U38-7846",
+    "cell": "G24 E80-4918",
+    "id": {
+      "name": "SIN",
+      "value": "738189745"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/67.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+    },
+    "nat": "CA"
   }
 ]
