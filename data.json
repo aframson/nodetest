@@ -10582,5 +10582,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sergio",
+      "last": "Pulido"
+    },
+    "location": {
+      "street": {
+        "number": 9312,
+        "name": "Prolongación Norte Arce"
+      },
+      "city": "San Lucas Ojitlán",
+      "state": "Baja California",
+      "country": "Mexico",
+      "postcode": 20988,
+      "coordinates": {
+        "latitude": "28.6955",
+        "longitude": "-107.5823"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "sergio.pulido@example.com",
+    "login": {
+      "uuid": "ebdeeb01-7ac7-4b4f-b068-65e53e6519f2",
+      "username": "happyleopard465",
+      "password": "4444",
+      "salt": "BQWDSq80",
+      "md5": "81da479fde6c54021090e42ee8375677",
+      "sha1": "4536a4fad3ca01df1713196b3fcdaef3de6d30cc",
+      "sha256": "386112f33840cec92a7b11a5404ed152fce5692b62b86d6e536dfb5ae5eef058"
+    },
+    "dob": {
+      "date": "1965-09-20T11:40:34.850Z",
+      "age": 59
+    },
+    "registered": {
+      "date": "2020-10-18T08:07:19.985Z",
+      "age": 4
+    },
+    "phone": "(628) 431 5910",
+    "cell": "(683) 425 9004",
+    "id": {
+      "name": "NSS",
+      "value": "92 31 14 7798 9"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/31.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+    },
+    "nat": "MX"
   }
 ]
