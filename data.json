@@ -10806,5 +10806,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Luis",
+      "last": "Crawford"
+    },
+    "location": {
+      "street": {
+        "number": 4468,
+        "name": "Oak Ridge Ln"
+      },
+      "city": "Albany",
+      "state": "Northern Territory",
+      "country": "Australia",
+      "postcode": 7866,
+      "coordinates": {
+        "latitude": "-88.2914",
+        "longitude": "-83.6643"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "luis.crawford@example.com",
+    "login": {
+      "uuid": "a2479052-c4d6-4380-bc8e-971b5fb3ea1d",
+      "username": "orangetiger612",
+      "password": "rommel",
+      "salt": "VqZAnId9",
+      "md5": "3b7edc862c25c869813dbac298794085",
+      "sha1": "262cc3ed96d8e1b6014d8d08f272868aabe36ea8",
+      "sha256": "83f57150b2a131165deb995d7724d1bc282f140dd1f275eb8c5a30751d1655ff"
+    },
+    "dob": {
+      "date": "1970-05-24T06:29:31.874Z",
+      "age": 54
+    },
+    "registered": {
+      "date": "2003-09-02T14:30:41.145Z",
+      "age": 21
+    },
+    "phone": "03-9628-6082",
+    "cell": "0489-335-032",
+    "id": {
+      "name": "TFN",
+      "value": "357754963"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/74.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    },
+    "nat": "AU"
   }
 ]
