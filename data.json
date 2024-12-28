@@ -10974,5 +10974,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Malte",
+      "last": "Paasche"
+    },
+    "location": {
+      "street": {
+        "number": 3960,
+        "name": "Heimlibakken"
+      },
+      "city": "Drøbak",
+      "state": "Hordaland",
+      "country": "Norway",
+      "postcode": "9137",
+      "coordinates": {
+        "latitude": "44.6023",
+        "longitude": "-66.0264"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "malte.paasche@example.com",
+    "login": {
+      "uuid": "9ae6515c-6872-49a5-8529-213a9f736606",
+      "username": "blackmouse224",
+      "password": "felix",
+      "salt": "zFEiLPwX",
+      "md5": "285fd8727117a254cb97efb2ef954cc2",
+      "sha1": "6b78e09afff78bbab726082588570f9774197436",
+      "sha256": "0bab62024225a2ef9a5be842a5b637710b950f19e6f658c813d994320f484818"
+    },
+    "dob": {
+      "date": "1948-04-15T15:04:08.233Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2006-02-20T10:54:45.755Z",
+      "age": 18
+    },
+    "phone": "69424303",
+    "cell": "41903321",
+    "id": {
+      "name": "FN",
+      "value": "15044846141"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/66.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    },
+    "nat": "NO"
   }
 ]
