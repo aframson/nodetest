@@ -11086,5 +11086,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Eduardo",
+      "last": "Muñoz"
+    },
+    "location": {
+      "street": {
+        "number": 1523,
+        "name": "Avenida de Castilla"
+      },
+      "city": "Santiago de Compostela",
+      "state": "Castilla la Mancha",
+      "country": "Spain",
+      "postcode": 14755,
+      "coordinates": {
+        "latitude": "-30.1165",
+        "longitude": "-43.5018"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "eduardo.munoz@example.com",
+    "login": {
+      "uuid": "4a421c40-f024-449c-8a71-46e75211a8ce",
+      "username": "lazybutterfly365",
+      "password": "newbie",
+      "salt": "7djstLVs",
+      "md5": "9f7b33adafbd5faab0db1fbc41b68ec3",
+      "sha1": "e8d2633c66e13095f9c6f6e12127893851d8ea17",
+      "sha256": "ec55c6ac625c62b61ef85a062ee38d050941e898bd118c7e86660642da0d180d"
+    },
+    "dob": {
+      "date": "1968-12-06T11:48:54.386Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2020-03-01T15:26:29.493Z",
+      "age": 4
+    },
+    "phone": "931-106-578",
+    "cell": "651-593-624",
+    "id": {
+      "name": "DNI",
+      "value": "34912185-S"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/49.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    },
+    "nat": "ES"
   }
 ]
