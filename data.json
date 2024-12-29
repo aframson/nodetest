@@ -11758,5 +11758,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
     },
     "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hussein",
+      "last": "Dyrhaug"
+    },
+    "location": {
+      "street": {
+        "number": 6903,
+        "name": "Pans vei"
+      },
+      "city": "Ski",
+      "state": "Sør-Trøndelag",
+      "country": "Norway",
+      "postcode": "4683",
+      "coordinates": {
+        "latitude": "43.4039",
+        "longitude": "-132.0884"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "hussein.dyrhaug@example.com",
+    "login": {
+      "uuid": "526babb4-dfea-4e06-a9ba-d88dc6385569",
+      "username": "silvermouse832",
+      "password": "mollydog",
+      "salt": "Z96P5ay5",
+      "md5": "b621e6743210ea764ff5f67efab4cc20",
+      "sha1": "6eca17d0d3d7004cc36e7ee09045e3f7f7ab9c5e",
+      "sha256": "dd993e0e0262aa7eb2284ad82e5b57698daccf58d4e57cd97ed1c2f8b68bc3e6"
+    },
+    "dob": {
+      "date": "1974-07-04T06:27:41.748Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2012-09-26T20:55:51.423Z",
+      "age": 12
+    },
+    "phone": "74253345",
+    "cell": "92049897",
+    "id": {
+      "name": "FN",
+      "value": "04077449936"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/83.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    },
+    "nat": "NO"
   }
 ]
