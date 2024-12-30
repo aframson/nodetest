@@ -11814,5 +11814,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Lucas",
+      "last": "Barrios"
+    },
+    "location": {
+      "street": {
+        "number": 4066,
+        "name": "Diagonal Nuevo León"
+      },
+      "city": "Cosamaloapan",
+      "state": "Michoacan",
+      "country": "Mexico",
+      "postcode": 97502,
+      "coordinates": {
+        "latitude": "29.9654",
+        "longitude": "-23.5007"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "lucas.barrios@example.com",
+    "login": {
+      "uuid": "91e6937f-ee66-4213-a757-d28da830f214",
+      "username": "goldenkoala863",
+      "password": "james1",
+      "salt": "65zAiglx",
+      "md5": "dd000b75da3513e931ab4ca0944dcb84",
+      "sha1": "1a3f153de39728b3ffcc7fe0f85384e7d7452a9c",
+      "sha256": "0f45fb4b66ca8ba7d7482e833400bda1a22f386144838e70673f335e3859610a"
+    },
+    "dob": {
+      "date": "1954-09-09T21:40:04.768Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2012-06-11T14:30:22.646Z",
+      "age": 12
+    },
+    "phone": "(665) 209 1026",
+    "cell": "(613) 434 9688",
+    "id": {
+      "name": "NSS",
+      "value": "09 06 95 5502 2"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/83.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    },
+    "nat": "MX"
   }
 ]
