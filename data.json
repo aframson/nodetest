@@ -12262,5 +12262,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Lucas",
+      "last": "Morales"
+    },
+    "location": {
+      "street": {
+        "number": 8690,
+        "name": "Calle de La Almudena"
+      },
+      "city": "Alcalá de Henares",
+      "state": "Asturias",
+      "country": "Spain",
+      "postcode": 32414,
+      "coordinates": {
+        "latitude": "-38.4117",
+        "longitude": "-170.6126"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "lucas.morales@example.com",
+    "login": {
+      "uuid": "a92d7023-2594-4e38-89b9-7f14f54db5c4",
+      "username": "silverlion505",
+      "password": "meme",
+      "salt": "kuJq3pGV",
+      "md5": "7ca1da154523d604f689512b7ca23717",
+      "sha1": "c20ee3761337720585b44a689f4ffeac36e73110",
+      "sha256": "ea484d33c2f0f9e1f368c9733d390e4db17f0987c142b64952ad10af52c95a0c"
+    },
+    "dob": {
+      "date": "1998-01-12T18:02:31.897Z",
+      "age": 26
+    },
+    "registered": {
+      "date": "2004-05-03T08:51:41.147Z",
+      "age": 20
+    },
+    "phone": "993-287-372",
+    "cell": "691-156-659",
+    "id": {
+      "name": "DNI",
+      "value": "02560362-M"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/29.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+    },
+    "nat": "ES"
   }
 ]
