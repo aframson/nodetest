@@ -12318,5 +12318,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Divyesh",
+      "last": "Saniel"
+    },
+    "location": {
+      "street": {
+        "number": 3159,
+        "name": "Pali Hill"
+      },
+      "city": "Raurkela Industrial Township",
+      "state": "Nagaland",
+      "country": "India",
+      "postcode": 22383,
+      "coordinates": {
+        "latitude": "12.5980",
+        "longitude": "-148.5414"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "divyesh.saniel@example.com",
+    "login": {
+      "uuid": "5cd5acb2-ecb8-443b-85e1-4680d061b849",
+      "username": "whitebutterfly352",
+      "password": "florida1",
+      "salt": "4VTFqoRs",
+      "md5": "eaa8f3f02d7ade76d22560c17de44537",
+      "sha1": "e24a406fefa42ce0cd952a6d6c4b92d3aa6c1ffb",
+      "sha256": "3fd3b284b7ddbbd18c7e94d729302af1112b5df160ea8e1765b1efd4f0c88bc5"
+    },
+    "dob": {
+      "date": "1968-06-16T13:18:10.043Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2013-05-19T16:57:28.032Z",
+      "age": 11
+    },
+    "phone": "9040752615",
+    "cell": "8266681304",
+    "id": {
+      "name": "UIDAI",
+      "value": "674985486993"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/3.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    },
+    "nat": "IN"
   }
 ]
