@@ -12150,5 +12150,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mademoiselle",
+      "first": "Delphine",
+      "last": "Chevalier"
+    },
+    "location": {
+      "street": {
+        "number": 5754,
+        "name": "Rue de la Mairie"
+      },
+      "city": "Benken (Zh)",
+      "state": "Uri",
+      "country": "Switzerland",
+      "postcode": 8870,
+      "coordinates": {
+        "latitude": "-56.4328",
+        "longitude": "4.1942"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "delphine.chevalier@example.com",
+    "login": {
+      "uuid": "32139a1d-3e86-410a-929a-fc76b2daaa60",
+      "username": "redwolf829",
+      "password": "milkman",
+      "salt": "6GygaNxj",
+      "md5": "61ecfcac4db68ebed0ab773319d5d55b",
+      "sha1": "c250a8d9cef4bfdeaedb0a98cc5937cf7282b86d",
+      "sha256": "eb8781ccc597f940a3f8df516648a40fbc46aa9ebf788f1b1a2f111cfe718001"
+    },
+    "dob": {
+      "date": "1971-08-22T12:25:31.564Z",
+      "age": 53
+    },
+    "registered": {
+      "date": "2010-03-06T20:22:13.683Z",
+      "age": 14
+    },
+    "phone": "078 663 03 58",
+    "cell": "077 851 30 24",
+    "id": {
+      "name": "AVS",
+      "value": "756.7273.9138.77"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/68.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    },
+    "nat": "CH"
   }
 ]
