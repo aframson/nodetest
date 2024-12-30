@@ -12038,5 +12038,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mustafa",
+      "last": "Aclan"
+    },
+    "location": {
+      "street": {
+        "number": 4705,
+        "name": "Anafartalar Cd"
+      },
+      "city": "Adıyaman",
+      "state": "Afyonkarahisar",
+      "country": "Turkey",
+      "postcode": 34061,
+      "coordinates": {
+        "latitude": "71.1275",
+        "longitude": "-28.6561"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "mustafa.aclan@example.com",
+    "login": {
+      "uuid": "b0871004-6dee-4033-9949-24ef82436b65",
+      "username": "crazymeercat256",
+      "password": "marian",
+      "salt": "xZ35dmof",
+      "md5": "dbfc8f4b5f1e58359cd548698ac91d02",
+      "sha1": "ffb1b8e684cb7b87e137db972863927c33982ba3",
+      "sha256": "f738c222309fa9b9fc3c42a03d177886ff713f769d839b121c70fd454cb9f7a0"
+    },
+    "dob": {
+      "date": "1960-11-18T22:19:36.604Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2020-07-06T05:37:43.761Z",
+      "age": 4
+    },
+    "phone": "(512)-237-3367",
+    "cell": "(073)-546-2216",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/94.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+    },
+    "nat": "TR"
   }
 ]
