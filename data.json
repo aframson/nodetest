@@ -11926,5 +11926,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mirko",
+      "last": "Rodić"
+    },
+    "location": {
+      "street": {
+        "number": 812,
+        "name": "Janka Šafarika "
+      },
+      "city": "Stara Pazova",
+      "state": "Kosovo-Pomoravlje",
+      "country": "Serbia",
+      "postcode": 31854,
+      "coordinates": {
+        "latitude": "58.1965",
+        "longitude": "-37.5077"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "mirko.rodic@example.com",
+    "login": {
+      "uuid": "8a715c33-184f-4e1d-92c7-45890f66f2f8",
+      "username": "silverladybug327",
+      "password": "brigitte",
+      "salt": "eHq06hZZ",
+      "md5": "c3e76b5684945af066fcac1b9d4246b3",
+      "sha1": "e7971d51f4e5b0674a25100d1857357aa6b471bf",
+      "sha256": "4613d8aa431cf9e1eb410252655815fabea36cc7caee2fdee694f904586725ba"
+    },
+    "dob": {
+      "date": "1962-11-20T16:46:05.585Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2012-05-01T19:43:05.036Z",
+      "age": 12
+    },
+    "phone": "019-4491-954",
+    "cell": "065-8739-103",
+    "id": {
+      "name": "SID",
+      "value": "264867242"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/56.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    },
+    "nat": "RS"
   }
 ]
