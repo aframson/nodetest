@@ -12374,5 +12374,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Avi",
+      "last": "Kumari"
+    },
+    "location": {
+      "street": {
+        "number": 5299,
+        "name": "Somwar Peth"
+      },
+      "city": "Warangal",
+      "state": "Chhattisgarh",
+      "country": "India",
+      "postcode": 95595,
+      "coordinates": {
+        "latitude": "12.0788",
+        "longitude": "-146.5219"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "avi.kumari@example.com",
+    "login": {
+      "uuid": "2758ef3f-5aff-4f1d-80c3-ccaa8c56e1dd",
+      "username": "smallduck784",
+      "password": "353535",
+      "salt": "tP807f1F",
+      "md5": "6af0fe0e6599194224c618ad39a8680c",
+      "sha1": "7472248da2661562816e2eb06944a645e06d4f4a",
+      "sha256": "4ddf51fa874809e62da27e24995b24991b958856cbbbfe633557a05f60a67c41"
+    },
+    "dob": {
+      "date": "1987-07-03T20:23:19.447Z",
+      "age": 37
+    },
+    "registered": {
+      "date": "2016-01-15T03:35:04.311Z",
+      "age": 8
+    },
+    "phone": "8733918807",
+    "cell": "9046861124",
+    "id": {
+      "name": "UIDAI",
+      "value": "388920178197"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/68.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    },
+    "nat": "IN"
   }
 ]
