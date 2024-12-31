@@ -12542,5 +12542,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
     },
     "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Elouan",
+      "last": "Moulin"
+    },
+    "location": {
+      "street": {
+        "number": 1284,
+        "name": "Avenue Paul Eluard"
+      },
+      "city": "Villeurbanne",
+      "state": "Meurthe-et-Moselle",
+      "country": "France",
+      "postcode": 54241,
+      "coordinates": {
+        "latitude": "-20.8253",
+        "longitude": "-89.1112"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "elouan.moulin@example.com",
+    "login": {
+      "uuid": "3b321fa7-7324-4fcf-b57f-f66eb69d71cc",
+      "username": "heavyzebra975",
+      "password": "fletch",
+      "salt": "Cpls9W7n",
+      "md5": "7b3e815e493e68dfdd97390073e0d1fd",
+      "sha1": "a6bea3f698859320ad1f64e3727ce793e6d79ce3",
+      "sha256": "c6a5b428c6114cf5afe0cd2bbcafc26945c5ae81525d9c3f5894723f2f68cf38"
+    },
+    "dob": {
+      "date": "1967-01-02T16:24:06.768Z",
+      "age": 57
+    },
+    "registered": {
+      "date": "2010-02-17T02:11:22.939Z",
+      "age": 14
+    },
+    "phone": "04-46-84-17-76",
+    "cell": "06-97-87-50-84",
+    "id": {
+      "name": "INSEE",
+      "value": "1670078967045 38"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/90.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+    },
+    "nat": "FR"
   }
 ]
