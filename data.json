@@ -12598,5 +12598,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Fernando",
+      "last": "Lemaire"
+    },
+    "location": {
+      "street": {
+        "number": 1991,
+        "name": "Rue Jean-Baldassini"
+      },
+      "city": "Mels",
+      "state": "Graubünden",
+      "country": "Switzerland",
+      "postcode": 6931,
+      "coordinates": {
+        "latitude": "-55.9272",
+        "longitude": "-155.3217"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "fernando.lemaire@example.com",
+    "login": {
+      "uuid": "4823e850-7e90-4752-95a1-cc9eabaa0822",
+      "username": "purplebird823",
+      "password": "east",
+      "salt": "C5MaEwjM",
+      "md5": "ccd66ed0785194040680aef94ff32bc0",
+      "sha1": "850b05af799fe240a4292ad4168bb8bbc294ba97",
+      "sha256": "fb4c7b4bd510394319657ae6581731b72c5d1405fdbf2db25a045976f48f32b5"
+    },
+    "dob": {
+      "date": "1987-10-17T02:19:27.961Z",
+      "age": 37
+    },
+    "registered": {
+      "date": "2014-07-25T03:38:16.514Z",
+      "age": 10
+    },
+    "phone": "078 660 51 17",
+    "cell": "076 642 62 94",
+    "id": {
+      "name": "AVS",
+      "value": "756.0686.7873.72"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/91.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    },
+    "nat": "CH"
   }
 ]
