@@ -12654,5 +12654,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Noah",
+      "last": "Mortensen"
+    },
+    "location": {
+      "street": {
+        "number": 3468,
+        "name": "Hovedvejen"
+      },
+      "city": "Ansager",
+      "state": "Sjælland",
+      "country": "Denmark",
+      "postcode": 62634,
+      "coordinates": {
+        "latitude": "-46.9452",
+        "longitude": "-120.4329"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "noah.mortensen@example.com",
+    "login": {
+      "uuid": "b85551c9-135d-4556-b8cb-caa81ed22124",
+      "username": "smallpanda820",
+      "password": "kingdom",
+      "salt": "hotZwvy7",
+      "md5": "957eca6ddb0c99c33003bedb23b907ac",
+      "sha1": "6083583413ebbedd6cc3e6269cc67f270c114f7c",
+      "sha256": "be3e11efd8d61e016272c69437b23ed8984cffd907dd76d43922a848b78c1293"
+    },
+    "dob": {
+      "date": "1982-04-10T04:53:52.944Z",
+      "age": 42
+    },
+    "registered": {
+      "date": "2015-03-26T19:03:12.944Z",
+      "age": 9
+    },
+    "phone": "18811113",
+    "cell": "94543760",
+    "id": {
+      "name": "CPR",
+      "value": "090482-7904"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/54.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+    },
+    "nat": "DK"
   }
 ]
