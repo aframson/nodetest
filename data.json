@@ -13606,5 +13606,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Milorad",
+      "last": "Vidaković"
+    },
+    "location": {
+      "street": {
+        "number": 7552,
+        "name": "Petrovića Brdo"
+      },
+      "city": "Ub",
+      "state": "Pčinja",
+      "country": "Serbia",
+      "postcode": 72517,
+      "coordinates": {
+        "latitude": "60.7040",
+        "longitude": "-82.8259"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "milorad.vidakovic@example.com",
+    "login": {
+      "uuid": "7e9cadab-7914-423a-bd9f-dc74f2c05207",
+      "username": "organiczebra877",
+      "password": "snoopy1",
+      "salt": "BKfrjoNE",
+      "md5": "c7de955b244ca430a83c1a67d3a80b97",
+      "sha1": "215c502e45ebeae3e952cec76f3e968a359439db",
+      "sha256": "3245084b788ea4e7d1666c431af37325b7f206ef58f25410cdf824daa697ffe5"
+    },
+    "dob": {
+      "date": "1989-07-24T04:15:39.500Z",
+      "age": 35
+    },
+    "registered": {
+      "date": "2012-02-28T09:59:26.848Z",
+      "age": 12
+    },
+    "phone": "031-8031-046",
+    "cell": "067-9563-789",
+    "id": {
+      "name": "SID",
+      "value": "844035026"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/30.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+    },
+    "nat": "RS"
   }
 ]
