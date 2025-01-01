@@ -13270,5 +13270,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ethan",
+      "last": "Li"
+    },
+    "location": {
+      "street": {
+        "number": 7621,
+        "name": "Balmoral St"
+      },
+      "city": "Armstrong",
+      "state": "Northwest Territories",
+      "country": "Canada",
+      "postcode": "F2B 7H1",
+      "coordinates": {
+        "latitude": "-70.0248",
+        "longitude": "-3.3799"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "ethan.li@example.com",
+    "login": {
+      "uuid": "587c207e-3e4f-4de8-92e0-3c3ca23b5e1f",
+      "username": "tinybear321",
+      "password": "boogie",
+      "salt": "o3q8Y3I2",
+      "md5": "483830d83e1a8ed50d613ad1521b818a",
+      "sha1": "87bd794f3685a5cc5f5e9ad5bef494ab086316ee",
+      "sha256": "c7ed5e9306c437ddb3112448b127c096f6763fab6d7895472e76da030089802f"
+    },
+    "dob": {
+      "date": "1990-08-22T05:41:23.871Z",
+      "age": 34
+    },
+    "registered": {
+      "date": "2006-04-06T09:08:33.530Z",
+      "age": 18
+    },
+    "phone": "R12 S39-0944",
+    "cell": "O02 L30-8379",
+    "id": {
+      "name": "SIN",
+      "value": "820387827"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/78.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+    },
+    "nat": "CA"
   }
 ]
