@@ -13438,5 +13438,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jack",
+      "last": "Morris"
+    },
+    "location": {
+      "street": {
+        "number": 7131,
+        "name": "Clyde Street"
+      },
+      "city": "Tauranga",
+      "state": "Tasman",
+      "country": "New Zealand",
+      "postcode": 41415,
+      "coordinates": {
+        "latitude": "55.4208",
+        "longitude": "-24.6047"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "jack.morris@example.com",
+    "login": {
+      "uuid": "78eb2cc5-d223-4832-b5fc-320b832f413d",
+      "username": "yellowrabbit269",
+      "password": "elwood",
+      "salt": "1kloHoi0",
+      "md5": "df142ea6d494dbf6985660f2559e8c84",
+      "sha1": "22f9d3a0d53d28e47164fa0d36ea3f2978032b2d",
+      "sha256": "e02cf32aec8267ad4e76e4931774e3550d001618f59bec7ddc63d40377b63f0a"
+    },
+    "dob": {
+      "date": "1952-07-01T22:00:46.387Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2003-03-29T10:37:45.524Z",
+      "age": 21
+    },
+    "phone": "(521)-921-2807",
+    "cell": "(873)-661-1371",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/70.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    },
+    "nat": "NZ"
   }
 ]
