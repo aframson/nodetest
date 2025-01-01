@@ -13774,5 +13774,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Warren",
+      "last": "Rice"
+    },
+    "location": {
+      "street": {
+        "number": 4061,
+        "name": "Tara Street"
+      },
+      "city": "Edenderry",
+      "state": "Mayo",
+      "country": "Ireland",
+      "postcode": 24668,
+      "coordinates": {
+        "latitude": "2.7279",
+        "longitude": "-19.9308"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "warren.rice@example.com",
+    "login": {
+      "uuid": "fc86d692-e7ed-4dd7-b776-ab6b310428f9",
+      "username": "heavygorilla694",
+      "password": "jaeger",
+      "salt": "3D4Z2YDS",
+      "md5": "0b3b9857d0c5a4314ce5d5bd01da49bc",
+      "sha1": "1b2e4c8229a86f8a4dacd9cca0944b37cf2b6750",
+      "sha256": "1e49cdc29a48ff9552c5fe39f0588a19b67ef3a6a6fcb30de3c228cbf1a31308"
+    },
+    "dob": {
+      "date": "1984-10-31T02:51:00.268Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2010-05-26T02:26:31.415Z",
+      "age": 14
+    },
+    "phone": "021-102-1595",
+    "cell": "081-318-1707",
+    "id": {
+      "name": "PPS",
+      "value": "2936973T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/73.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    },
+    "nat": "IE"
   }
 ]
