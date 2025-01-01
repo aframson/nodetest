@@ -13662,5 +13662,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Živojin",
+      "last": "Spasojević"
+    },
+    "location": {
+      "street": {
+        "number": 1358,
+        "name": "Dušana Radića"
+      },
+      "city": "Belgrade",
+      "state": "West Bačka",
+      "country": "Serbia",
+      "postcode": 38993,
+      "coordinates": {
+        "latitude": "59.9989",
+        "longitude": "-122.3860"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "zivojin.spasojevic@example.com",
+    "login": {
+      "uuid": "fb5231f5-525a-42a5-a797-b819e0be299b",
+      "username": "organickoala768",
+      "password": "jaguar1",
+      "salt": "vjvOlOxx",
+      "md5": "df4c499dc426c3fd6a6c317db207e60e",
+      "sha1": "c25764a746fd6e81f73d29bdfbef0fa621e6b54b",
+      "sha256": "85eba3d7eef1d785688b749781c87688c1aa7e6f66779394e36eb20335efdf9e"
+    },
+    "dob": {
+      "date": "1974-08-24T07:36:13.058Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2004-02-08T22:27:50.096Z",
+      "age": 20
+    },
+    "phone": "030-6816-578",
+    "cell": "067-3222-100",
+    "id": {
+      "name": "SID",
+      "value": "340022873"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/59.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    },
+    "nat": "RS"
   }
 ]
