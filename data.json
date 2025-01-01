@@ -13550,5 +13550,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Oliver",
+      "last": "Liu"
+    },
+    "location": {
+      "street": {
+        "number": 3668,
+        "name": "Bay Ave"
+      },
+      "city": "Trout Lake",
+      "state": "Québec",
+      "country": "Canada",
+      "postcode": "E7A 1C3",
+      "coordinates": {
+        "latitude": "-66.3556",
+        "longitude": "-37.4388"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "oliver.liu@example.com",
+    "login": {
+      "uuid": "b8a53ec8-3cb7-48fe-99d7-c264cce300f3",
+      "username": "smallladybug802",
+      "password": "monkey1",
+      "salt": "oXQBH94u",
+      "md5": "9388011774cac82c4a17d4e526b0f3e0",
+      "sha1": "882f8c23108141010c9703e5156d6a27d290deb8",
+      "sha256": "3a6b67fefbcfb2c155bb77ab088be0409559ec9651225f56a734a27f09ff3231"
+    },
+    "dob": {
+      "date": "1954-07-20T19:08:15.888Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2009-12-09T10:42:26.949Z",
+      "age": 15
+    },
+    "phone": "U79 F00-9230",
+    "cell": "H59 C38-2860",
+    "id": {
+      "name": "SIN",
+      "value": "532337581"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/28.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+    },
+    "nat": "CA"
   }
 ]
