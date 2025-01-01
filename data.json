@@ -13382,5 +13382,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
     },
     "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Boaventura",
+      "last": "Almeida"
+    },
+    "location": {
+      "street": {
+        "number": 6280,
+        "name": "Rua Minas Gerais "
+      },
+      "city": "Itaquaquecetuba",
+      "state": "Rondônia",
+      "country": "Brazil",
+      "postcode": 29739,
+      "coordinates": {
+        "latitude": "-77.1277",
+        "longitude": "-16.3133"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "boaventura.almeida@example.com",
+    "login": {
+      "uuid": "308a66d3-07aa-4d1d-b890-6b107fd10bcf",
+      "username": "organicbird493",
+      "password": "leslie",
+      "salt": "cEPPZhZ7",
+      "md5": "8b428c8d491b0e8d7810ed3975c60c1a",
+      "sha1": "ed587ca72268d572b39b07dff182f94beb229e7c",
+      "sha256": "f698a1446d27d67a6a992b52effbb4d7dd92f77c58b7b0bf489080864d1f93a0"
+    },
+    "dob": {
+      "date": "1985-09-08T03:00:13.428Z",
+      "age": 39
+    },
+    "registered": {
+      "date": "2004-06-09T07:27:07.513Z",
+      "age": 20
+    },
+    "phone": "(49) 8007-7981",
+    "cell": "(94) 3487-1016",
+    "id": {
+      "name": "CPF",
+      "value": "636.388.423-34"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/1.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    },
+    "nat": "BR"
   }
 ]
