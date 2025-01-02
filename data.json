@@ -14054,5 +14054,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Turgo",
+      "last": "da Mota"
+    },
+    "location": {
+      "street": {
+        "number": 4779,
+        "name": "Rua São Pedro "
+      },
+      "city": "Macaé",
+      "state": "Acre",
+      "country": "Brazil",
+      "postcode": 11512,
+      "coordinates": {
+        "latitude": "-76.0584",
+        "longitude": "-20.9690"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "turgo.damota@example.com",
+    "login": {
+      "uuid": "e437d800-22a8-4041-9165-2acafe26da76",
+      "username": "happyfrog251",
+      "password": "barkley",
+      "salt": "liOGbtgK",
+      "md5": "0166f85c924892e7c630d0f10bb45ca7",
+      "sha1": "e0ec9725dfe4e2330976ae6fcb14dd851696abf0",
+      "sha256": "9ab508d90fc9f829fd9f95c23d867b7622b464a915362faf98a5069e7c3bc443"
+    },
+    "dob": {
+      "date": "1983-07-17T22:40:51.465Z",
+      "age": 41
+    },
+    "registered": {
+      "date": "2018-03-22T18:09:06.408Z",
+      "age": 6
+    },
+    "phone": "(98) 1386-4480",
+    "cell": "(87) 8995-3472",
+    "id": {
+      "name": "CPF",
+      "value": "479.866.631-79"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/68.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    },
+    "nat": "BR"
   }
 ]
