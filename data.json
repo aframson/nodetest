@@ -13886,5 +13886,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Leandro",
+      "last": "Faure"
+    },
+    "location": {
+      "street": {
+        "number": 8027,
+        "name": "Boulevard de Balmont"
+      },
+      "city": "Vernayaz",
+      "state": "Genève",
+      "country": "Switzerland",
+      "postcode": 1887,
+      "coordinates": {
+        "latitude": "-58.4349",
+        "longitude": "-74.2072"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "leandro.faure@example.com",
+    "login": {
+      "uuid": "84fc2e41-19f3-4066-a9c2-ed24164ca80b",
+      "username": "smalldog936",
+      "password": "misfit",
+      "salt": "hL9mdAzz",
+      "md5": "d3baf035960bc1f76060e46cb371ad65",
+      "sha1": "9d8c3bd610ab22f77a71d8d076447d7c7f0f2490",
+      "sha256": "cf7881be0b980279be2d0525aa68e6daedd702a21a897212d1eaa849301d3e8e"
+    },
+    "dob": {
+      "date": "1992-12-16T06:13:35.599Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2004-11-06T23:50:09.946Z",
+      "age": 20
+    },
+    "phone": "077 376 50 79",
+    "cell": "075 209 96 36",
+    "id": {
+      "name": "AVS",
+      "value": "756.7909.5333.33"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/27.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    },
+    "nat": "CH"
   }
 ]
