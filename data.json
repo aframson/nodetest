@@ -14838,5 +14838,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Pedro",
+      "last": "Stevens"
+    },
+    "location": {
+      "street": {
+        "number": 8064,
+        "name": "Church Street"
+      },
+      "city": "Stevenage",
+      "state": "Central",
+      "country": "United Kingdom",
+      "postcode": "ML7Y 8FP",
+      "coordinates": {
+        "latitude": "-6.8854",
+        "longitude": "-129.9338"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "pedro.stevens@example.com",
+    "login": {
+      "uuid": "bdbc2c1a-955c-426c-b2c6-4a48e717b03e",
+      "username": "smallgorilla358",
+      "password": "bennett",
+      "salt": "MutWlyW0",
+      "md5": "e09596c7f2df4728d8c3caaac9e69cd6",
+      "sha1": "15f7d38ebecf486398edf6d0f5c33060bd338fc2",
+      "sha256": "c4823c70d76cac852bb3dca56fc7bf0c03e7519a870af2b3a2a749b742e74d30"
+    },
+    "dob": {
+      "date": "1980-12-22T23:16:34.041Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2008-02-12T11:22:11.111Z",
+      "age": 16
+    },
+    "phone": "0119559 049 5899",
+    "cell": "07794 280280",
+    "id": {
+      "name": "NINO",
+      "value": "AN 31 49 08 V"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/50.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+    },
+    "nat": "GB"
   }
 ]
