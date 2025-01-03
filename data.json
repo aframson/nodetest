@@ -15062,5 +15062,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ezequiel",
+      "last": "Costa"
+    },
+    "location": {
+      "street": {
+        "number": 3883,
+        "name": "Rua Rui Barbosa "
+      },
+      "city": "Campo Grande",
+      "state": "Paraíba",
+      "country": "Brazil",
+      "postcode": 28571,
+      "coordinates": {
+        "latitude": "-79.4874",
+        "longitude": "-104.6391"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "ezequiel.costa@example.com",
+    "login": {
+      "uuid": "52969383-6210-488f-acbe-3d3a08bdb0ea",
+      "username": "sadwolf309",
+      "password": "rockford",
+      "salt": "yigbIH0P",
+      "md5": "37d523bcab73ed7f08c01df3f588861e",
+      "sha1": "7f59e3f203bfb281b5ba5a7670f1ff53c884ac9c",
+      "sha256": "815d1c5718a0f22bd928251310522c425e0c079fe09d9e4ce695d17cc14e66c4"
+    },
+    "dob": {
+      "date": "1993-06-10T19:32:24.450Z",
+      "age": 31
+    },
+    "registered": {
+      "date": "2007-02-23T23:33:32.728Z",
+      "age": 17
+    },
+    "phone": "(05) 7870-8663",
+    "cell": "(59) 1610-8857",
+    "id": {
+      "name": "CPF",
+      "value": "246.126.916-39"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/63.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "nat": "BR"
   }
 ]
