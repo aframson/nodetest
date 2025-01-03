@@ -14726,5 +14726,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Radovan",
+      "last": "Stošić"
+    },
+    "location": {
+      "street": {
+        "number": 1145,
+        "name": "Ivana Jagodića"
+      },
+      "city": "Raška",
+      "state": "West Bačka",
+      "country": "Serbia",
+      "postcode": 60860,
+      "coordinates": {
+        "latitude": "58.7337",
+        "longitude": "-2.9727"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "radovan.stosic@example.com",
+    "login": {
+      "uuid": "ac014af9-9f28-4c43-be40-75292d393fd2",
+      "username": "crazybird523",
+      "password": "tammy",
+      "salt": "K0kFXroS",
+      "md5": "0a55f9c8c00afbbc1831fa4dd28e0610",
+      "sha1": "cc2f1f2043d5f75b844e836af11b3251c3b97fb3",
+      "sha256": "d0b21955f3088a211ff18694d3c28e99351b649942d811122ba4851d5ed907d6"
+    },
+    "dob": {
+      "date": "1965-07-26T14:18:56.332Z",
+      "age": 59
+    },
+    "registered": {
+      "date": "2005-11-15T07:38:48.359Z",
+      "age": 19
+    },
+    "phone": "018-1529-811",
+    "cell": "069-8603-138",
+    "id": {
+      "name": "SID",
+      "value": "768907860"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/57.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    },
+    "nat": "RS"
   }
 ]
