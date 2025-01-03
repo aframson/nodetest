@@ -14502,5 +14502,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Evélio",
+      "last": "Porto"
+    },
+    "location": {
+      "street": {
+        "number": 8389,
+        "name": "Rua São José "
+      },
+      "city": "Chapecó",
+      "state": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "postcode": 46326,
+      "coordinates": {
+        "latitude": "-77.0561",
+        "longitude": "-134.8251"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "evelio.porto@example.com",
+    "login": {
+      "uuid": "5cadc366-3718-461e-9c16-389efb3cb911",
+      "username": "biggorilla281",
+      "password": "second",
+      "salt": "mDeGAd5Y",
+      "md5": "a1986a8f9a9481995d3a4f84555d1e50",
+      "sha1": "5e1241098071c672d8f08881a50071faebf8d231",
+      "sha256": "3b4d6b8e20e60fc31407581a728b6422e09fc796d07064c00bf8cddcffa30304"
+    },
+    "dob": {
+      "date": "1976-06-11T07:08:05.504Z",
+      "age": 48
+    },
+    "registered": {
+      "date": "2013-11-08T06:48:50.325Z",
+      "age": 11
+    },
+    "phone": "(97) 2776-0196",
+    "cell": "(00) 8398-8047",
+    "id": {
+      "name": "CPF",
+      "value": "086.834.591-27"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/88.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+    },
+    "nat": "BR"
   }
 ]
