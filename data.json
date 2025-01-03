@@ -14894,5 +14894,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Iver",
+      "last": "Landsem"
+    },
+    "location": {
+      "street": {
+        "number": 7346,
+        "name": "Sandåsveien"
+      },
+      "city": "Fetsund",
+      "state": "Trøndelag",
+      "country": "Norway",
+      "postcode": "0592",
+      "coordinates": {
+        "latitude": "46.8760",
+        "longitude": "-57.0879"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "iver.landsem@example.com",
+    "login": {
+      "uuid": "674bb2e8-1a60-4ab1-bb72-49b36af6f727",
+      "username": "lazycat340",
+      "password": "pipeline",
+      "salt": "gOyaOTd0",
+      "md5": "351895d6d8681ab49c197b81d438e722",
+      "sha1": "e59e42052e2383e6dfa5372942838bd9dd9b6b2f",
+      "sha256": "33759c7e65050d39c869e0d66c18ae11907d7d996a45350cd964b3b4267dd02f"
+    },
+    "dob": {
+      "date": "1979-07-10T07:10:49.682Z",
+      "age": 45
+    },
+    "registered": {
+      "date": "2016-11-23T11:16:11.436Z",
+      "age": 8
+    },
+    "phone": "56939414",
+    "cell": "94883318",
+    "id": {
+      "name": "FN",
+      "value": "10077942977"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/23.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+    },
+    "nat": "NO"
   }
 ]
