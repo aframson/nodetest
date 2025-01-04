@@ -15342,5 +15342,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Philippe",
+      "last": "French"
+    },
+    "location": {
+      "street": {
+        "number": 9270,
+        "name": "Maple Ave"
+      },
+      "city": "Notre Dame de Lourdes",
+      "state": "Saskatchewan",
+      "country": "Canada",
+      "postcode": "R2X 7S3",
+      "coordinates": {
+        "latitude": "-68.2908",
+        "longitude": "-139.5993"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "philippe.french@example.com",
+    "login": {
+      "uuid": "c41ea9e0-2339-41d4-a439-c947972e5207",
+      "username": "bluemeercat798",
+      "password": "drowssap",
+      "salt": "ipnKfYry",
+      "md5": "13de16f52af3a26a074ece6590fa7da4",
+      "sha1": "44cb5bb654fde1983ce1c85b72edc03a3b2525ec",
+      "sha256": "ed4831745feb916ecca43c7ee0c2f840b576d78b361dca7ca9e4d6d77357976b"
+    },
+    "dob": {
+      "date": "1976-07-30T13:28:54.949Z",
+      "age": 48
+    },
+    "registered": {
+      "date": "2008-01-02T08:00:23.988Z",
+      "age": 17
+    },
+    "phone": "P41 Y31-0494",
+    "cell": "A14 L53-9399",
+    "id": {
+      "name": "SIN",
+      "value": "515125680"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/47.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    },
+    "nat": "CA"
   }
 ]
