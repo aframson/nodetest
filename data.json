@@ -15454,5 +15454,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Abssilão",
+      "last": "Nogueira"
+    },
+    "location": {
+      "street": {
+        "number": 7162,
+        "name": "Travessa dos Martírios"
+      },
+      "city": "Eunápolis",
+      "state": "Rondônia",
+      "country": "Brazil",
+      "postcode": 89698,
+      "coordinates": {
+        "latitude": "-78.1379",
+        "longitude": "-91.6338"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "abssilao.nogueira@example.com",
+    "login": {
+      "uuid": "0a6bf4ce-5c79-48fe-b12a-07b1579f31ba",
+      "username": "blackostrich147",
+      "password": "all4one",
+      "salt": "uWCKF769",
+      "md5": "52eb24095b0cc82604f8d56114352b44",
+      "sha1": "9ed3eac9c3017ecd74aad9ec8c047fe536d7bbb1",
+      "sha256": "ce0bd5baf8c6beeb6f405931e7bd8e189d8e714c8b8be174e88de8f1e0e1458e"
+    },
+    "dob": {
+      "date": "1971-12-24T08:28:56.256Z",
+      "age": 53
+    },
+    "registered": {
+      "date": "2016-08-31T03:12:07.702Z",
+      "age": 8
+    },
+    "phone": "(34) 6921-6682",
+    "cell": "(78) 3716-4084",
+    "id": {
+      "name": "CPF",
+      "value": "495.961.404-24"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/8.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    },
+    "nat": "BR"
   }
 ]
