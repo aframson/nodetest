@@ -16350,5 +16350,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Samson",
+      "last": "Onink"
+    },
+    "location": {
+      "street": {
+        "number": 9417,
+        "name": "A.W. de Landgraafstraat"
+      },
+      "city": "Ferwoude",
+      "state": "Zeeland",
+      "country": "Netherlands",
+      "postcode": "8151 UM",
+      "coordinates": {
+        "latitude": "30.6017",
+        "longitude": "-5.7994"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "samson.onink@example.com",
+    "login": {
+      "uuid": "c85f03dc-bd46-48d4-941c-982495617ca1",
+      "username": "bigrabbit611",
+      "password": "cowboy",
+      "salt": "QZqxGYqJ",
+      "md5": "962251106ef2ef0354b026ae636902bf",
+      "sha1": "ce9286fe9c38dabefd93bcaada8782ba95fa775a",
+      "sha256": "7dc279c56d1e279dcf086ab6d5150af06743339a1543fd1fe5608356a2014f07"
+    },
+    "dob": {
+      "date": "1974-11-01T07:59:24.308Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2005-08-14T18:22:31.310Z",
+      "age": 19
+    },
+    "phone": "(063) 3048604",
+    "cell": "(06) 84510225",
+    "id": {
+      "name": "BSN",
+      "value": "12840347"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/30.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+    },
+    "nat": "NL"
   }
 ]
