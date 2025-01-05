@@ -15902,5 +15902,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nídio",
+      "last": "Sales"
+    },
+    "location": {
+      "street": {
+        "number": 6801,
+        "name": "Rua Santa Rita "
+      },
+      "city": "Araguaína",
+      "state": "Maranhão",
+      "country": "Brazil",
+      "postcode": 36789,
+      "coordinates": {
+        "latitude": "-74.8667",
+        "longitude": "-88.7970"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "nidio.sales@example.com",
+    "login": {
+      "uuid": "becaa054-516f-419d-8533-a2f811f8c0cb",
+      "username": "blueelephant707",
+      "password": "easter",
+      "salt": "vhA9gJ2b",
+      "md5": "f0b13fa8d08d770ec71065f6c95b834a",
+      "sha1": "680fde3d258027998db5da81391d13f537ae5c42",
+      "sha256": "4805453e0cc7a668f089dadc59c127ce71465fae2c5806e91672712d8fcd56db"
+    },
+    "dob": {
+      "date": "1951-12-07T18:15:23.461Z",
+      "age": 73
+    },
+    "registered": {
+      "date": "2022-02-08T21:49:46.032Z",
+      "age": 2
+    },
+    "phone": "(00) 9570-7747",
+    "cell": "(71) 3419-3701",
+    "id": {
+      "name": "CPF",
+      "value": "146.544.963-36"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/52.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    },
+    "nat": "BR"
   }
 ]
