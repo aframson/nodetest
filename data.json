@@ -15846,5 +15846,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Guillaume",
+      "last": "Petit"
+    },
+    "location": {
+      "street": {
+        "number": 5608,
+        "name": "Rue du Dauphiné"
+      },
+      "city": "Lyon",
+      "state": "Meuse",
+      "country": "France",
+      "postcode": 51235,
+      "coordinates": {
+        "latitude": "-16.6434",
+        "longitude": "-139.1175"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "guillaume.petit@example.com",
+    "login": {
+      "uuid": "5c48d7b7-56e8-4493-9694-19ccf74b29a9",
+      "username": "organicfish189",
+      "password": "getmoney",
+      "salt": "vA3IrKnh",
+      "md5": "724b9cf870433b80e8e317932f0f0951",
+      "sha1": "77bf52690bf286ad3f47bd20e7368b26fdebc395",
+      "sha256": "7b69a5934ed2ad9acf3ffcd460df8284162ad26669221aedbbba75f575aa1cf5"
+    },
+    "dob": {
+      "date": "1979-12-08T12:50:18.088Z",
+      "age": 45
+    },
+    "registered": {
+      "date": "2017-05-12T17:22:43.493Z",
+      "age": 7
+    },
+    "phone": "05-42-61-56-67",
+    "cell": "06-51-01-43-65",
+    "id": {
+      "name": "INSEE",
+      "value": "1791112132113 06"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/75.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    },
+    "nat": "FR"
   }
 ]
