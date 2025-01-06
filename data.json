@@ -16630,5 +16630,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Rudra",
+      "last": "Singh"
+    },
+    "location": {
+      "street": {
+        "number": 3936,
+        "name": "Chimanlal Girdharlal Rd"
+      },
+      "city": "Raichur",
+      "state": "Bihar",
+      "country": "India",
+      "postcode": 36470,
+      "coordinates": {
+        "latitude": "11.8996",
+        "longitude": "-57.9430"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "rudra.singh@example.com",
+    "login": {
+      "uuid": "cef62c24-d93a-42d2-87bd-79c5e54c1e9c",
+      "username": "sadsnake533",
+      "password": "jenna",
+      "salt": "ZKnNiZka",
+      "md5": "0ad5fc34a97d48d7e5447dfa2eadbc2a",
+      "sha1": "b185b3b7005ba2ca3dcb2bb94acc1ac2263d52aa",
+      "sha256": "19f77fc99c61df7716601d85da8f99d678d5503b9d82391535acd437fc1d196d"
+    },
+    "dob": {
+      "date": "1977-12-03T06:55:23.506Z",
+      "age": 47
+    },
+    "registered": {
+      "date": "2017-08-17T14:08:26.454Z",
+      "age": 7
+    },
+    "phone": "9327085820",
+    "cell": "7325997458",
+    "id": {
+      "name": "UIDAI",
+      "value": "157369600223"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/31.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+    },
+    "nat": "IN"
   }
 ]
