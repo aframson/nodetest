@@ -16518,5 +16518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Angelos",
+      "last": "Kleingeld"
+    },
+    "location": {
+      "street": {
+        "number": 969,
+        "name": "Florahove"
+      },
+      "city": "Oploo",
+      "state": "Overijssel",
+      "country": "Netherlands",
+      "postcode": "6198 EB",
+      "coordinates": {
+        "latitude": "36.6880",
+        "longitude": "-102.6072"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "angelos.kleingeld@example.com",
+    "login": {
+      "uuid": "05a18ab8-1c60-4bac-9ae5-10a264fdae63",
+      "username": "tinyfrog199",
+      "password": "oscar",
+      "salt": "gUxcTOXL",
+      "md5": "2a542863cfdfd63c3439c37ae3f52d24",
+      "sha1": "ad6bc74fc55b72e54573704dd6883bf061c242f8",
+      "sha256": "e76e4e374f60e09c70805602c444647319873516aaf54de4405b3c1c30499eef"
+    },
+    "dob": {
+      "date": "1945-08-09T17:59:44.849Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2014-11-16T11:55:42.889Z",
+      "age": 10
+    },
+    "phone": "(042) 9868420",
+    "cell": "(06) 20387997",
+    "id": {
+      "name": "BSN",
+      "value": "77487346"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/17.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    },
+    "nat": "NL"
   }
 ]
