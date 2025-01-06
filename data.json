@@ -16742,5 +16742,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Eloane",
+      "last": "Dupuis"
+    },
+    "location": {
+      "street": {
+        "number": 2354,
+        "name": "Place du 8 Novembre 1942"
+      },
+      "city": "Avignon",
+      "state": "Haute-Garonne",
+      "country": "France",
+      "postcode": 70628,
+      "coordinates": {
+        "latitude": "-15.5448",
+        "longitude": "56.0310"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "eloane.dupuis@example.com",
+    "login": {
+      "uuid": "44973426-afd5-4cd6-ad48-691de70453c0",
+      "username": "lazygorilla607",
+      "password": "contortionist",
+      "salt": "0ZwXYyk2",
+      "md5": "91f512305eafd0d8337cb327eb0a3722",
+      "sha1": "90f2ccfc9e02f6bf81f133c7b133b909e901cfc0",
+      "sha256": "92524423d72e30ecf1f5546ba59daf54c7473289b1fc83ab2f99e356914edd66"
+    },
+    "dob": {
+      "date": "1948-08-21T03:54:34.733Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2018-09-22T06:07:27.873Z",
+      "age": 6
+    },
+    "phone": "03-02-32-70-48",
+    "cell": "06-49-66-99-35",
+    "id": {
+      "name": "INSEE",
+      "value": "2480748057809 53"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/89.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+    },
+    "nat": "FR"
   }
 ]
