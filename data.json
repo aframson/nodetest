@@ -17246,5 +17246,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dragutin",
+      "last": "Hadžić"
+    },
+    "location": {
+      "street": {
+        "number": 8085,
+        "name": "Vojvode Mišića"
+      },
+      "city": "Vlasotince",
+      "state": "Peć",
+      "country": "Serbia",
+      "postcode": 52874,
+      "coordinates": {
+        "latitude": "60.4907",
+        "longitude": "-58.5372"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "dragutin.hadzic@example.com",
+    "login": {
+      "uuid": "42ecee77-58ec-443d-af04-f6ca32b7fa4e",
+      "username": "beautifulfish989",
+      "password": "zorro1",
+      "salt": "uH6Wsl1N",
+      "md5": "b33784ce6181e72a7b4ca42a5b9c2071",
+      "sha1": "c448c6c93cbc3f2865b22fecdc02dc55e2048d14",
+      "sha256": "5191eb6e7887887c935e04c4ee8c3c2136e4f55258c51a24b1b298f220c23f96"
+    },
+    "dob": {
+      "date": "1968-06-01T09:12:31.717Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2018-07-10T01:38:05.422Z",
+      "age": 6
+    },
+    "phone": "011-7496-393",
+    "cell": "068-6596-963",
+    "id": {
+      "name": "SID",
+      "value": "445334984"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/66.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    },
+    "nat": "RS"
   }
 ]
