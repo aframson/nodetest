@@ -17638,5 +17638,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jasão",
+      "last": "Nascimento"
+    },
+    "location": {
+      "street": {
+        "number": 5406,
+        "name": "Rua Santa Rita "
+      },
+      "city": "Rondonópolis",
+      "state": "Maranhão",
+      "country": "Brazil",
+      "postcode": 82126,
+      "coordinates": {
+        "latitude": "-74.2925",
+        "longitude": "-124.3613"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "jasao.nascimento@example.com",
+    "login": {
+      "uuid": "8a38ac5c-182f-43be-abba-849c04a7cb94",
+      "username": "sadostrich550",
+      "password": "rachel",
+      "salt": "gGj8pQ4l",
+      "md5": "30bd2e85e4536fd06e9dc5fca2c5c99e",
+      "sha1": "39779e271b6cfe9d8b1258d7733c4c9e4ac747fb",
+      "sha256": "e8bc8d32f3d83163c6f7e5cb4f15aa472d55f835f8cc6e17c8372179ed0eb498"
+    },
+    "dob": {
+      "date": "1959-12-24T03:04:15.813Z",
+      "age": 65
+    },
+    "registered": {
+      "date": "2013-08-13T04:30:54.019Z",
+      "age": 11
+    },
+    "phone": "(02) 6477-5284",
+    "cell": "(40) 9934-6943",
+    "id": {
+      "name": "CPF",
+      "value": "691.794.746-65"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/77.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    },
+    "nat": "BR"
   }
 ]
