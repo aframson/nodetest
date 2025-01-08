@@ -18254,5 +18254,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Franklin",
+      "last": "Bennett"
+    },
+    "location": {
+      "street": {
+        "number": 4645,
+        "name": "Station Road"
+      },
+      "city": "Westminster",
+      "state": "West Glamorgan",
+      "country": "United Kingdom",
+      "postcode": "W3B 5BG",
+      "coordinates": {
+        "latitude": "-10.0102",
+        "longitude": "-113.3643"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "franklin.bennett@example.com",
+    "login": {
+      "uuid": "5017cee9-6ddc-481e-96cb-9afd3c319f67",
+      "username": "silverpeacock616",
+      "password": "groups",
+      "salt": "A1ZXHf5Z",
+      "md5": "aca64f3412deed0e4adc2aaee9401039",
+      "sha1": "02d74f320f532f9345e787e1b7d672cb5dacd87e",
+      "sha256": "2d36d51b6fc8af3421729af526097546aff95eeeb7c522e96b338bfdf3f285b7"
+    },
+    "dob": {
+      "date": "1980-05-17T00:03:38.560Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2021-04-04T00:13:48.776Z",
+      "age": 3
+    },
+    "phone": "015394 24090",
+    "cell": "07186 777525",
+    "id": {
+      "name": "NINO",
+      "value": "CS 48 03 09 Z"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/82.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+    },
+    "nat": "GB"
   }
 ]
