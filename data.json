@@ -18478,5 +18478,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Zvenislav",
+      "last": "Zaharenko"
+    },
+    "location": {
+      "street": {
+        "number": 2282,
+        "name": "Vinnichenka Volodimira"
+      },
+      "city": "Kerch",
+      "state": "Dnipropetrovska",
+      "country": "Ukraine",
+      "postcode": 89193,
+      "coordinates": {
+        "latitude": "74.0498",
+        "longitude": "-4.4238"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "zvenislav.zaharenko@example.com",
+    "login": {
+      "uuid": "65a3262e-9a0c-40b7-8cf9-bf6ce1a0398e",
+      "username": "yellowlion730",
+      "password": "sharpe",
+      "salt": "MNdVcSCW",
+      "md5": "c99d35bd7887978b852f2d003819e0fa",
+      "sha1": "3f704085866ba230cbc42687ceb5c5750f99ac74",
+      "sha256": "4a33c546174a2c0a648f17266b8a313bef22120fe7dd82430b6b6d540215214e"
+    },
+    "dob": {
+      "date": "1999-06-04T06:57:46.487Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2010-02-11T12:51:09.770Z",
+      "age": 14
+    },
+    "phone": "(099) C60-2659",
+    "cell": "(067) E27-9265",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/75.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    },
+    "nat": "UA"
   }
 ]
