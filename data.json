@@ -18422,5 +18422,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jonas",
+      "last": "Rodrigues"
+    },
+    "location": {
+      "street": {
+        "number": 83,
+        "name": "Rua Vinte E Dois "
+      },
+      "city": "Rio Grande",
+      "state": "Alagoas",
+      "country": "Brazil",
+      "postcode": 80808,
+      "coordinates": {
+        "latitude": "-73.2310",
+        "longitude": "-40.6618"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "jonas.rodrigues@example.com",
+    "login": {
+      "uuid": "8e80eb1c-230c-42a3-8dd8-4e926ad6b596",
+      "username": "smalllion368",
+      "password": "stone",
+      "salt": "joaWkOpF",
+      "md5": "5f8fbb513650d26e74a04bfa2353c0a2",
+      "sha1": "800e198532061c308fa96e5fc27df819e2c44b11",
+      "sha256": "d6593211a17dbcec2f2801c225d663947f86389f29c27725c91c478458613eed"
+    },
+    "dob": {
+      "date": "1996-12-13T13:21:32.678Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2013-11-29T22:54:12.579Z",
+      "age": 11
+    },
+    "phone": "(36) 8373-6346",
+    "cell": "(83) 7200-6624",
+    "id": {
+      "name": "CPF",
+      "value": "580.791.418-77"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/15.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+    },
+    "nat": "BR"
   }
 ]
