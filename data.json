@@ -17862,5 +17862,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Carl",
+      "last": "Stone"
+    },
+    "location": {
+      "street": {
+        "number": 8105,
+        "name": "First Street"
+      },
+      "city": "Australian Capital Territory",
+      "state": "New South Wales",
+      "country": "Australia",
+      "postcode": 6385,
+      "coordinates": {
+        "latitude": "-85.0472",
+        "longitude": "-22.0137"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "carl.stone@example.com",
+    "login": {
+      "uuid": "2ebc4125-89ba-4680-8956-c2501d229741",
+      "username": "goldengorilla810",
+      "password": "mischief",
+      "salt": "GLTQxGdH",
+      "md5": "910996e4817a4cf318b3301c83ca21d8",
+      "sha1": "b8c195300a93d08a36e53f01d014676909b4102b",
+      "sha256": "f7697dd5a9547a200d34ed1d3e4127513e91e640eaece2d781611a7aed2ddcd9"
+    },
+    "dob": {
+      "date": "1954-07-01T21:08:35.262Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2009-09-17T10:18:52.904Z",
+      "age": 15
+    },
+    "phone": "00-8115-4209",
+    "cell": "0461-045-099",
+    "id": {
+      "name": "TFN",
+      "value": "065110226"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/0.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    },
+    "nat": "AU"
   }
 ]
