@@ -18198,5 +18198,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alberto",
+      "last": "Johannes"
+    },
+    "location": {
+      "street": {
+        "number": 737,
+        "name": "Eichenweg"
+      },
+      "city": "Hamburg",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "postcode": 78661,
+      "coordinates": {
+        "latitude": "-52.2252",
+        "longitude": "-84.0874"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "alberto.johannes@example.com",
+    "login": {
+      "uuid": "06e145ac-3514-43c7-9d0e-857aa5f7739c",
+      "username": "angrywolf596",
+      "password": "sixsix",
+      "salt": "nvfrmVBM",
+      "md5": "7a67b2f89598de362ff0cc72f2094598",
+      "sha1": "599e6d0bc451f1cc74af840c20f8399e8caf125a",
+      "sha256": "c2f569be9dd4170ef611eade2d012571d4b92f564bd5f1bea7a669b2c87b2ada"
+    },
+    "dob": {
+      "date": "1965-07-17T18:47:48.678Z",
+      "age": 59
+    },
+    "registered": {
+      "date": "2011-01-22T15:41:56.869Z",
+      "age": 13
+    },
+    "phone": "0639-4426867",
+    "cell": "0172-0554068",
+    "id": {
+      "name": "SVNR",
+      "value": "50 170765 J 425"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/63.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "nat": "DE"
   }
 ]
