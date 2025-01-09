@@ -19094,5 +19094,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Christos",
+      "last": "Mittmann"
+    },
+    "location": {
+      "street": {
+        "number": 1906,
+        "name": "Wiesenstraße"
+      },
+      "city": "Wesenberg",
+      "state": "Schleswig-Holstein",
+      "country": "Germany",
+      "postcode": 38021,
+      "coordinates": {
+        "latitude": "-53.3086",
+        "longitude": "-46.3762"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "christos.mittmann@example.com",
+    "login": {
+      "uuid": "29a3ffe4-d8f7-41b6-8f85-6f577157a8ba",
+      "username": "orangegoose451",
+      "password": "xxxxxxxx",
+      "salt": "3F8BhUAX",
+      "md5": "c1e15ae84eba9591b46e19ee5ce9ca5e",
+      "sha1": "883f23ac84546b141f69f46bd6ebb0dab0e12a65",
+      "sha256": "8295082be18630d8362b38c3c6e7e867c229f1e0a1ee1baf1acf6f26ffc11b1a"
+    },
+    "dob": {
+      "date": "1999-10-17T11:34:27.619Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2009-05-03T07:53:33.301Z",
+      "age": 15
+    },
+    "phone": "0413-4656651",
+    "cell": "0178-0087209",
+    "id": {
+      "name": "SVNR",
+      "value": "54 171099 M 395"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/46.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+    },
+    "nat": "DE"
   }
 ]
