@@ -18702,5 +18702,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Linus",
+      "last": "Loen"
+    },
+    "location": {
+      "street": {
+        "number": 3341,
+        "name": "Jerpefaret"
+      },
+      "city": "Eidsvik",
+      "state": "Finnmark - Finnmárku",
+      "country": "Norway",
+      "postcode": "6409",
+      "coordinates": {
+        "latitude": "41.7855",
+        "longitude": "-42.9514"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "linus.loen@example.com",
+    "login": {
+      "uuid": "87356243-abc8-4504-808e-83f72d1cece4",
+      "username": "orangetiger576",
+      "password": "51505150",
+      "salt": "OTWGuapG",
+      "md5": "bfb3283501f448edc465c1b3cbc43b84",
+      "sha1": "a44b08c63aa1bb90f6a676bfe2153a20728d7230",
+      "sha256": "b7908ee8f52fad055c23c9bcce16e7d5101b76bedc4070426a58fbe099f7327f"
+    },
+    "dob": {
+      "date": "1957-08-20T05:44:30.041Z",
+      "age": 67
+    },
+    "registered": {
+      "date": "2021-08-31T00:47:42.671Z",
+      "age": 3
+    },
+    "phone": "28079782",
+    "cell": "43677200",
+    "id": {
+      "name": "FN",
+      "value": "20085716701"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/45.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+    },
+    "nat": "NO"
   }
 ]
