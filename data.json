@@ -18814,5 +18814,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Omar",
+      "last": "Lid"
+    },
+    "location": {
+      "street": {
+        "number": 1740,
+        "name": "Abbedisvingen"
+      },
+      "city": "Buvika",
+      "state": "Vestfold",
+      "country": "Norway",
+      "postcode": "3077",
+      "coordinates": {
+        "latitude": "39.6051",
+        "longitude": "-55.8071"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "omar.lid@example.com",
+    "login": {
+      "uuid": "b7e201ff-ab0c-4e54-a785-b02e8fa1aa70",
+      "username": "orangegoose754",
+      "password": "jerky",
+      "salt": "QRdY5vql",
+      "md5": "6be491f8bf63e529010e17ca6cb74dd7",
+      "sha1": "e0a5be3231f6b4d2e0e1172932499c4d87d39c99",
+      "sha256": "7170bf067809f970ab31fb3c831f138c9da3d8e9ac20fb3d622537522e38cb6b"
+    },
+    "dob": {
+      "date": "1944-10-28T02:43:55.817Z",
+      "age": 80
+    },
+    "registered": {
+      "date": "2005-07-23T06:05:36.353Z",
+      "age": 19
+    },
+    "phone": "69606640",
+    "cell": "92122648",
+    "id": {
+      "name": "FN",
+      "value": "28104431366"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/90.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+    },
+    "nat": "NO"
   }
 ]
