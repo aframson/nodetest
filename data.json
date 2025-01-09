@@ -18646,5 +18646,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Luka",
+      "last": "Rolland"
+    },
+    "location": {
+      "street": {
+        "number": 6613,
+        "name": "Rue Dubois"
+      },
+      "city": "Poitiers",
+      "state": "Saône-et-Loire",
+      "country": "France",
+      "postcode": 85655,
+      "coordinates": {
+        "latitude": "-15.7955",
+        "longitude": "-112.3551"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "luka.rolland@example.com",
+    "login": {
+      "uuid": "8efadbdd-405f-49f8-9af7-34ff8ba24402",
+      "username": "whiteladybug306",
+      "password": "nonono",
+      "salt": "pbu9M8FJ",
+      "md5": "bc405a830d6bec850baa75643226148c",
+      "sha1": "59719a260896669f56bf63856d8fb090929aa8d1",
+      "sha256": "8c50133997f6081b1be0c13b17ae710dec1e6db126b560354ccb8fc5d6aebb31"
+    },
+    "dob": {
+      "date": "1959-07-12T13:41:15.329Z",
+      "age": 65
+    },
+    "registered": {
+      "date": "2021-05-06T05:19:12.016Z",
+      "age": 3
+    },
+    "phone": "03-66-12-20-15",
+    "cell": "06-86-73-24-00",
+    "id": {
+      "name": "INSEE",
+      "value": "1590626358355 05"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/95.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+    },
+    "nat": "FR"
   }
 ]
