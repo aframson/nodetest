@@ -18534,5 +18534,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nilson",
+      "last": "Barbosa"
+    },
+    "location": {
+      "street": {
+        "number": 172,
+        "name": "Travessa dos Açorianos"
+      },
+      "city": "Feira de Santana",
+      "state": "Piauí",
+      "country": "Brazil",
+      "postcode": 28109,
+      "coordinates": {
+        "latitude": "-76.1269",
+        "longitude": "-74.8603"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "nilson.barbosa@example.com",
+    "login": {
+      "uuid": "b1e0f4a3-8823-4df2-8f17-23b22702a945",
+      "username": "beautifulkoala218",
+      "password": "walnut",
+      "salt": "GIjo19jq",
+      "md5": "7197eea89797ed40fdcb5b3b70314df7",
+      "sha1": "007ecf32dc8f88839750f47a47d8e5dc61d80fe5",
+      "sha256": "ff9275fedb4f0373ec7987057f2fd3a8f741659a9dc844834e0300ff9edb0378"
+    },
+    "dob": {
+      "date": "1956-10-19T08:41:58.292Z",
+      "age": 68
+    },
+    "registered": {
+      "date": "2016-09-14T00:01:22.883Z",
+      "age": 8
+    },
+    "phone": "(14) 0165-2356",
+    "cell": "(09) 4168-7378",
+    "id": {
+      "name": "CPF",
+      "value": "286.208.746-06"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/14.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+    },
+    "nat": "BR"
   }
 ]
