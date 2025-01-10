@@ -19542,5 +19542,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jack",
+      "last": "Gagné"
+    },
+    "location": {
+      "street": {
+        "number": 5915,
+        "name": "Concession Road 23"
+      },
+      "city": "Field",
+      "state": "Saskatchewan",
+      "country": "Canada",
+      "postcode": "L4R 5W8",
+      "coordinates": {
+        "latitude": "-67.9560",
+        "longitude": "-176.4445"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "jack.gagne@example.com",
+    "login": {
+      "uuid": "658955e3-feb8-4a24-bd96-c605a9a30592",
+      "username": "organickoala806",
+      "password": "surfing",
+      "salt": "97QGOipn",
+      "md5": "3964de270614a9aaf1b17ee461dbafb8",
+      "sha1": "3a93447ed5ce3689b0c4ced823f266b3f874316e",
+      "sha256": "8ce2753944247912304956f537ff7e11019a6f5dd2a6ca76f6c6ab0a23808e6b"
+    },
+    "dob": {
+      "date": "1966-03-07T13:12:56.350Z",
+      "age": 58
+    },
+    "registered": {
+      "date": "2002-08-03T11:28:43.952Z",
+      "age": 22
+    },
+    "phone": "R56 F03-6199",
+    "cell": "X21 V07-1268",
+    "id": {
+      "name": "SIN",
+      "value": "447117052"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/34.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    },
+    "nat": "CA"
   }
 ]
