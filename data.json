@@ -19206,5 +19206,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dalemir",
+      "last": "Gevko"
+    },
+    "location": {
+      "street": {
+        "number": 4266,
+        "name": "Prospekt Poshtoviy"
+      },
+      "city": "Hrestivka",
+      "state": "Kirovogradska",
+      "country": "Ukraine",
+      "postcode": 18748,
+      "coordinates": {
+        "latitude": "73.9681",
+        "longitude": "-10.5999"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "dalemir.gevko@example.com",
+    "login": {
+      "uuid": "4206be61-0df6-4163-b719-e845fe769b10",
+      "username": "beautifulmouse933",
+      "password": "huge",
+      "salt": "b20AezoB",
+      "md5": "4988e6070f57e4cea5c54c51ae21e2bc",
+      "sha1": "e9532d5ca33b2209600c9cd1568b49e6e4c656ff",
+      "sha256": "9a4aa4e63d37fe2f9e48025f6989eea6ff9fc325108f42cf00b15e35620b26fb"
+    },
+    "dob": {
+      "date": "1975-01-28T18:28:56.898Z",
+      "age": 49
+    },
+    "registered": {
+      "date": "2007-07-07T03:23:48.172Z",
+      "age": 17
+    },
+    "phone": "(099) Y43-5700",
+    "cell": "(098) W75-1047",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/37.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    },
+    "nat": "UA"
   }
 ]
