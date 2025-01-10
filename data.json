@@ -19486,5 +19486,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Calisto",
+      "last": "da Mata"
+    },
+    "location": {
+      "street": {
+        "number": 1312,
+        "name": "Avenida da Democracia"
+      },
+      "city": "Apucarana",
+      "state": "Paraná",
+      "country": "Brazil",
+      "postcode": 55016,
+      "coordinates": {
+        "latitude": "-73.2044",
+        "longitude": "-179.0752"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "calisto.damata@example.com",
+    "login": {
+      "uuid": "34320078-a6e7-4ca1-a4b3-ef01ead87833",
+      "username": "silverduck937",
+      "password": "confused",
+      "salt": "NA6EWOgj",
+      "md5": "ba540678be179216cd56ba40cf5e6b84",
+      "sha1": "c09075fa6c047e6b4949bcee73c74fca35793c58",
+      "sha256": "08cc09b0693d218fe22ea686efd9b7296229b21edad7cda711eb6aee1517397c"
+    },
+    "dob": {
+      "date": "1999-05-30T16:39:02.306Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2002-11-14T18:37:06.682Z",
+      "age": 22
+    },
+    "phone": "(86) 8545-2229",
+    "cell": "(54) 2860-2112",
+    "id": {
+      "name": "CPF",
+      "value": "337.349.456-28"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/9.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+    },
+    "nat": "BR"
   }
 ]
