@@ -19710,5 +19710,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Arthur",
+      "last": "Armstrong"
+    },
+    "location": {
+      "street": {
+        "number": 995,
+        "name": "Mockingbird Hill"
+      },
+      "city": "Kalgoorlie",
+      "state": "Western Australia",
+      "country": "Australia",
+      "postcode": 8336,
+      "coordinates": {
+        "latitude": "-81.6102",
+        "longitude": "-3.2766"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "arthur.armstrong@example.com",
+    "login": {
+      "uuid": "108187f5-7a41-4585-8d45-550599ee3751",
+      "username": "crazyfrog397",
+      "password": "sites",
+      "salt": "DPrguGws",
+      "md5": "e1e68f163db06f4eff18111507a963be",
+      "sha1": "c1aec5dbe09a0d58ab2706d38be96cd247007c0d",
+      "sha256": "fc57bde47b655fbe5cd7401198787f063ba2b8a2ee965ddecc055b89ab9a4863"
+    },
+    "dob": {
+      "date": "1964-08-14T08:25:51.854Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2003-05-25T20:56:59.580Z",
+      "age": 21
+    },
+    "phone": "06-6992-4309",
+    "cell": "0449-651-838",
+    "id": {
+      "name": "TFN",
+      "value": "595726867"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/36.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+    },
+    "nat": "AU"
   }
 ]
