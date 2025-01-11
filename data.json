@@ -19878,5 +19878,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Friedrich",
+      "last": "Heintz"
+    },
+    "location": {
+      "street": {
+        "number": 4625,
+        "name": "Bachstraße"
+      },
+      "city": "Plattling",
+      "state": "Mecklenburg-Vorpommern",
+      "country": "Germany",
+      "postcode": 89272,
+      "coordinates": {
+        "latitude": "-52.0624",
+        "longitude": "-81.3990"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "friedrich.heintz@example.com",
+    "login": {
+      "uuid": "45a71a7e-9590-48b6-bb25-c05dbd75c6bf",
+      "username": "blackfrog779",
+      "password": "phoebe",
+      "salt": "LtMaITAS",
+      "md5": "d8ad3cf4586a5bae9b1aa21ab805c54c",
+      "sha1": "511943a2927565ee72656d3c53475b580da9d3be",
+      "sha256": "c6dba42a5ee621bed9ffa140bbaad302eb1ceac569803be4fbab78cc2d9296fd"
+    },
+    "dob": {
+      "date": "1944-12-29T00:21:07.124Z",
+      "age": 80
+    },
+    "registered": {
+      "date": "2008-12-25T13:01:10.658Z",
+      "age": 16
+    },
+    "phone": "0784-3747993",
+    "cell": "0175-5007987",
+    "id": {
+      "name": "SVNR",
+      "value": "10 281244 H 448"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/81.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    },
+    "nat": "DE"
   }
 ]
