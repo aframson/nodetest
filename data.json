@@ -20158,5 +20158,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dico",
+      "last": "Duif"
+    },
+    "location": {
+      "street": {
+        "number": 6107,
+        "name": "Koornlaan"
+      },
+      "city": "Oosterwolde Fr",
+      "state": "Friesland",
+      "country": "Netherlands",
+      "postcode": "8004 HF",
+      "coordinates": {
+        "latitude": "32.0781",
+        "longitude": "-97.8052"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "dico.duif@example.com",
+    "login": {
+      "uuid": "33f9fa3c-3b79-4d19-933f-010b0e096830",
+      "username": "bluewolf108",
+      "password": "callum",
+      "salt": "lQEMZeKL",
+      "md5": "3a0dfe17e5a1a650b34cf9ed9f12ae5e",
+      "sha1": "3a267893f7d34b813ecda64ddc90dc50e30dc233",
+      "sha256": "65631306838e2c16ee1dd9755c043185a7afda71f02ed0f367bb8d693382d77b"
+    },
+    "dob": {
+      "date": "1951-01-29T08:45:34.701Z",
+      "age": 73
+    },
+    "registered": {
+      "date": "2002-05-09T09:11:19.322Z",
+      "age": 22
+    },
+    "phone": "(0985) 783782",
+    "cell": "(06) 75720482",
+    "id": {
+      "name": "BSN",
+      "value": "48372480"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/69.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+    },
+    "nat": "NL"
   }
 ]
