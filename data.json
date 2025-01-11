@@ -20102,5 +20102,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nicklas",
+      "last": "Johansen"
+    },
+    "location": {
+      "street": {
+        "number": 2547,
+        "name": "Kirkegade"
+      },
+      "city": "Randers Nø",
+      "state": "Hovedstaden",
+      "country": "Denmark",
+      "postcode": 11517,
+      "coordinates": {
+        "latitude": "-44.7720",
+        "longitude": "-116.2562"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "nicklas.johansen@example.com",
+    "login": {
+      "uuid": "a4446a40-0058-4818-b094-42cca47a2de8",
+      "username": "organicfish368",
+      "password": "123123",
+      "salt": "aatHHgFR",
+      "md5": "d89af32d3c8df6c0a6b2f44d60c56bad",
+      "sha1": "2eeb2fde3a1697cbcc419731c92b3c5470673baa",
+      "sha256": "8f73d8115dd4ebc210d2fd763b24ff44be8e1ef84d84a494c2ceb49754f6ea04"
+    },
+    "dob": {
+      "date": "1952-02-22T22:14:26.273Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2017-10-31T23:03:19.456Z",
+      "age": 7
+    },
+    "phone": "62461895",
+    "cell": "25529872",
+    "id": {
+      "name": "CPR",
+      "value": "220252-3448"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/79.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    },
+    "nat": "DK"
   }
 ]
