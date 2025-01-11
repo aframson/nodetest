@@ -20214,5 +20214,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ahmet",
+      "last": "Yılmazer"
+    },
+    "location": {
+      "street": {
+        "number": 924,
+        "name": "Abanoz Sk"
+      },
+      "city": "Adana",
+      "state": "Adıyaman",
+      "country": "Turkey",
+      "postcode": 69654,
+      "coordinates": {
+        "latitude": "69.7693",
+        "longitude": "-102.8735"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "ahmet.yilmazer@example.com",
+    "login": {
+      "uuid": "0e81600a-505a-41f1-99a0-230d5a58ad40",
+      "username": "redbear229",
+      "password": "maestro",
+      "salt": "uauQg9g1",
+      "md5": "a7924afd437e49dd31b08e7abda8f436",
+      "sha1": "365748078258ea9031de47a8f907df4290f0df5e",
+      "sha256": "9b14922eb5c44c00474744ff60562daf4ea7b21c1b52ca48998810f6a663303e"
+    },
+    "dob": {
+      "date": "1957-09-24T23:35:11.582Z",
+      "age": 67
+    },
+    "registered": {
+      "date": "2002-08-30T06:19:42.181Z",
+      "age": 22
+    },
+    "phone": "(363)-568-2045",
+    "cell": "(938)-972-9275",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "TR"
   }
 ]
