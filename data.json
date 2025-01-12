@@ -20942,5 +20942,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jorge Luis",
+      "last": "Zúñiga"
+    },
+    "location": {
+      "street": {
+        "number": 3641,
+        "name": "Diagonal Soria"
+      },
+      "city": "Zinaparo",
+      "state": "Puebla",
+      "country": "Mexico",
+      "postcode": 28680,
+      "coordinates": {
+        "latitude": "21.4296",
+        "longitude": "-79.0254"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "jorgeluis.zuniga@example.com",
+    "login": {
+      "uuid": "8fe59fa3-5f0a-42c2-8fb5-b42d7bbb9742",
+      "username": "silverfrog742",
+      "password": "zeus",
+      "salt": "w9cQkUha",
+      "md5": "c0a083f33476241d251ae0ad6d069676",
+      "sha1": "ced51fb21d8751061bd5a58cfc6f787d2499fd58",
+      "sha256": "b31989dbabfc2a896107faa4192bd9d7528812cd28642b44a4b16238c317bf07"
+    },
+    "dob": {
+      "date": "1960-05-07T02:19:43.939Z",
+      "age": 64
+    },
+    "registered": {
+      "date": "2005-09-09T01:09:29.767Z",
+      "age": 19
+    },
+    "phone": "(647) 765 4312",
+    "cell": "(669) 551 6756",
+    "id": {
+      "name": "NSS",
+      "value": "87 96 38 8927 6"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "MX"
   }
 ]
