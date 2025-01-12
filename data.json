@@ -20998,5 +20998,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Anisiy",
+      "last": "Levkiv"
+    },
+    "location": {
+      "street": {
+        "number": 5273,
+        "name": "Kulikovskiy provulok"
+      },
+      "city": "Almazna",
+      "state": "Dnipropetrovska",
+      "country": "Ukraine",
+      "postcode": 16144,
+      "coordinates": {
+        "latitude": "74.7541",
+        "longitude": "-118.5412"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "anisiy.levkiv@example.com",
+    "login": {
+      "uuid": "07587021-0849-4cba-ac78-016f77623618",
+      "username": "lazyleopard127",
+      "password": "sahara",
+      "salt": "dIrMVTO3",
+      "md5": "bfd9d647b9be4d5e016aeb9229d9edcd",
+      "sha1": "e03d2b68c7cd4eedfdbfda4a23b1937ffe21e1d8",
+      "sha256": "651dc25be8ee792059c956fa133d9fbd5aee5904151f55e0e4edbde374bea28a"
+    },
+    "dob": {
+      "date": "1948-10-26T02:37:40.725Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2010-02-22T08:54:33.736Z",
+      "age": 14
+    },
+    "phone": "(096) L41-1315",
+    "cell": "(067) K78-9662",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/97.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    },
+    "nat": "UA"
   }
 ]
