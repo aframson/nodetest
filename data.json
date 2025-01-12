@@ -21054,5 +21054,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Carlos",
+      "last": "Prieto"
+    },
+    "location": {
+      "street": {
+        "number": 4518,
+        "name": "Ampliación Finlandia"
+      },
+      "city": "Paso de Arena",
+      "state": "Aguascalientes",
+      "country": "Mexico",
+      "postcode": 96252,
+      "coordinates": {
+        "latitude": "26.9627",
+        "longitude": "-160.5628"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "carlos.prieto@example.com",
+    "login": {
+      "uuid": "2b27090f-2ace-4355-baef-c0fb805285b2",
+      "username": "tinywolf786",
+      "password": "passport",
+      "salt": "hPV7muwT",
+      "md5": "2339d6d9b10a27c12cc9bb953f90fd6b",
+      "sha1": "879ac3d5968b21778301d7f810c887c0c9978a9b",
+      "sha256": "79e7f591b32f1e2c025974cddaca438da9d4e84d42b02dedfd3089b2af0f4563"
+    },
+    "dob": {
+      "date": "1944-09-21T16:24:02.291Z",
+      "age": 80
+    },
+    "registered": {
+      "date": "2021-11-30T09:23:10.273Z",
+      "age": 3
+    },
+    "phone": "(650) 315 3715",
+    "cell": "(649) 807 5156",
+    "id": {
+      "name": "NSS",
+      "value": "46 50 14 1213 0"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/72.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+    },
+    "nat": "MX"
   }
 ]
