@@ -20774,5 +20774,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Benjamin",
+      "last": "Jones"
+    },
+    "location": {
+      "street": {
+        "number": 8331,
+        "name": "Penrose Road"
+      },
+      "city": "Invercargill",
+      "state": "Hawke'S Bay",
+      "country": "New Zealand",
+      "postcode": 51633,
+      "coordinates": {
+        "latitude": "52.6946",
+        "longitude": "-176.8291"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "benjamin.jones@example.com",
+    "login": {
+      "uuid": "256da547-f616-4c36-9606-8a17f996e3d3",
+      "username": "angrygorilla569",
+      "password": "garion",
+      "salt": "9xeyWpxw",
+      "md5": "7ec619996e8dd6385a5bb776fcc563cc",
+      "sha1": "26efe4aa5703dde212d01118596ff100b441a06e",
+      "sha256": "7e48e68054dc3041350670d59ae47ccab327950923c74c61d441b310f52e1b11"
+    },
+    "dob": {
+      "date": "1982-09-04T06:13:35.554Z",
+      "age": 42
+    },
+    "registered": {
+      "date": "2004-03-22T04:44:34.884Z",
+      "age": 20
+    },
+    "phone": "(965)-382-8220",
+    "cell": "(917)-062-8045",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/48.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    },
+    "nat": "NZ"
   }
 ]
