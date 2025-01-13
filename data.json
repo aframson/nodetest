@@ -21278,5 +21278,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Cheslav",
+      "last": "Buhalo"
+    },
+    "location": {
+      "street": {
+        "number": 5967,
+        "name": "Provulok Borovikovskogo"
+      },
+      "city": "Ostrog",
+      "state": "Chernivecka",
+      "country": "Ukraine",
+      "postcode": 24742,
+      "coordinates": {
+        "latitude": "74.9377",
+        "longitude": "-165.4309"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "cheslav.buhalo@example.com",
+    "login": {
+      "uuid": "f1791af2-5ccd-4af0-a2ef-39279d47a5fd",
+      "username": "whitezebra288",
+      "password": "bongo",
+      "salt": "uYX1N0cQ",
+      "md5": "4d67eb5b22b3c117a54bee129bda82fa",
+      "sha1": "d91d18eb25cb2908d7ab9023380450d013204d7d",
+      "sha256": "8231ab1dc22133c2022ce4f49f9d3a6dda06645db881eab5391bc6a56ac283ba"
+    },
+    "dob": {
+      "date": "1979-05-14T05:03:02.526Z",
+      "age": 45
+    },
+    "registered": {
+      "date": "2005-03-01T00:33:55.413Z",
+      "age": 19
+    },
+    "phone": "(097) V24-6398",
+    "cell": "(099) T65-4837",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/46.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+    },
+    "nat": "UA"
   }
 ]
