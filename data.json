@@ -21334,5 +21334,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Julien",
+      "last": "Vincent"
+    },
+    "location": {
+      "street": {
+        "number": 4844,
+        "name": "Rue des Abbesses"
+      },
+      "city": "Schlosswil",
+      "state": "St. Gallen",
+      "country": "Switzerland",
+      "postcode": 7704,
+      "coordinates": {
+        "latitude": "-61.3515",
+        "longitude": "-91.1287"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "julien.vincent@example.com",
+    "login": {
+      "uuid": "8f27acbd-6534-4378-9ba4-10a4b1ab907b",
+      "username": "purplefish159",
+      "password": "r2d2c3po",
+      "salt": "AwoqoEFe",
+      "md5": "c65465989d519c3ba286964f55698505",
+      "sha1": "8f3276051d9e9f2228e962af3e36c7c1a702134e",
+      "sha256": "9256280f1c97b145cb00b62bea477cde4b3bc369d89e1363fac78c1cc2736747"
+    },
+    "dob": {
+      "date": "1945-12-04T08:42:02.541Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2014-11-30T12:36:00.964Z",
+      "age": 10
+    },
+    "phone": "075 675 04 76",
+    "cell": "077 380 93 32",
+    "id": {
+      "name": "AVS",
+      "value": "756.3272.1036.33"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/27.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    },
+    "nat": "CH"
   }
 ]
