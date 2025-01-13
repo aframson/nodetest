@@ -21670,5 +21670,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Knud",
+      "last": "Bohlen"
+    },
+    "location": {
+      "street": {
+        "number": 2882,
+        "name": "Raiffeisenstraße"
+      },
+      "city": "Manderscheid",
+      "state": "Bremen",
+      "country": "Germany",
+      "postcode": 17617,
+      "coordinates": {
+        "latitude": "-55.0888",
+        "longitude": "-114.0675"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "knud.bohlen@example.com",
+    "login": {
+      "uuid": "9174c841-201e-4fb7-8d61-43438214e942",
+      "username": "happybutterfly351",
+      "password": "spoons",
+      "salt": "jbe47UEq",
+      "md5": "228ea2f513e9660b1d9a7895b6f46785",
+      "sha1": "4ee8b5cd5b84f9d6ed3bc978ee9007306f62ad4b",
+      "sha256": "7d82769864d75ada62af74ffae3178e37e0bc9eb9a723d9dd5469a20a15ab4c7"
+    },
+    "dob": {
+      "date": "1955-08-12T07:07:35.990Z",
+      "age": 69
+    },
+    "registered": {
+      "date": "2008-02-18T10:17:29.060Z",
+      "age": 16
+    },
+    "phone": "0510-2953132",
+    "cell": "0170-9802348",
+    "id": {
+      "name": "SVNR",
+      "value": "63 120855 B 469"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/20.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    },
+    "nat": "DE"
   }
 ]
