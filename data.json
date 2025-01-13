@@ -21502,5 +21502,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Daniel",
+      "last": "Santos"
+    },
+    "location": {
+      "street": {
+        "number": 1258,
+        "name": "Rua Três"
+      },
+      "city": "Ourinhos",
+      "state": "Pernambuco",
+      "country": "Brazil",
+      "postcode": 17129,
+      "coordinates": {
+        "latitude": "-72.9730",
+        "longitude": "-157.9773"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "daniel.santos@example.com",
+    "login": {
+      "uuid": "4e12e991-9120-40a6-9c50-02055edf8a10",
+      "username": "goldenbear149",
+      "password": "ripple",
+      "salt": "LflbcOxf",
+      "md5": "ec4a6869f069e78235c361d80714ec57",
+      "sha1": "9db14296316571bd71a86581925edf18e2a98992",
+      "sha256": "d79216d9b2388bd6292820b6c55083b4c6489b8f4867f5d09c39aaf043b58fd2"
+    },
+    "dob": {
+      "date": "1952-04-14T20:10:07.273Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2002-11-23T02:55:56.330Z",
+      "age": 22
+    },
+    "phone": "(39) 8956-0074",
+    "cell": "(29) 4987-7806",
+    "id": {
+      "name": "CPF",
+      "value": "141.101.851-95"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/33.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+    },
+    "nat": "BR"
   }
 ]
