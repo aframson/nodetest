@@ -21558,5 +21558,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Patrick",
+      "last": "Lambert"
+    },
+    "location": {
+      "street": {
+        "number": 4943,
+        "name": "Rue de L'Abbé-Groult"
+      },
+      "city": "Onnens (Vd)",
+      "state": "Nidwalden",
+      "country": "Switzerland",
+      "postcode": 5121,
+      "coordinates": {
+        "latitude": "-62.2323",
+        "longitude": "-7.8762"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "patrick.lambert@example.com",
+    "login": {
+      "uuid": "c7378a83-c866-4390-b8fa-5ec078af6320",
+      "username": "whiteostrich427",
+      "password": "leroy",
+      "salt": "YHAzpLcm",
+      "md5": "f46993ee78cd05f7aa2c670ec741cb73",
+      "sha1": "d78435c727b63b11372f8f60f5f51c2c81ce1122",
+      "sha256": "59022ab431d37c2eaa6bd8bbf01943c9462425a31b6d1bdd50fcf7c056f5768f"
+    },
+    "dob": {
+      "date": "1996-08-03T08:07:04.790Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2018-05-01T17:45:04.936Z",
+      "age": 6
+    },
+    "phone": "077 693 21 03",
+    "cell": "076 703 89 15",
+    "id": {
+      "name": "AVS",
+      "value": "756.2327.9100.70"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/1.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    },
+    "nat": "CH"
   }
 ]
