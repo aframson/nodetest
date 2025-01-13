@@ -21782,5 +21782,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Jakob",
+      "last": "Charles"
+    },
+    "location": {
+      "street": {
+        "number": 5730,
+        "name": "Avenue du Château"
+      },
+      "city": "Buchrain",
+      "state": "Zug",
+      "country": "Switzerland",
+      "postcode": 5140,
+      "coordinates": {
+        "latitude": "-60.7173",
+        "longitude": "-12.1218"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "jakob.charles@example.com",
+    "login": {
+      "uuid": "72b902f7-ad8f-449d-94d5-407970c9d322",
+      "username": "ticklishfrog356",
+      "password": "daman",
+      "salt": "P2H0rJ12",
+      "md5": "f4462e137f64b5da1df50145ed8cbc44",
+      "sha1": "7eff728f8a104c2b016c15a540232e351a172256",
+      "sha256": "3f706e26236935d7d9a7ec9420de7380aba85c28e848dc4f3a659b5b184a2f46"
+    },
+    "dob": {
+      "date": "1946-02-03T11:50:56.222Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2011-04-16T18:45:43.480Z",
+      "age": 13
+    },
+    "phone": "075 758 11 18",
+    "cell": "078 863 83 35",
+    "id": {
+      "name": "AVS",
+      "value": "756.7409.5284.12"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/59.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    },
+    "nat": "CH"
   }
 ]
