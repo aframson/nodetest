@@ -22174,5 +22174,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Júnio",
+      "last": "Gonçalves"
+    },
+    "location": {
+      "street": {
+        "number": 2693,
+        "name": "Rua Castro Alves "
+      },
+      "city": "Paço do Lumiar",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "postcode": 21517,
+      "coordinates": {
+        "latitude": "-76.1682",
+        "longitude": "-102.3620"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "junio.goncalves@example.com",
+    "login": {
+      "uuid": "97743a32-5e3b-4963-a6ad-fcec045ae876",
+      "username": "redswan947",
+      "password": "hayabusa",
+      "salt": "t3nSKAnQ",
+      "md5": "a01370dee0e389e639de7260bc88ec67",
+      "sha1": "2f0310e32e64911c2f0619683a363380617d1f95",
+      "sha256": "787d8634ae5314c873c5e3756313d3979e022bb50e9a876711341810d1584897"
+    },
+    "dob": {
+      "date": "1990-02-22T00:07:34.924Z",
+      "age": 34
+    },
+    "registered": {
+      "date": "2020-12-06T08:50:14.029Z",
+      "age": 4
+    },
+    "phone": "(02) 3695-4394",
+    "cell": "(75) 6535-0489",
+    "id": {
+      "name": "CPF",
+      "value": "495.114.176-03"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+    },
+    "nat": "BR"
   }
 ]
