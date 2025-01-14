@@ -22454,5 +22454,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Edmur",
+      "last": "Novaes"
+    },
+    "location": {
+      "street": {
+        "number": 7487,
+        "name": "Avenida da Legalidade"
+      },
+      "city": "Simões Filho",
+      "state": "Mato Grosso",
+      "country": "Brazil",
+      "postcode": 12008,
+      "coordinates": {
+        "latitude": "-75.0825",
+        "longitude": "-74.2678"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "edmur.novaes@example.com",
+    "login": {
+      "uuid": "5a8b0d50-b146-49dd-8e97-126d38e69a90",
+      "username": "organickoala185",
+      "password": "tomahawk",
+      "salt": "RfrAMZZW",
+      "md5": "e6e81110ef567352e40143bed1a148c7",
+      "sha1": "74efad9f2a6147b173432ce0239d25ed4af2aafa",
+      "sha256": "5f7cd3cebaa272c726ead44b162c384c8c0ba2eab1e988322dff504ad8833d63"
+    },
+    "dob": {
+      "date": "1955-02-24T17:43:39.543Z",
+      "age": 69
+    },
+    "registered": {
+      "date": "2010-02-25T21:53:25.671Z",
+      "age": 14
+    },
+    "phone": "(15) 9466-5046",
+    "cell": "(65) 2134-6822",
+    "id": {
+      "name": "CPF",
+      "value": "164.040.966-70"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/82.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+    },
+    "nat": "BR"
   }
 ]
