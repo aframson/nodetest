@@ -21894,5 +21894,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Luis",
+      "last": "Myers"
+    },
+    "location": {
+      "street": {
+        "number": 5663,
+        "name": "Edwards Rd"
+      },
+      "city": "Shepparton",
+      "state": "Tasmania",
+      "country": "Australia",
+      "postcode": 9442,
+      "coordinates": {
+        "latitude": "-82.6854",
+        "longitude": "-94.4455"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "luis.myers@example.com",
+    "login": {
+      "uuid": "aab94bac-1fad-4832-b99e-e486e031e410",
+      "username": "organictiger890",
+      "password": "magneto",
+      "salt": "e7OZGojm",
+      "md5": "c192b33bdb581b7db3af2b86e78c866c",
+      "sha1": "f496c851f521780b7c9fc44b1e90ad38173fb014",
+      "sha256": "8cfc4f07caf235eb7fb0fac99779e1a99354a658d859328d3dbeeb8fadcbd2e9"
+    },
+    "dob": {
+      "date": "1962-03-30T21:16:30.217Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2012-07-20T23:40:41.678Z",
+      "age": 12
+    },
+    "phone": "09-0218-2002",
+    "cell": "0462-381-273",
+    "id": {
+      "name": "TFN",
+      "value": "466616824"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    },
+    "nat": "AU"
   }
 ]
