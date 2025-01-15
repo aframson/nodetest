@@ -22622,5 +22622,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "David",
+      "last": "Bakić"
+    },
+    "location": {
+      "street": {
+        "number": 3136,
+        "name": "Zmajevačka"
+      },
+      "city": "Merošina",
+      "state": "Raška",
+      "country": "Serbia",
+      "postcode": 69869,
+      "coordinates": {
+        "latitude": "60.2891",
+        "longitude": "-75.7440"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "david.bakic@example.com",
+    "login": {
+      "uuid": "20a5f7ba-e7a2-4a31-b377-b8d844bf6853",
+      "username": "lazyladybug749",
+      "password": "chevy",
+      "salt": "4BNjPmgB",
+      "md5": "dc8e977498e5310b651d2a2cbf1c4f36",
+      "sha1": "2b1d60994cb3e00547fa711188b49e5b9fa6ff90",
+      "sha256": "7b93336bb5c46b167c59a4e644fca324e8b2068d8ccb09ea982b2b5abe8404e1"
+    },
+    "dob": {
+      "date": "1975-09-08T23:05:56.946Z",
+      "age": 49
+    },
+    "registered": {
+      "date": "2019-04-03T10:56:41.111Z",
+      "age": 5
+    },
+    "phone": "012-7945-325",
+    "cell": "061-0083-003",
+    "id": {
+      "name": "SID",
+      "value": "793260088"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/53.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    },
+    "nat": "RS"
   }
 ]
