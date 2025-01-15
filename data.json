@@ -23126,5 +23126,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Tallak",
+      "last": "Klepp"
+    },
+    "location": {
+      "street": {
+        "number": 7816,
+        "name": "Madserud allé"
+      },
+      "city": "Røros",
+      "state": "Hedmark",
+      "country": "Norway",
+      "postcode": "4343",
+      "coordinates": {
+        "latitude": "46.6726",
+        "longitude": "-154.0002"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "tallak.klepp@example.com",
+    "login": {
+      "uuid": "d65c8a40-9fd1-417f-90bc-a24569174982",
+      "username": "redrabbit687",
+      "password": "31415926",
+      "salt": "K8YhdD9v",
+      "md5": "dedcc7c4c6c449756c69b1838777e3fe",
+      "sha1": "99a0f79e50486149d9fc5a85385bffbe573d347c",
+      "sha256": "d4f2dcb5d2ddf62eb6d17231b59f0edb6b72daa5b37944064995fa8cfb602aa0"
+    },
+    "dob": {
+      "date": "1953-03-19T15:41:34.049Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2008-01-04T08:01:19.780Z",
+      "age": 17
+    },
+    "phone": "55143651",
+    "cell": "95297875",
+    "id": {
+      "name": "FN",
+      "value": "19035312989"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/33.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+    },
+    "nat": "NO"
   }
 ]
