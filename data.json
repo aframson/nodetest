@@ -22566,5 +22566,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Yarchik",
+      "last": "Trocyuk"
+    },
+    "location": {
+      "street": {
+        "number": 982,
+        "name": "Metlinskogo"
+      },
+      "city": "Almazna",
+      "state": "Zaporizka",
+      "country": "Ukraine",
+      "postcode": 36806,
+      "coordinates": {
+        "latitude": "76.1169",
+        "longitude": "-33.7675"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "yarchik.trocyuk@example.com",
+    "login": {
+      "uuid": "fd013054-9192-48f8-ad1d-40f9337bcb12",
+      "username": "beautifulswan379",
+      "password": "survivor",
+      "salt": "JeJjF0Hx",
+      "md5": "7bcb62ba23ed0b872c5f29c4d6786d8c",
+      "sha1": "ea5e5529d9773f19117f4fe3ceb8c75765e390a1",
+      "sha256": "27d6207985623474ef10118e27b17993d857483929d8b659e37a8928cb06a0e2"
+    },
+    "dob": {
+      "date": "1947-03-06T03:48:58.631Z",
+      "age": 77
+    },
+    "registered": {
+      "date": "2021-12-21T12:47:21.951Z",
+      "age": 3
+    },
+    "phone": "(067) G47-7611",
+    "cell": "(066) U93-3075",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/58.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+    },
+    "nat": "UA"
   }
 ]
