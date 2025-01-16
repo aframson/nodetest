@@ -23518,5 +23518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "José Manuél",
+      "last": "Guzmán"
+    },
+    "location": {
+      "street": {
+        "number": 3103,
+        "name": "Callejón Mauricio"
+      },
+      "city": "Campo Número Ocho",
+      "state": "Nuevo Leon",
+      "country": "Mexico",
+      "postcode": 73560,
+      "coordinates": {
+        "latitude": "27.8432",
+        "longitude": "-102.3128"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "josemanuel.guzman@example.com",
+    "login": {
+      "uuid": "86e4319b-155e-4846-be8b-3112e127012c",
+      "username": "orangepanda319",
+      "password": "tottenham",
+      "salt": "hwv6Ipy7",
+      "md5": "c11a69121e3349fea226109c52200cdb",
+      "sha1": "c1ebe0a2c0c642252e245c2e6b3e9d8a6f39bcb8",
+      "sha256": "9ffa9f791f27595cd78e2ebd59d84167b826abae62558ab68a0d7d20cdbd9b27"
+    },
+    "dob": {
+      "date": "1948-04-06T04:56:06.805Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2003-08-08T12:53:14.501Z",
+      "age": 21
+    },
+    "phone": "(681) 140 1175",
+    "cell": "(656) 438 0327",
+    "id": {
+      "name": "NSS",
+      "value": "34 58 75 9392 0"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/14.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+    },
+    "nat": "MX"
   }
 ]
