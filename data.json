@@ -23462,5 +23462,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Goran",
+      "last": "Kojić"
+    },
+    "location": {
+      "street": {
+        "number": 6265,
+        "name": "Kosmajska"
+      },
+      "city": "Merošina",
+      "state": "Moravica",
+      "country": "Serbia",
+      "postcode": 47412,
+      "coordinates": {
+        "latitude": "55.8717",
+        "longitude": "-122.2275"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "goran.kojic@example.com",
+    "login": {
+      "uuid": "45ba6756-3d3e-4f90-a123-90dc5eb336e4",
+      "username": "bluedog616",
+      "password": "admin",
+      "salt": "o2n68JaO",
+      "md5": "d3f834f02ba5072ed323750dbf75de18",
+      "sha1": "e93b5ebd1a9ececd5711d8682b4360cac6a2d98a",
+      "sha256": "db5b28bb17277b8cb78d41f373111054c75787ecd84779f470741d4faec76fcc"
+    },
+    "dob": {
+      "date": "1947-12-09T01:50:43.147Z",
+      "age": 77
+    },
+    "registered": {
+      "date": "2019-04-02T09:28:17.233Z",
+      "age": 5
+    },
+    "phone": "019-7213-833",
+    "cell": "065-5400-601",
+    "id": {
+      "name": "SID",
+      "value": "631727459"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+    },
+    "nat": "RS"
   }
 ]
