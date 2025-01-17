@@ -24022,5 +24022,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jatin",
+      "last": "Nagane"
+    },
+    "location": {
+      "street": {
+        "number": 4088,
+        "name": "Linking Rd"
+      },
+      "city": "Srinagar",
+      "state": "Odisha",
+      "country": "India",
+      "postcode": 93681,
+      "coordinates": {
+        "latitude": "12.6614",
+        "longitude": "-43.2453"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "jatin.nagane@example.com",
+    "login": {
+      "uuid": "88c67ebe-26f1-46ab-b377-e32ac25de315",
+      "username": "heavyladybug915",
+      "password": "chilly",
+      "salt": "jA0gxNRo",
+      "md5": "5110969666599ab043f94ca917b56983",
+      "sha1": "e5ea8bc0540d4730f72fed9d60edad8bb18bca07",
+      "sha256": "5decb791d173eb5a8deab883dbeb33df2d4920359fde991c37660c0b2001b222"
+    },
+    "dob": {
+      "date": "1957-08-09T00:02:04.791Z",
+      "age": 67
+    },
+    "registered": {
+      "date": "2004-11-01T09:52:32.975Z",
+      "age": 20
+    },
+    "phone": "9138921376",
+    "cell": "7152690394",
+    "id": {
+      "name": "UIDAI",
+      "value": "936215832433"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/67.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+    },
+    "nat": "IN"
   }
 ]
