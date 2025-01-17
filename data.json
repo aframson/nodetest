@@ -24134,5 +24134,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Theodor",
+      "last": "Sivertsen"
+    },
+    "location": {
+      "street": {
+        "number": 4066,
+        "name": "Selvbyggerveien"
+      },
+      "city": "Farstad",
+      "state": "Trøndelag",
+      "country": "Norway",
+      "postcode": "0360",
+      "coordinates": {
+        "latitude": "41.2506",
+        "longitude": "-0.4089"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "theodor.sivertsen@example.com",
+    "login": {
+      "uuid": "eb16b2e4-9255-4ff6-a02a-8e0b3450317b",
+      "username": "blackmouse566",
+      "password": "1970",
+      "salt": "Jjvw77x6",
+      "md5": "217de8872c2fc4eafe9890831e6342bb",
+      "sha1": "9be911ce02823fb41d7378fd817ee950dc0cfda4",
+      "sha256": "ec4d7402ba8217c9bfadaff789f68049a2b939dd2006800b8c25f394a7c79894"
+    },
+    "dob": {
+      "date": "1997-05-06T12:33:44.886Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2003-05-25T12:09:45.628Z",
+      "age": 21
+    },
+    "phone": "32301047",
+    "cell": "44218709",
+    "id": {
+      "name": "FN",
+      "value": "06059713912"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/72.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+    },
+    "nat": "NO"
   }
 ]
