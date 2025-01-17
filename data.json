@@ -24470,5 +24470,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Roberto",
+      "last": "Simmmons"
+    },
+    "location": {
+      "street": {
+        "number": 4545,
+        "name": "Hogan St"
+      },
+      "city": "Darwin",
+      "state": "South Australia",
+      "country": "Australia",
+      "postcode": 5526,
+      "coordinates": {
+        "latitude": "-89.5082",
+        "longitude": "-8.9435"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "roberto.simmmons@example.com",
+    "login": {
+      "uuid": "dd376598-66e8-410a-ba8a-89e432fd9cb1",
+      "username": "orangemouse565",
+      "password": "natalie1",
+      "salt": "yx3GfaQR",
+      "md5": "9b4f319575f2aef130f790782c52fbbc",
+      "sha1": "fb92342404f5dea7b1020c7c67a3db0090b88d56",
+      "sha256": "6d843440b3226b4bae079be5cae0ceccdcbc4c42fb24a64ede9d40615246a633"
+    },
+    "dob": {
+      "date": "1978-11-09T07:28:45.890Z",
+      "age": 46
+    },
+    "registered": {
+      "date": "2021-01-20T11:32:19.162Z",
+      "age": 3
+    },
+    "phone": "02-1985-8711",
+    "cell": "0488-733-948",
+    "id": {
+      "name": "TFN",
+      "value": "974084179"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/31.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+    },
+    "nat": "AU"
   }
 ]
