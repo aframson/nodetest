@@ -24638,5 +24638,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Tristan",
+      "last": "Renaud"
+    },
+    "location": {
+      "street": {
+        "number": 6896,
+        "name": "Rue Paul-Duvivier"
+      },
+      "city": "Caen",
+      "state": "Jura",
+      "country": "France",
+      "postcode": 75633,
+      "coordinates": {
+        "latitude": "-15.2122",
+        "longitude": "-46.4247"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "tristan.renaud@example.com",
+    "login": {
+      "uuid": "fd4bf38b-a3a7-4dd7-a0a4-38852895184a",
+      "username": "redfish278",
+      "password": "987456",
+      "salt": "OnOD2ZB6",
+      "md5": "6a8f4650c72443aca9504a9274fcf69c",
+      "sha1": "c1421b0c1c5067fd3f23202a673a0248d1198669",
+      "sha256": "2520e500a7c88b9a81ce0cebe1e7944d8d0ecdb7a22e24c831601152cf2315cc"
+    },
+    "dob": {
+      "date": "1974-03-18T08:53:22.346Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2013-01-03T19:04:18.319Z",
+      "age": 12
+    },
+    "phone": "01-56-30-52-68",
+    "cell": "06-94-79-50-42",
+    "id": {
+      "name": "INSEE",
+      "value": "1740258945017 82"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "FR"
   }
 ]
