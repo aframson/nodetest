@@ -24750,5 +24750,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Milosav",
+      "last": "Tasić"
+    },
+    "location": {
+      "street": {
+        "number": 4117,
+        "name": "Anđelije Milić"
+      },
+      "city": "Alibunar",
+      "state": "Kosovska Mitrovica",
+      "country": "Serbia",
+      "postcode": 88747,
+      "coordinates": {
+        "latitude": "64.1370",
+        "longitude": "-154.6229"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "milosav.tasic@example.com",
+    "login": {
+      "uuid": "7c36004d-02c1-4d71-96ed-82cd7e22da09",
+      "username": "tinysnake563",
+      "password": "gaymen",
+      "salt": "cjUd1Dg2",
+      "md5": "f9f9bc634062eac956c8a83f95fd3358",
+      "sha1": "eb6eef68c245b27ca08715b02b0b57d6ff3641a4",
+      "sha256": "20158292633c4073c1136d993d5fb8615f4360d64431011d1609f99b34ad8f82"
+    },
+    "dob": {
+      "date": "1952-12-15T07:26:40.893Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2018-05-20T20:29:21.854Z",
+      "age": 6
+    },
+    "phone": "029-1186-060",
+    "cell": "064-1559-394",
+    "id": {
+      "name": "SID",
+      "value": "466565911"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/87.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+    },
+    "nat": "RS"
   }
 ]
