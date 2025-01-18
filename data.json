@@ -24694,5 +24694,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alvin",
+      "last": "Hamilton"
+    },
+    "location": {
+      "street": {
+        "number": 6699,
+        "name": "Harrison Ct"
+      },
+      "city": "Orange",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "postcode": 6733,
+      "coordinates": {
+        "latitude": "-86.4838",
+        "longitude": "-174.4188"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "alvin.hamilton@example.com",
+    "login": {
+      "uuid": "055a5a1a-c3d3-4e4c-92a3-cee37020539c",
+      "username": "redduck779",
+      "password": "brains",
+      "salt": "YnYl4tXv",
+      "md5": "17b11438d6b75b5ca0acd18f355b466e",
+      "sha1": "1e08d739c39aef5d47f47518ac0af26d5eac5e94",
+      "sha256": "abe4a6767dcc2acd2300c34ce8912fe930afd7cd92de0a647611632cd086b279"
+    },
+    "dob": {
+      "date": "1995-07-29T17:21:37.735Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2020-11-21T17:08:37.307Z",
+      "age": 4
+    },
+    "phone": "04-0103-1574",
+    "cell": "0463-774-969",
+    "id": {
+      "name": "TFN",
+      "value": "908024033"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/24.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+    },
+    "nat": "AU"
   }
 ]
