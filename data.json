@@ -24974,5 +24974,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Caim",
+      "last": "Rezende"
+    },
+    "location": {
+      "street": {
+        "number": 5881,
+        "name": "Rua Piauí "
+      },
+      "city": "Alagoinhas",
+      "state": "Distrito Federal",
+      "country": "Brazil",
+      "postcode": 32900,
+      "coordinates": {
+        "latitude": "-78.6594",
+        "longitude": "-51.9594"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "caim.rezende@example.com",
+    "login": {
+      "uuid": "3dd98044-cac6-4b5f-8db1-1d36bc6e349b",
+      "username": "sadbutterfly195",
+      "password": "studly",
+      "salt": "YOVzTw8c",
+      "md5": "9a088e175345cd65dbf95b88d7f8088b",
+      "sha1": "b0f0f635edf8b94ba20e5da34ff85205d5627de2",
+      "sha256": "e3e188a04d03c52d7ec1dc0eb7905f33cb6393992dea66f24e757e9b51dbcd27"
+    },
+    "dob": {
+      "date": "1993-02-03T00:07:11.619Z",
+      "age": 31
+    },
+    "registered": {
+      "date": "2006-10-15T18:24:59.691Z",
+      "age": 18
+    },
+    "phone": "(77) 3922-5784",
+    "cell": "(69) 3986-1565",
+    "id": {
+      "name": "CPF",
+      "value": "771.754.895-38"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    },
+    "nat": "BR"
   }
 ]
