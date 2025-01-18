@@ -24582,5 +24582,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Alfred",
+      "last": "Jensen"
+    },
+    "location": {
+      "street": {
+        "number": 588,
+        "name": "Mejerivej"
+      },
+      "city": "Overby Lyng",
+      "state": "Danmark",
+      "country": "Denmark",
+      "postcode": 71852,
+      "coordinates": {
+        "latitude": "-39.7511",
+        "longitude": "-49.6069"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "alfred.jensen@example.com",
+    "login": {
+      "uuid": "13d0890a-f4a6-4455-bab3-67b880acfbf2",
+      "username": "silverduck491",
+      "password": "napster",
+      "salt": "0rPzsuuC",
+      "md5": "9453d4730166685c8ea2a6b2594c9dc6",
+      "sha1": "e79b3a835deff8eebda905c5ee9936b64a1d3b56",
+      "sha256": "3a2d61cfee6e85486b53b491050f00cba2ae3feb02833ec75934732656c16d24"
+    },
+    "dob": {
+      "date": "1970-02-28T04:35:42.349Z",
+      "age": 54
+    },
+    "registered": {
+      "date": "2016-09-24T07:02:53.785Z",
+      "age": 8
+    },
+    "phone": "50679691",
+    "cell": "21545623",
+    "id": {
+      "name": "CPR",
+      "value": "270270-9221"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/53.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    },
+    "nat": "DK"
   }
 ]
