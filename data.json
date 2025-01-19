@@ -25646,5 +25646,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Yatin",
+      "last": "Gamskar"
+    },
+    "location": {
+      "street": {
+        "number": 9917,
+        "name": "Hazratganj"
+      },
+      "city": "Shimla",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "postcode": 85615,
+      "coordinates": {
+        "latitude": "9.5397",
+        "longitude": "-111.8154"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "yatin.gamskar@example.com",
+    "login": {
+      "uuid": "f4ff5dfd-0fb3-45b5-a6b8-723bd24a17ca",
+      "username": "sadlion545",
+      "password": "guitar",
+      "salt": "b0SowRu6",
+      "md5": "b19e2e92de7e7849b332802099b36059",
+      "sha1": "3f0f28979bcd7fa1f871098fb9128457683277b8",
+      "sha256": "f1f9bef22678c0e53e805000b45913e4733896d88adeb858bb40c8667ac090e9"
+    },
+    "dob": {
+      "date": "1953-05-26T19:00:52.258Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2006-10-20T02:33:44.138Z",
+      "age": 18
+    },
+    "phone": "9126147677",
+    "cell": "8393927725",
+    "id": {
+      "name": "UIDAI",
+      "value": "363001073501"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/71.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    },
+    "nat": "IN"
   }
 ]
