@@ -25422,5 +25422,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Denis",
+      "last": "Shramchenko"
+    },
+    "location": {
+      "street": {
+        "number": 463,
+        "name": "Pravoberezhna"
+      },
+      "city": "Bryanka",
+      "state": "Zhitomirska",
+      "country": "Ukraine",
+      "postcode": 75124,
+      "coordinates": {
+        "latitude": "75.2066",
+        "longitude": "-88.0397"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "denis.shramchenko@example.com",
+    "login": {
+      "uuid": "4fa0b13b-bc66-4419-a3a6-cff4c601eb47",
+      "username": "purplegorilla791",
+      "password": "chacha",
+      "salt": "SYAyqgIj",
+      "md5": "91bce398dc80fb93567961b1befc6e9c",
+      "sha1": "5e57c2cf3b2e6bf8d617d09e8d6e0417a091ae15",
+      "sha256": "34882a1d5710a8075e699c07a92da44d2fbf69ab7b27ed67b7b146f50646c95f"
+    },
+    "dob": {
+      "date": "2000-11-11T09:45:02.313Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2022-03-02T18:37:10.857Z",
+      "age": 2
+    },
+    "phone": "(098) L01-9724",
+    "cell": "(068) N75-5520",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/29.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+    },
+    "nat": "UA"
   }
 ]
