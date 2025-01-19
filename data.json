@@ -25254,5 +25254,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Toivo",
+      "last": "Makinen"
+    },
+    "location": {
+      "street": {
+        "number": 1007,
+        "name": "Pyynikintie"
+      },
+      "city": "Hattula",
+      "state": "Northern Savonia",
+      "country": "Finland",
+      "postcode": 69918,
+      "coordinates": {
+        "latitude": "-27.9820",
+        "longitude": "-97.1807"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "toivo.makinen@example.com",
+    "login": {
+      "uuid": "d8d1a17a-45b5-412f-b6be-fb1294e5d3f0",
+      "username": "sadtiger994",
+      "password": "greene",
+      "salt": "rwRthk9U",
+      "md5": "b1b91c4ab06c58eb4b9f59f8574935d0",
+      "sha1": "dff074dbd26536ba5370710b78366d92169e0421",
+      "sha256": "f801f60c1ca8df961352ae0de851ab89e4d51d2f2f1193ef2cbc6c1112697ec4"
+    },
+    "dob": {
+      "date": "1985-03-17T23:21:46.432Z",
+      "age": 39
+    },
+    "registered": {
+      "date": "2003-11-13T01:42:34.293Z",
+      "age": 21
+    },
+    "phone": "06-293-819",
+    "cell": "040-332-74-55",
+    "id": {
+      "name": "HETU",
+      "value": "NaNNA511undefined"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/16.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    },
+    "nat": "FI"
   }
 ]
