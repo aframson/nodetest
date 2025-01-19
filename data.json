@@ -25366,5 +25366,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Micheal",
+      "last": "Brown"
+    },
+    "location": {
+      "street": {
+        "number": 4850,
+        "name": "Taylor St"
+      },
+      "city": "Santa Rosa",
+      "state": "California",
+      "country": "United States",
+      "postcode": 26425,
+      "coordinates": {
+        "latitude": "85.5256",
+        "longitude": "-176.7510"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "micheal.brown@example.com",
+    "login": {
+      "uuid": "b1b7dc12-ca23-44a8-ad14-9e797497faae",
+      "username": "beautifulelephant607",
+      "password": "spanking",
+      "salt": "XNkmtOG4",
+      "md5": "8cc12e1d53f0db6dd91c48e7533c8d8b",
+      "sha1": "5c407c8572361ca4494a41bfad057bf7466fe9d3",
+      "sha256": "ac58b4d9d5cf0e5eb176258fbea4be6003cb9000345f505a4ba64138a1c20854"
+    },
+    "dob": {
+      "date": "1997-03-23T16:39:10.629Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2011-11-01T23:24:40.386Z",
+      "age": 13
+    },
+    "phone": "(525) 596-6947",
+    "cell": "(309) 817-7911",
+    "id": {
+      "name": "SSN",
+      "value": "467-76-3093"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/58.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+    },
+    "nat": "US"
   }
 ]
