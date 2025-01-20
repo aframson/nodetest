@@ -25982,5 +25982,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Carter",
+      "last": "Lévesque"
+    },
+    "location": {
+      "street": {
+        "number": 9659,
+        "name": "Park Rd"
+      },
+      "city": "Odessa",
+      "state": "Northwest Territories",
+      "country": "Canada",
+      "postcode": "G9Q 6H6",
+      "coordinates": {
+        "latitude": "-65.9403",
+        "longitude": "-19.1315"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "carter.levesque@example.com",
+    "login": {
+      "uuid": "39bfaa62-dca1-44f1-a9a8-d8910292b09d",
+      "username": "redleopard882",
+      "password": "marma",
+      "salt": "ZWPet8eP",
+      "md5": "52026d1d021cd5323f8ae44a81dc90c5",
+      "sha1": "8a0c997540d7ea71470f6454723c3ec4a021331f",
+      "sha256": "8a61b322faebbf81b57ba17d57e37171db8c47ebd2c88f53ec63cc8c9e003d5d"
+    },
+    "dob": {
+      "date": "1974-02-05T12:57:06.502Z",
+      "age": 50
+    },
+    "registered": {
+      "date": "2013-12-30T23:56:39.377Z",
+      "age": 11
+    },
+    "phone": "B16 D70-5818",
+    "cell": "X92 J83-1656",
+    "id": {
+      "name": "SIN",
+      "value": "032517484"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "CA"
   }
 ]
