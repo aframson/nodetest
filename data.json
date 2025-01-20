@@ -26150,5 +26150,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "David",
+      "last": "Rojas"
+    },
+    "location": {
+      "street": {
+        "number": 3576,
+        "name": "Calle Mota"
+      },
+      "city": "Santiago de Compostela",
+      "state": "Castilla la Mancha",
+      "country": "Spain",
+      "postcode": 40345,
+      "coordinates": {
+        "latitude": "-34.5495",
+        "longitude": "-102.5833"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "david.rojas@example.com",
+    "login": {
+      "uuid": "4c35dc45-a3f0-438b-ba48-f61eb90f496f",
+      "username": "crazyleopard945",
+      "password": "phantom1",
+      "salt": "Nn0coITC",
+      "md5": "e002be147a2472eb1d8d6b36de235da3",
+      "sha1": "5ea2f83b924684deea2f485ae211c84a70df702d",
+      "sha256": "3c518c9e779b0c221965fe882805b960200976ab5d66a8b9596403b5a5172dee"
+    },
+    "dob": {
+      "date": "1968-02-06T19:32:27.106Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2004-03-24T13:21:43.064Z",
+      "age": 20
+    },
+    "phone": "975-092-549",
+    "cell": "659-111-832",
+    "id": {
+      "name": "DNI",
+      "value": "34517192-S"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/93.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+    },
+    "nat": "ES"
   }
 ]
