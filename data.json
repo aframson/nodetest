@@ -26038,5 +26038,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ryder",
+      "last": "Ouellet"
+    },
+    "location": {
+      "street": {
+        "number": 3202,
+        "name": "Alfred St"
+      },
+      "city": "Port Elgin",
+      "state": "Saskatchewan",
+      "country": "Canada",
+      "postcode": "K5H 6E2",
+      "coordinates": {
+        "latitude": "-70.0922",
+        "longitude": "-28.8625"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "ryder.ouellet@example.com",
+    "login": {
+      "uuid": "db552ad0-9244-47d3-bb71-9e7792abcefa",
+      "username": "lazybutterfly616",
+      "password": "popo",
+      "salt": "LjqsEZn9",
+      "md5": "0855471d4066eb1e79389c9c7a459760",
+      "sha1": "959f6608e4dd86eede8d63d2872fb0bd16760435",
+      "sha256": "a9cc10e66c09717df6c2b217ca05ac280ce54ef63cf111510c04c169ef1a9aef"
+    },
+    "dob": {
+      "date": "1994-05-20T15:04:59.199Z",
+      "age": 30
+    },
+    "registered": {
+      "date": "2012-01-03T04:18:41.863Z",
+      "age": 13
+    },
+    "phone": "P16 R79-9618",
+    "cell": "X07 O99-9110",
+    "id": {
+      "name": "SIN",
+      "value": "866263718"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/48.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    },
+    "nat": "CA"
   }
 ]
