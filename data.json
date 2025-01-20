@@ -26094,5 +26094,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Uroš",
+      "last": "Marinković"
+    },
+    "location": {
+      "street": {
+        "number": 4829,
+        "name": "Miloša Bajića "
+      },
+      "city": "Vladičin Han",
+      "state": "Toplica",
+      "country": "Serbia",
+      "postcode": 18227,
+      "coordinates": {
+        "latitude": "61.5921",
+        "longitude": "-21.6902"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "uros.marinkovic@example.com",
+    "login": {
+      "uuid": "d6e78ee1-33ed-4e3e-ba0d-f1dc29a89251",
+      "username": "angryswan967",
+      "password": "oliver1",
+      "salt": "nm316m4T",
+      "md5": "3443f26dc8dbe9e9cd372081d45f9e57",
+      "sha1": "e7f294f2bf4bc0c6bc303fd6a0af9edbba92557b",
+      "sha256": "f3008991239720184fe96e499257e4d085eacc71c1c66c8d71abbcfbbdd9687a"
+    },
+    "dob": {
+      "date": "1950-07-12T07:44:57.155Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2019-10-12T21:27:06.405Z",
+      "age": 5
+    },
+    "phone": "015-6551-301",
+    "cell": "063-7267-850",
+    "id": {
+      "name": "SID",
+      "value": "403119462"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+    },
+    "nat": "RS"
   }
 ]
