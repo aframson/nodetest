@@ -26934,5 +26934,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Glen",
+      "last": "Ramirez"
+    },
+    "location": {
+      "street": {
+        "number": 6734,
+        "name": "Blossom Hill Rd"
+      },
+      "city": "Bathurst",
+      "state": "Queensland",
+      "country": "Australia",
+      "postcode": 2633,
+      "coordinates": {
+        "latitude": "-86.4252",
+        "longitude": "-168.9731"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "glen.ramirez@example.com",
+    "login": {
+      "uuid": "6b9a0177-fdfd-473b-9f53-b289aac00b5d",
+      "username": "goldenduck730",
+      "password": "xander",
+      "salt": "910ZEoRL",
+      "md5": "f430effbf2ad16c33da4592b8e6accce",
+      "sha1": "c83edb3ca0737ec2b52f6fbd97890b2b41a4d4d2",
+      "sha256": "b36c6ca880687acfe94bcec9a531a8abd19f59868a69347d7be59463008eddb9"
+    },
+    "dob": {
+      "date": "1952-10-27T13:36:08.779Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2013-03-10T13:05:22.233Z",
+      "age": 11
+    },
+    "phone": "06-6800-6389",
+    "cell": "0427-461-729",
+    "id": {
+      "name": "TFN",
+      "value": "646167453"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/62.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+    },
+    "nat": "AU"
   }
 ]
