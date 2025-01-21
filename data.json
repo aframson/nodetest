@@ -26990,5 +26990,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Marin",
+      "last": "Nicolas"
+    },
+    "location": {
+      "street": {
+        "number": 8898,
+        "name": "Avenue Tony-Garnier"
+      },
+      "city": "Aulnay-sous-Bois",
+      "state": "Aisne",
+      "country": "France",
+      "postcode": 77246,
+      "coordinates": {
+        "latitude": "-16.5126",
+        "longitude": "-162.4510"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "marin.nicolas@example.com",
+    "login": {
+      "uuid": "9cde110b-9006-40c4-8a3a-b6051c6c7fa7",
+      "username": "bluemouse735",
+      "password": "pamela",
+      "salt": "KabybUqc",
+      "md5": "be3e828332d80d645778a9813255f17d",
+      "sha1": "ff1d87aac3942e6ab48738daec01a0d8779197dc",
+      "sha256": "f10e08f3e25221b7ec0fb07ab00023915c8ef9a2d46e2762c592d33ed84bd869"
+    },
+    "dob": {
+      "date": "1967-10-16T21:46:31.698Z",
+      "age": 57
+    },
+    "registered": {
+      "date": "2002-12-06T11:46:25.798Z",
+      "age": 22
+    },
+    "phone": "01-84-74-96-48",
+    "cell": "06-22-81-36-96",
+    "id": {
+      "name": "INSEE",
+      "value": "1670931887085 28"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "FR"
   }
 ]
