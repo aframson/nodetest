@@ -26598,5 +26598,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Ercília",
+      "last": "Duarte"
+    },
+    "location": {
+      "street": {
+        "number": 411,
+        "name": "Rua Vinte de Setembro"
+      },
+      "city": "Santa Luzia",
+      "state": "Rio Grande do Sul",
+      "country": "Brazil",
+      "postcode": 35719,
+      "coordinates": {
+        "latitude": "-78.8658",
+        "longitude": "117.7116"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "ercilia.duarte@example.com",
+    "login": {
+      "uuid": "46660ecc-43f9-4a4c-97b1-b71e1c0b563d",
+      "username": "beautifulpanda543",
+      "password": "picher",
+      "salt": "o9LNpWJD",
+      "md5": "df3a3961ccb43c9c8c1a5a2ec2f4c457",
+      "sha1": "11d034461356963d6d09a2fc3b87eb3735557f63",
+      "sha256": "748e0d5c3ae5dd45ac9110d953c85e84fd3cff4ada469c40e349d22b91fe8da2"
+    },
+    "dob": {
+      "date": "1950-01-21T04:16:01.727Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2020-12-01T03:54:37.295Z",
+      "age": 4
+    },
+    "phone": "(70) 7332-8182",
+    "cell": "(88) 8310-0576",
+    "id": {
+      "name": "CPF",
+      "value": "804.550.699-40"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/6.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    },
+    "nat": "BR"
   }
 ]
