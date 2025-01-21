@@ -26766,5 +26766,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hotimir",
+      "last": "Doroshko"
+    },
+    "location": {
+      "street": {
+        "number": 2541,
+        "name": "Moldovska"
+      },
+      "city": "Mirgorod",
+      "state": "Cherkaska",
+      "country": "Ukraine",
+      "postcode": 66677,
+      "coordinates": {
+        "latitude": "76.4525",
+        "longitude": "-93.8862"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "hotimir.doroshko@example.com",
+    "login": {
+      "uuid": "e42498fa-2ac8-4ca3-89c5-451dd4d1848d",
+      "username": "silvergoose376",
+      "password": "mimi",
+      "salt": "kPUFYPnF",
+      "md5": "39ea7cfd0f8416759dd279ddafe20a4c",
+      "sha1": "1e8da4b6223cb26bffae836d17281cf06f46c870",
+      "sha256": "7652a6081e41c8e39ed5e5fa00957e79959ed5ae6471bfdbffba5f566c340c68"
+    },
+    "dob": {
+      "date": "1962-08-03T03:47:13.402Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2003-09-05T20:19:33.874Z",
+      "age": 21
+    },
+    "phone": "(098) G81-5258",
+    "cell": "(068) J13-7265",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/84.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+    },
+    "nat": "UA"
   }
 ]
