@@ -27046,5 +27046,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Yash",
+      "last": "Bangera"
+    },
+    "location": {
+      "street": {
+        "number": 1781,
+        "name": "Tank Bund Rd"
+      },
+      "city": "Sirsa",
+      "state": "Uttarakhand",
+      "country": "India",
+      "postcode": 26842,
+      "coordinates": {
+        "latitude": "4.7667",
+        "longitude": "-95.0666"
+      },
+      "timezone": {
+        "offset": "+6:00",
+        "description": "Almaty, Dhaka, Colombo"
+      }
+    },
+    "email": "yash.bangera@example.com",
+    "login": {
+      "uuid": "f1c2fdf2-3640-48a8-ab72-8df1a11c54e8",
+      "username": "lazycat605",
+      "password": "readers",
+      "salt": "mypcIQHx",
+      "md5": "098a0c96e0da63bc784610d19a3650fa",
+      "sha1": "64961d3bff247fb89ad4b59059fe233025aa98cc",
+      "sha256": "4cc6dbdc601984dc3548e04175bb131040c34ad5c8ede7a40c4a16f23711c9ca"
+    },
+    "dob": {
+      "date": "1993-06-11T21:52:04.388Z",
+      "age": 31
+    },
+    "registered": {
+      "date": "2021-09-06T02:00:57.355Z",
+      "age": 3
+    },
+    "phone": "8007328594",
+    "cell": "7732393794",
+    "id": {
+      "name": "UIDAI",
+      "value": "901954687037"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/10.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    },
+    "nat": "IN"
   }
 ]
