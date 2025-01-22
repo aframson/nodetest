@@ -27270,5 +27270,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Bozhan",
+      "last": "Ruban"
+    },
+    "location": {
+      "street": {
+        "number": 8383,
+        "name": "Polyarna"
+      },
+      "city": "Krasnograd",
+      "state": "Zaporizka",
+      "country": "Ukraine",
+      "postcode": 76508,
+      "coordinates": {
+        "latitude": "78.6950",
+        "longitude": "-104.4804"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "bozhan.ruban@example.com",
+    "login": {
+      "uuid": "1bfdb74b-5c44-4442-a317-b2740b07f83c",
+      "username": "bigladybug769",
+      "password": "calibra",
+      "salt": "uUqpssj5",
+      "md5": "d3e0c8ce302cc872521afabacc8027f1",
+      "sha1": "4eb84cf376b240998078bd92d79d4b21f8a66cd3",
+      "sha256": "5a7a1e8c22af82f28f897444939230d8ab8ae3c9f861a0d78fe774e1b61c9a9d"
+    },
+    "dob": {
+      "date": "1953-08-10T15:01:25.396Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2011-01-28T19:31:20.914Z",
+      "age": 13
+    },
+    "phone": "(066) R04-9517",
+    "cell": "(098) N97-5715",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/29.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+    },
+    "nat": "UA"
   }
 ]
