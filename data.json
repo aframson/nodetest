@@ -27214,5 +27214,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Leónidas",
+      "last": "Ribeiro"
+    },
+    "location": {
+      "street": {
+        "number": 7160,
+        "name": "Rua Pernambuco "
+      },
+      "city": "Gravataí",
+      "state": "Goiás",
+      "country": "Brazil",
+      "postcode": 27237,
+      "coordinates": {
+        "latitude": "-73.4139",
+        "longitude": "-157.2113"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "leonidas.ribeiro@example.com",
+    "login": {
+      "uuid": "9d8b7543-2fa9-4b14-9786-bfb2dc7b3639",
+      "username": "lazygoose766",
+      "password": "holly",
+      "salt": "i8PMSgtZ",
+      "md5": "f7b7cb38d4cb7965d5f10d35e8d1ed0e",
+      "sha1": "60716a807112a344284ddd93af7f91c0deec4bd5",
+      "sha256": "a2c787c3ec7d6ff932e7c20eac7c250da4e6b7a6e0385d149c5ecfed3e9a0738"
+    },
+    "dob": {
+      "date": "2000-07-10T22:24:21.295Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2017-03-17T18:20:03.730Z",
+      "age": 7
+    },
+    "phone": "(87) 4723-2549",
+    "cell": "(28) 8211-8732",
+    "id": {
+      "name": "CPF",
+      "value": "995.558.595-03"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/16.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    },
+    "nat": "BR"
   }
 ]
