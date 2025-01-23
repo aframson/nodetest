@@ -28166,5 +28166,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nagesh",
+      "last": "Rai"
+    },
+    "location": {
+      "street": {
+        "number": 6161,
+        "name": "Rasta Peth"
+      },
+      "city": "Jalgaon",
+      "state": "Lakshadweep",
+      "country": "India",
+      "postcode": 98156,
+      "coordinates": {
+        "latitude": "11.8758",
+        "longitude": "-25.7406"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "nagesh.rai@example.com",
+    "login": {
+      "uuid": "9b79b68f-83e5-4733-999c-3c998ee84a3d",
+      "username": "purplerabbit314",
+      "password": "microsoft",
+      "salt": "Fn5tCnmx",
+      "md5": "815f0c73b0402b1bd52bd580db663105",
+      "sha1": "47b7ba3fac306128331569f0fc6e7ccb3b134f46",
+      "sha256": "369ea798790e6100d5a9131042cd7fc983d54fd6cfd0c1d255bee0c589107b15"
+    },
+    "dob": {
+      "date": "1988-02-09T01:06:39.652Z",
+      "age": 36
+    },
+    "registered": {
+      "date": "2014-05-02T13:16:35.029Z",
+      "age": 10
+    },
+    "phone": "8985261855",
+    "cell": "9879095147",
+    "id": {
+      "name": "UIDAI",
+      "value": "415745119716"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/59.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    },
+    "nat": "IN"
   }
 ]
