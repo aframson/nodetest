@@ -28390,5 +28390,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Raffaele",
+      "last": "Masson"
+    },
+    "location": {
+      "street": {
+        "number": 4244,
+        "name": "Rue Dugas-Montbel"
+      },
+      "city": "Riehen",
+      "state": "Appenzell Ausserrhoden",
+      "country": "Switzerland",
+      "postcode": 8686,
+      "coordinates": {
+        "latitude": "-57.9294",
+        "longitude": "-49.6411"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "raffaele.masson@example.com",
+    "login": {
+      "uuid": "ca46db1a-a8ef-49da-9371-c211da05b4ce",
+      "username": "heavycat789",
+      "password": "cleaner",
+      "salt": "NG68JZPg",
+      "md5": "a5f47fcd3a408dcd33e470aa782b227d",
+      "sha1": "5f2d50f42bed0dbeb8fff3ee280c78394de6e888",
+      "sha256": "da5f01a800b792b33f077d54ae9dd7c6a75a91e9acdd12e685de158d7f7948a3"
+    },
+    "dob": {
+      "date": "1952-06-06T11:07:44.007Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2004-03-11T16:56:41.114Z",
+      "age": 20
+    },
+    "phone": "078 036 28 86",
+    "cell": "076 972 76 44",
+    "id": {
+      "name": "AVS",
+      "value": "756.8236.5722.15"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "CH"
   }
 ]
