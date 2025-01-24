@@ -28614,5 +28614,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Đurađ",
+      "last": "Bakić"
+    },
+    "location": {
+      "street": {
+        "number": 1990,
+        "name": "Vinogradarska"
+      },
+      "city": "Sokobanja",
+      "state": "Raška",
+      "country": "Serbia",
+      "postcode": 58558,
+      "coordinates": {
+        "latitude": "57.3160",
+        "longitude": "-62.6329"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "durad.bakic@example.com",
+    "login": {
+      "uuid": "40b3ecb8-e368-4e74-9bd8-e9b0e44eef36",
+      "username": "smalllion899",
+      "password": "redred",
+      "salt": "6pyF5Bre",
+      "md5": "c817df0cf7529f87cf9aee6788f32904",
+      "sha1": "2071e6e2f77889f51e4184f5a0fad0835175479f",
+      "sha256": "2bcd264889a145b2f2ca15c258b90eebff21346a43fc8636748c6f19b9b7af44"
+    },
+    "dob": {
+      "date": "1978-10-20T22:00:10.637Z",
+      "age": 46
+    },
+    "registered": {
+      "date": "2016-07-27T07:42:22.286Z",
+      "age": 8
+    },
+    "phone": "033-3999-149",
+    "cell": "064-8960-867",
+    "id": {
+      "name": "SID",
+      "value": "714336746"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/0.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    },
+    "nat": "RS"
   }
 ]
