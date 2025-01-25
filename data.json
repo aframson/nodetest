@@ -29566,5 +29566,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
     },
     "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mahad",
+      "last": "Blezer"
+    },
+    "location": {
+      "street": {
+        "number": 4708,
+        "name": "Hendrik Kraemerlaan"
+      },
+      "city": "Belt-Schutsloot",
+      "state": "Limburg",
+      "country": "Netherlands",
+      "postcode": "8492 DH",
+      "coordinates": {
+        "latitude": "34.4790",
+        "longitude": "-161.8884"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "mahad.blezer@example.com",
+    "login": {
+      "uuid": "9057b178-3f14-4193-97c8-537308a83794",
+      "username": "smalllion420",
+      "password": "jeepster",
+      "salt": "n8epeLnK",
+      "md5": "31c0994f9dba393ca7f13bb09e979d01",
+      "sha1": "60ca548b4e4939ab1f5f5b5c2ae690a87bc36af8",
+      "sha256": "86eef81f6f49bcec5f0f6abfedf44236c21f74801ff8f3028964277f20e9c8ff"
+    },
+    "dob": {
+      "date": "1958-06-12T18:13:51.771Z",
+      "age": 66
+    },
+    "registered": {
+      "date": "2011-06-21T13:33:42.190Z",
+      "age": 13
+    },
+    "phone": "(005) 6524525",
+    "cell": "(06) 29541688",
+    "id": {
+      "name": "BSN",
+      "value": "48816350"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/23.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+    },
+    "nat": "NL"
   }
 ]
