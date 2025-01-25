@@ -29790,5 +29790,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
     },
     "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Sergej",
+      "last": "Kugler"
+    },
+    "location": {
+      "street": {
+        "number": 1599,
+        "name": "Jahnstraße"
+      },
+      "city": "Pocking",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "postcode": 16102,
+      "coordinates": {
+        "latitude": "-51.3271",
+        "longitude": "-148.0139"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "sergej.kugler@example.com",
+    "login": {
+      "uuid": "d7127b31-6e86-40c9-91e2-0a84ca6eabf0",
+      "username": "whitedog131",
+      "password": "barrett",
+      "salt": "y6IzaUL2",
+      "md5": "457470b18ad217d6ff43a32dc3536819",
+      "sha1": "42709c69ef1deac0ae89a5786854475e7d7a7850",
+      "sha256": "fa6ed09df5ae24c95aca0e777eaebd1a821243ccead6ff82c53bcc5be643d78b"
+    },
+    "dob": {
+      "date": "1980-03-03T22:01:53.547Z",
+      "age": 44
+    },
+    "registered": {
+      "date": "2013-03-08T15:41:18.493Z",
+      "age": 11
+    },
+    "phone": "0764-9679033",
+    "cell": "0170-4069068",
+    "id": {
+      "name": "SVNR",
+      "value": "54 030380 K 428"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/28.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+    },
+    "nat": "DE"
   }
 ]
