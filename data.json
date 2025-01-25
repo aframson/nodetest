@@ -29622,5 +29622,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Melvin",
+      "last": "Giraud"
+    },
+    "location": {
+      "street": {
+        "number": 412,
+        "name": "Rue André-Gide"
+      },
+      "city": "Dijon",
+      "state": "Mayotte",
+      "country": "France",
+      "postcode": 81864,
+      "coordinates": {
+        "latitude": "-21.1529",
+        "longitude": "-100.4342"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "melvin.giraud@example.com",
+    "login": {
+      "uuid": "a6d065ac-f8c1-49fc-a70e-a1c1245f6bb4",
+      "username": "angrytiger700",
+      "password": "jackpot",
+      "salt": "7GUeK8Wl",
+      "md5": "07be17a953d40cc1a786fe54354b75b4",
+      "sha1": "f72abf0e63bd7bbb63b169fed9729fb8ef4d83dc",
+      "sha256": "4f4c50e4fce1aad9eeff87cab3e911858e18be819f4c6015b04fc110c2bf7221"
+    },
+    "dob": {
+      "date": "1948-06-25T18:59:44.704Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2017-10-05T19:07:08.094Z",
+      "age": 7
+    },
+    "phone": "01-23-93-77-20",
+    "cell": "06-12-31-81-23",
+    "id": {
+      "name": "INSEE",
+      "value": "1480568566532 58"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "FR"
   }
 ]
