@@ -29678,5 +29678,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Victor",
+      "last": "Rasmussen"
+    },
+    "location": {
+      "street": {
+        "number": 6925,
+        "name": "Stormgade"
+      },
+      "city": "Aaborg Øst",
+      "state": "Midtjylland",
+      "country": "Denmark",
+      "postcode": 57896,
+      "coordinates": {
+        "latitude": "-39.3183",
+        "longitude": "-54.0592"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "victor.rasmussen@example.com",
+    "login": {
+      "uuid": "fe0bc058-e03c-4055-baa4-31146140710c",
+      "username": "redfish315",
+      "password": "mustang",
+      "salt": "4amVcww0",
+      "md5": "52a62d29b74a6b0d3d065f183b89ec47",
+      "sha1": "32220a0247b979f6bf4369e8c7e85aff2cf10a1e",
+      "sha256": "571b842fa8b7963f6b670d791e059b72c5ea15001802d49ab76a290f39746af5"
+    },
+    "dob": {
+      "date": "1950-07-09T19:45:18.215Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2003-10-10T07:24:28.328Z",
+      "age": 21
+    },
+    "phone": "41204007",
+    "cell": "22301174",
+    "id": {
+      "name": "CPR",
+      "value": "090750-2848"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/25.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+    },
+    "nat": "DK"
   }
 ]
