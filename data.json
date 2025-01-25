@@ -29846,5 +29846,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Baguandas",
+      "last": "Monteiro"
+    },
+    "location": {
+      "street": {
+        "number": 967,
+        "name": "Rua Dom Pedro Ii "
+      },
+      "city": "Osasco",
+      "state": "Rondônia",
+      "country": "Brazil",
+      "postcode": 93060,
+      "coordinates": {
+        "latitude": "-80.9132",
+        "longitude": "-72.0444"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "baguandas.monteiro@example.com",
+    "login": {
+      "uuid": "298149ce-7d57-4f3e-841a-0efb9e83e742",
+      "username": "beautifulmouse123",
+      "password": "devildog",
+      "salt": "BZuB7p4F",
+      "md5": "fb8865dd7d7f11532313da0fd0819597",
+      "sha1": "b1023b1637c522044b8b366237fbccadd1431a51",
+      "sha256": "b5614240e44043aaf7cece260acbb3b16dd01dd98c4b11c76f0c6acef8f26ff0"
+    },
+    "dob": {
+      "date": "1996-07-27T15:04:30.358Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2021-10-05T17:38:54.301Z",
+      "age": 3
+    },
+    "phone": "(69) 5184-2154",
+    "cell": "(36) 9991-0402",
+    "id": {
+      "name": "CPF",
+      "value": "388.859.853-12"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/70.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    },
+    "nat": "BR"
   }
 ]
