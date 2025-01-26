@@ -30462,5 +30462,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
     },
     "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Eduardo",
+      "last": "Castro"
+    },
+    "location": {
+      "street": {
+        "number": 5222,
+        "name": "Calle de Toledo"
+      },
+      "city": "Mérida",
+      "state": "Aragón",
+      "country": "Spain",
+      "postcode": 11162,
+      "coordinates": {
+        "latitude": "-37.2450",
+        "longitude": "-149.4463"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "eduardo.castro@example.com",
+    "login": {
+      "uuid": "42d8a900-01df-4a58-bbf7-0ff6a4ce139e",
+      "username": "yellowladybug138",
+      "password": "playoffs",
+      "salt": "bfY0PvF7",
+      "md5": "6be5d5c17b59c6641d43bef8459f2fa7",
+      "sha1": "a071c4e485ac26a13f1f1f30972191f948422899",
+      "sha256": "c5e3a99557bf8d90babd33d12982e55440c9d91bcb70998ab45ca12713d2dfbe"
+    },
+    "dob": {
+      "date": "2000-02-15T21:39:48.306Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2021-08-11T16:41:08.911Z",
+      "age": 3
+    },
+    "phone": "962-890-158",
+    "cell": "604-611-442",
+    "id": {
+      "name": "DNI",
+      "value": "59859933-G"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/37.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    },
+    "nat": "ES"
   }
 ]
