@@ -30238,5 +30238,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Salvador",
+      "last": "Verduzco"
+    },
+    "location": {
+      "street": {
+        "number": 9126,
+        "name": "Avenida Hidalgo"
+      },
+      "city": "Temoaya",
+      "state": "Hidalgo",
+      "country": "Mexico",
+      "postcode": 93999,
+      "coordinates": {
+        "latitude": "27.5179",
+        "longitude": "-91.4187"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "salvador.verduzco@example.com",
+    "login": {
+      "uuid": "efae1d6e-5af6-4e83-97e0-827f4951d314",
+      "username": "whitebird599",
+      "password": "jonathon",
+      "salt": "wO8A5Fo1",
+      "md5": "1b118f0f579af3c04a0a320420adc8f1",
+      "sha1": "c562d560302717969736b6c3d9ef156fe4c8531a",
+      "sha256": "886ed6d34402079e00202772ba9635cebadf3d1de36bf577e176a5c32bd03c8f"
+    },
+    "dob": {
+      "date": "1952-10-17T17:19:01.368Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2011-09-15T19:07:54.168Z",
+      "age": 13
+    },
+    "phone": "(636) 308 2025",
+    "cell": "(662) 162 9029",
+    "id": {
+      "name": "NSS",
+      "value": "58 58 05 3185 5"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/99.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+    },
+    "nat": "MX"
   }
 ]
