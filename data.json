@@ -30518,5 +30518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Edouard",
+      "last": "Morel"
+    },
+    "location": {
+      "street": {
+        "number": 3791,
+        "name": "Place du 8 Novembre 1942"
+      },
+      "city": "Bordeaux",
+      "state": "Indre-et-Loire",
+      "country": "France",
+      "postcode": 90735,
+      "coordinates": {
+        "latitude": "-16.3724",
+        "longitude": "-78.0634"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "edouard.morel@example.com",
+    "login": {
+      "uuid": "3b56428e-82f6-4e59-8451-97b9e54beb8d",
+      "username": "goldenbutterfly650",
+      "password": "denise",
+      "salt": "Ik0A7wMI",
+      "md5": "0d7812d5e6b2f94e0e420618d6d7b9df",
+      "sha1": "1ed53945103707c9d992de807690c9b0599cbab3",
+      "sha256": "66a190e63f0ad272b06589458ab57b0a8e7c4724f82e6afe2eb167d35a2d57f1"
+    },
+    "dob": {
+      "date": "1969-11-08T08:36:22.696Z",
+      "age": 55
+    },
+    "registered": {
+      "date": "2017-01-24T19:06:02.208Z",
+      "age": 8
+    },
+    "phone": "05-32-79-75-83",
+    "cell": "06-46-82-21-56",
+    "id": {
+      "name": "INSEE",
+      "value": "1691037936986 32"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/59.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    },
+    "nat": "FR"
   }
 ]
