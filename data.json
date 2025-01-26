@@ -29958,5 +29958,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
     },
     "nat": "BR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Đuraš",
+      "last": "Ivanišević"
+    },
+    "location": {
+      "street": {
+        "number": 5899,
+        "name": "Veletinska"
+      },
+      "city": "Bojnik",
+      "state": "Kosovo",
+      "country": "Serbia",
+      "postcode": 49421,
+      "coordinates": {
+        "latitude": "60.0886",
+        "longitude": "-85.2614"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "duras.ivanisevic@example.com",
+    "login": {
+      "uuid": "3359e237-dd7c-4f2b-b03f-a0e070f94d70",
+      "username": "brownzebra691",
+      "password": "12344321",
+      "salt": "YZDV7iUR",
+      "md5": "2551128e13876b4ba0b904bbba9e2498",
+      "sha1": "7ca5d99c8b3eb66af39d7211d9b98f33a42285ba",
+      "sha256": "458034e67d7b3704fa83ed354907f08dc62f4033d4f4938e01b0e99cbf532f3b"
+    },
+    "dob": {
+      "date": "1947-11-15T12:22:56.895Z",
+      "age": 77
+    },
+    "registered": {
+      "date": "2020-11-11T06:09:18.983Z",
+      "age": 4
+    },
+    "phone": "020-9528-403",
+    "cell": "060-9541-012",
+    "id": {
+      "name": "SID",
+      "value": "800137252"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/0.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    },
+    "nat": "RS"
   }
 ]
