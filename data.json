@@ -30126,5 +30126,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Simon",
+      "last": "Andre"
+    },
+    "location": {
+      "street": {
+        "number": 1623,
+        "name": "Grande Rue"
+      },
+      "city": "Bordeaux",
+      "state": "Haute-Saône",
+      "country": "France",
+      "postcode": 31317,
+      "coordinates": {
+        "latitude": "-19.4158",
+        "longitude": "-45.1728"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "simon.andre@example.com",
+    "login": {
+      "uuid": "d0b22263-2886-47df-8759-e9817edf724f",
+      "username": "greenmeercat900",
+      "password": "jeremy1",
+      "salt": "kIHBC29V",
+      "md5": "c1f2dcbb5cb8e4d6fede17c58828efdc",
+      "sha1": "e60236f87ba42c3183228ea82f872ee5edbc52c4",
+      "sha256": "15c5a4d71f0cb4251f8c906b28a85f1939cecdc3147d4d371d483b23b4ccd405"
+    },
+    "dob": {
+      "date": "1979-03-09T22:33:23.968Z",
+      "age": 45
+    },
+    "registered": {
+      "date": "2013-04-06T10:26:30.061Z",
+      "age": 11
+    },
+    "phone": "03-98-94-12-99",
+    "cell": "06-27-37-18-63",
+    "id": {
+      "name": "INSEE",
+      "value": "1790246151775 40"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/12.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    },
+    "nat": "FR"
   }
 ]
