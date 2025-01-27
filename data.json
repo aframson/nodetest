@@ -30630,5 +30630,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Carlos",
+      "last": "Blanco"
+    },
+    "location": {
+      "street": {
+        "number": 8484,
+        "name": "Ampliación Baja California"
+      },
+      "city": "Mismaloya",
+      "state": "Tabasco",
+      "country": "Mexico",
+      "postcode": 67342,
+      "coordinates": {
+        "latitude": "23.5838",
+        "longitude": "-86.8555"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "carlos.blanco@example.com",
+    "login": {
+      "uuid": "21dd08da-7b35-46cb-b119-057f2becab0d",
+      "username": "beautifulmouse125",
+      "password": "bbbbbbbb",
+      "salt": "ESluxURB",
+      "md5": "8d14c3e7c83a7e3af13c05455af5a22b",
+      "sha1": "fc830b5b807389f460378ff15c97dbd47be2552a",
+      "sha256": "06855ab3cf165cf4cf683354008ac31a3678557cd188917c7bdd89c0d089e020"
+    },
+    "dob": {
+      "date": "1964-09-17T19:47:20.763Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2011-07-23T10:25:51.905Z",
+      "age": 13
+    },
+    "phone": "(616) 976 7083",
+    "cell": "(675) 026 3417",
+    "id": {
+      "name": "NSS",
+      "value": "11 36 60 1064 3"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/96.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    },
+    "nat": "MX"
   }
 ]
