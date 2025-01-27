@@ -30910,5 +30910,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hristofor",
+      "last": "Luchakivskiy"
+    },
+    "location": {
+      "street": {
+        "number": 5243,
+        "name": "Ploshcha Nezalezhnosti"
+      },
+      "city": "Vugledar",
+      "state": "Sumska",
+      "country": "Ukraine",
+      "postcode": 83370,
+      "coordinates": {
+        "latitude": "77.3032",
+        "longitude": "-96.1737"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "hristofor.luchakivskiy@example.com",
+    "login": {
+      "uuid": "e888b3bd-c2a7-4288-b755-2340dae5c8a3",
+      "username": "greenfrog212",
+      "password": "jabroni",
+      "salt": "UiQBkIG8",
+      "md5": "45905fe4b904f7ac42abc011cb36762a",
+      "sha1": "93b736d3272612b7189f05f4a8723a5c90ff9f2e",
+      "sha256": "87259fd76c963da2256dafe95addf96ac3ed5ea83405ad4afd68fd59139e560c"
+    },
+    "dob": {
+      "date": "1955-07-08T11:49:04.898Z",
+      "age": 69
+    },
+    "registered": {
+      "date": "2007-12-14T04:48:44.649Z",
+      "age": 17
+    },
+    "phone": "(099) R83-7562",
+    "cell": "(066) D49-9846",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/2.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    },
+    "nat": "UA"
   }
 ]
