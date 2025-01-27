@@ -30854,5 +30854,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Diego",
+      "last": "Soto"
+    },
+    "location": {
+      "street": {
+        "number": 9299,
+        "name": "Prolongación Tlaxcala"
+      },
+      "city": "Jalpa de Méndez",
+      "state": "Baja California",
+      "country": "Mexico",
+      "postcode": 14510,
+      "coordinates": {
+        "latitude": "22.7464",
+        "longitude": "-74.6702"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "diego.soto@example.com",
+    "login": {
+      "uuid": "3d6ee600-1609-4cfd-8069-ed37a43fdbb0",
+      "username": "greenmouse938",
+      "password": "2580",
+      "salt": "hxbMV71I",
+      "md5": "e597187a61318bffffecd82f71bb350a",
+      "sha1": "516910b8fb8572e852171ec420aabc55188e973e",
+      "sha256": "0184296d5762eba28229bf447c6fe6960c53ed12fed82f68113ec1248c0c483c"
+    },
+    "dob": {
+      "date": "1992-01-08T18:26:28.194Z",
+      "age": 33
+    },
+    "registered": {
+      "date": "2007-03-03T03:55:48.819Z",
+      "age": 17
+    },
+    "phone": "(662) 198 7709",
+    "cell": "(660) 783 2069",
+    "id": {
+      "name": "NSS",
+      "value": "67 92 54 0859 4"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/48.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    },
+    "nat": "MX"
   }
 ]
