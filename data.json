@@ -31694,5 +31694,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Walter",
+      "last": "Muller"
+    },
+    "location": {
+      "street": {
+        "number": 3312,
+        "name": "Rue de L'Abbé-Rousselot"
+      },
+      "city": "Herbetswil",
+      "state": "Basel-Stadt",
+      "country": "Switzerland",
+      "postcode": 4226,
+      "coordinates": {
+        "latitude": "-57.6956",
+        "longitude": "-8.1325"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "walter.muller@example.com",
+    "login": {
+      "uuid": "fb159634-49d2-4873-bfad-fb91574b3126",
+      "username": "redsnake962",
+      "password": "windsor",
+      "salt": "qIZkIEon",
+      "md5": "a60b00533e6fcc7ae3c1a110b9def0b4",
+      "sha1": "d5fe796343354787a269629a5a2469fd08eb4857",
+      "sha256": "3df4215a11d46a65d1ec38f03406a397c33f9899a30eefb8a6a3a8c2c9a57875"
+    },
+    "dob": {
+      "date": "1986-10-25T03:59:59.975Z",
+      "age": 38
+    },
+    "registered": {
+      "date": "2013-10-01T17:27:54.894Z",
+      "age": 11
+    },
+    "phone": "077 272 11 42",
+    "cell": "076 315 34 65",
+    "id": {
+      "name": "AVS",
+      "value": "756.2880.0257.97"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/6.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+    },
+    "nat": "CH"
   }
 ]
