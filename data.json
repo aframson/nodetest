@@ -31414,5 +31414,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Mads",
+      "last": "Larsen"
+    },
+    "location": {
+      "street": {
+        "number": 6887,
+        "name": "Humlevej"
+      },
+      "city": "København N",
+      "state": "Syddanmark",
+      "country": "Denmark",
+      "postcode": 87974,
+      "coordinates": {
+        "latitude": "-44.9955",
+        "longitude": "-97.8651"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "mads.larsen@example.com",
+    "login": {
+      "uuid": "87db56fd-309c-47e0-a824-92da1953a77b",
+      "username": "blackfrog624",
+      "password": "loving",
+      "salt": "ldKWD4bi",
+      "md5": "b2252313307bc1c58a9f65f8ca6d0efe",
+      "sha1": "6fe3c1d882532cc1c06c922cdf51351d286ee3a7",
+      "sha256": "26073dcb9b923999ed10a3b149c9228b214bfd94e2a512e294ef07b33b7fe2bb"
+    },
+    "dob": {
+      "date": "1955-01-22T01:26:00.485Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2019-01-17T18:32:24.533Z",
+      "age": 6
+    },
+    "phone": "05326447",
+    "cell": "07897174",
+    "id": {
+      "name": "CPR",
+      "value": "210155-8714"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/63.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "nat": "DK"
   }
 ]
