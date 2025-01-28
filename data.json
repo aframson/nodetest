@@ -31358,5 +31358,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
     },
     "nat": "RS"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Joel",
+      "last": "Karvonen"
+    },
+    "location": {
+      "street": {
+        "number": 1459,
+        "name": "Mechelininkatu"
+      },
+      "city": "Paltamo",
+      "state": "Uusimaa",
+      "country": "Finland",
+      "postcode": 25487,
+      "coordinates": {
+        "latitude": "-29.7595",
+        "longitude": "-142.7927"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "email": "joel.karvonen@example.com",
+    "login": {
+      "uuid": "54f269e2-5784-4670-8afa-c11544c31b32",
+      "username": "yellowostrich811",
+      "password": "nice",
+      "salt": "wEGryBaa",
+      "md5": "e041a4a79c8148fb2ad4c706e8c0b6ed",
+      "sha1": "598e3b254d6229d414e769606f660787ac1f75af",
+      "sha256": "001d93e7bc7f33c805178735055d8b5f53c74242e1fd4d8f824ff3d45fae498c"
+    },
+    "dob": {
+      "date": "1950-09-15T16:52:09.145Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2004-07-09T20:05:14.832Z",
+      "age": 20
+    },
+    "phone": "04-271-062",
+    "cell": "041-246-80-31",
+    "id": {
+      "name": "HETU",
+      "value": "NaNNA801undefined"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "FI"
   }
 ]
