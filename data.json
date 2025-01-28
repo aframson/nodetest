@@ -31582,5 +31582,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
     },
     "nat": "UA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dylan",
+      "last": "Bélanger"
+    },
+    "location": {
+      "street": {
+        "number": 6276,
+        "name": "Tecumseh Rd"
+      },
+      "city": "Keswick",
+      "state": "Nunavut",
+      "country": "Canada",
+      "postcode": "T5Y 0W5",
+      "coordinates": {
+        "latitude": "-64.5860",
+        "longitude": "-56.6757"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "dylan.belanger@example.com",
+    "login": {
+      "uuid": "425ae788-8a60-4bf2-b7fc-09a2483425ff",
+      "username": "yellowsnake134",
+      "password": "jasmine1",
+      "salt": "FOxcT7k0",
+      "md5": "34f1e475bbde65e14433eac205aa2c4a",
+      "sha1": "be6112aa926c98588a91752764d6f5f6b8d6aad7",
+      "sha256": "16c53fe831fcbc45d30e55dce750ab2694370f4c421405c04f2b90499b69d879"
+    },
+    "dob": {
+      "date": "1977-12-01T23:53:21.705Z",
+      "age": 47
+    },
+    "registered": {
+      "date": "2015-07-19T21:12:23.371Z",
+      "age": 9
+    },
+    "phone": "I52 H13-9953",
+    "cell": "A79 A16-3187",
+    "id": {
+      "name": "SIN",
+      "value": "579976135"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/15.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+    },
+    "nat": "CA"
   }
 ]
