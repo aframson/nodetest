@@ -31862,5 +31862,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Giray",
+      "last": "Bakırcıoğlu"
+    },
+    "location": {
+      "street": {
+        "number": 3605,
+        "name": "Mevlana Cd"
+      },
+      "city": "Adıyaman",
+      "state": "İstanbul",
+      "country": "Turkey",
+      "postcode": 86978,
+      "coordinates": {
+        "latitude": "71.6037",
+        "longitude": "-105.4596"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "giray.bakircioglu@example.com",
+    "login": {
+      "uuid": "7205e06d-7bc4-4d7c-9b1f-565b632a882f",
+      "username": "beautifulwolf434",
+      "password": "reagan",
+      "salt": "CQVs2CXJ",
+      "md5": "f34e7e3a4f7db081ee37adc81021a475",
+      "sha1": "a01a794f0dcb2eb205b640129c5d7516009e25f4",
+      "sha256": "5f3264e63af77d624993d2bd7f1656ba99eea26ad49113929d17d2f6de3bdb2a"
+    },
+    "dob": {
+      "date": "1968-04-03T01:46:45.219Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2009-01-26T09:18:52.376Z",
+      "age": 16
+    },
+    "phone": "(321)-655-1944",
+    "cell": "(290)-691-2901",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/73.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    },
+    "nat": "TR"
   }
 ]
