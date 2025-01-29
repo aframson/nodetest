@@ -32198,5 +32198,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Viraj",
+      "last": "Kouser"
+    },
+    "location": {
+      "street": {
+        "number": 8903,
+        "name": "Bhootnath Rd"
+      },
+      "city": "Coimbatore",
+      "state": "Chhattisgarh",
+      "country": "India",
+      "postcode": 23788,
+      "coordinates": {
+        "latitude": "10.3901",
+        "longitude": "-116.6007"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "viraj.kouser@example.com",
+    "login": {
+      "uuid": "f70e1322-cabf-4077-b7bd-c24c9a234f33",
+      "username": "sadswan777",
+      "password": "jillian",
+      "salt": "WPR8cCDo",
+      "md5": "5bb5b5639110ee7067bac1e319f7e876",
+      "sha1": "397646d24c56cc92145f49ea356a1250d3f53998",
+      "sha256": "48d8a03abf86445cb34153923da749e97b28b5555f40ab6200fd21ce5023f2cd"
+    },
+    "dob": {
+      "date": "1952-07-25T13:43:25.751Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2007-05-23T21:36:07.881Z",
+      "age": 17
+    },
+    "phone": "8612392212",
+    "cell": "8487089488",
+    "id": {
+      "name": "UIDAI",
+      "value": "844967870503"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+    },
+    "nat": "IN"
   }
 ]
