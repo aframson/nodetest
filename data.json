@@ -32534,5 +32534,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Matéo",
+      "last": "Charles"
+    },
+    "location": {
+      "street": {
+        "number": 6622,
+        "name": "Rue de L'Église"
+      },
+      "city": "Mulhouse",
+      "state": "Meuse",
+      "country": "France",
+      "postcode": 94580,
+      "coordinates": {
+        "latitude": "-16.0883",
+        "longitude": "-46.3197"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "mateo.charles@example.com",
+    "login": {
+      "uuid": "a28a98bf-1aca-4386-bc14-8863f3c3908d",
+      "username": "bigfish558",
+      "password": "sentnece",
+      "salt": "ePXNnIy8",
+      "md5": "436266bde2abb6ad51e2b385a2fc7935",
+      "sha1": "a61a1665585d713d6211f6613fd6916d80eb1663",
+      "sha256": "1c11b11d4afe06a00e3800479630fc60512fe15fb0182d4851900ec87560e1de"
+    },
+    "dob": {
+      "date": "1976-02-13T06:40:01.098Z",
+      "age": 48
+    },
+    "registered": {
+      "date": "2010-11-01T18:17:30.262Z",
+      "age": 14
+    },
+    "phone": "05-17-26-05-82",
+    "cell": "06-14-61-03-99",
+    "id": {
+      "name": "INSEE",
+      "value": "1760112756212 89"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/22.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+    },
+    "nat": "FR"
   }
 ]
