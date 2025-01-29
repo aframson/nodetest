@@ -31974,5 +31974,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Guy",
+      "last": "Tucker"
+    },
+    "location": {
+      "street": {
+        "number": 4367,
+        "name": "E Little York Rd"
+      },
+      "city": "Mildura",
+      "state": "Western Australia",
+      "country": "Australia",
+      "postcode": 4945,
+      "coordinates": {
+        "latitude": "-83.8613",
+        "longitude": "-104.8451"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "guy.tucker@example.com",
+    "login": {
+      "uuid": "6e8639ea-5095-4ac4-ac74-b49599432835",
+      "username": "lazyfish752",
+      "password": "shearer",
+      "salt": "ubMtPXr5",
+      "md5": "5a5bd23f5fe850224e118a82713f8fa3",
+      "sha1": "d9864217fbbf965f6107ac38a41cf38e4cac99b5",
+      "sha256": "949e4a2c3144a45a192dfac435744e3ddc46998e084f1bd5992d8f26547ca074"
+    },
+    "dob": {
+      "date": "1959-05-06T21:24:34.076Z",
+      "age": 65
+    },
+    "registered": {
+      "date": "2014-08-28T09:38:03.753Z",
+      "age": 10
+    },
+    "phone": "06-5311-5231",
+    "cell": "0427-841-714",
+    "id": {
+      "name": "TFN",
+      "value": "446406982"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/31.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+    },
+    "nat": "AU"
   }
 ]
