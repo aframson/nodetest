@@ -32478,5 +32478,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
     },
     "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gerardo",
+      "last": "Armas"
+    },
+    "location": {
+      "street": {
+        "number": 8398,
+        "name": "Peatonal Salcido"
+      },
+      "city": "Los Aztecas",
+      "state": "Nayarit",
+      "country": "Mexico",
+      "postcode": 68463,
+      "coordinates": {
+        "latitude": "21.8519",
+        "longitude": "-17.7825"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "gerardo.armas@example.com",
+    "login": {
+      "uuid": "510dc78a-7a40-4de3-9ef8-98db169cc5c7",
+      "username": "yellowleopard655",
+      "password": "tower",
+      "salt": "BOsd14o1",
+      "md5": "c30e0a36ea8e89a742ce25543145731e",
+      "sha1": "a2fc204a97a031686d6d4cd715b5e262c67086b9",
+      "sha256": "190468ab824313ddbf134aceea55ce205965ea449780eada142e5b2e3f6b5cb4"
+    },
+    "dob": {
+      "date": "1976-01-11T03:13:45.028Z",
+      "age": 49
+    },
+    "registered": {
+      "date": "2019-05-17T02:52:17.578Z",
+      "age": 5
+    },
+    "phone": "(604) 577 3745",
+    "cell": "(605) 377 6481",
+    "id": {
+      "name": "NSS",
+      "value": "82 94 13 4478 4"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/74.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    },
+    "nat": "MX"
   }
 ]
