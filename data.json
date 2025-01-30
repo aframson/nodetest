@@ -33094,5 +33094,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Skol",
+      "last": "Burlyuk"
+    },
+    "location": {
+      "street": {
+        "number": 5495,
+        "name": "Mironosicka"
+      },
+      "city": "Vilnyansk",
+      "state": "Vinnicka",
+      "country": "Ukraine",
+      "postcode": 26565,
+      "coordinates": {
+        "latitude": "78.1673",
+        "longitude": "-27.9635"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "skol.burlyuk@example.com",
+    "login": {
+      "uuid": "c1b89202-79aa-4f23-b79d-385ed16003a8",
+      "username": "organicsnake278",
+      "password": "islander",
+      "salt": "BLNN0lnm",
+      "md5": "8815730f0ebff3cd463fce9020882a0b",
+      "sha1": "c173514d4d839264d2bd4ca543620278f9de53c0",
+      "sha256": "8b4cdd0c771caaff6e0b70f455d7334b75043c90d398be1745394ddcf52a1812"
+    },
+    "dob": {
+      "date": "1973-04-17T13:31:05.285Z",
+      "age": 51
+    },
+    "registered": {
+      "date": "2008-11-04T18:06:55.342Z",
+      "age": 16
+    },
+    "phone": "(099) C30-0265",
+    "cell": "(099) V67-3293",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/87.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+    },
+    "nat": "UA"
   }
 ]
