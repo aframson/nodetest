@@ -33206,5 +33206,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ayan",
+      "last": "Sommervold"
+    },
+    "location": {
+      "street": {
+        "number": 6594,
+        "name": "Askeladdveien"
+      },
+      "city": "Gjerstad",
+      "state": "Aust-Agder",
+      "country": "Norway",
+      "postcode": "5867",
+      "coordinates": {
+        "latitude": "43.8669",
+        "longitude": "-163.9481"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "ayan.sommervold@example.com",
+    "login": {
+      "uuid": "1c6a031d-0fe1-4b75-ae36-300560422473",
+      "username": "browngorilla286",
+      "password": "sweet",
+      "salt": "a96gRCtA",
+      "md5": "53501722ea58a3a43120416c7c779841",
+      "sha1": "11c25b1d2c9849d3c7e31e6a0b8b4d3a644b0d60",
+      "sha256": "b11690dc81a46030d7592c80c4d36b2d9cf2d6c2bd872f5885b5323f99a55298"
+    },
+    "dob": {
+      "date": "1945-03-29T17:20:03.939Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2002-08-01T00:40:11.409Z",
+      "age": 22
+    },
+    "phone": "50211242",
+    "cell": "44622452",
+    "id": {
+      "name": "FN",
+      "value": "29034543311"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "NO"
   }
 ]
