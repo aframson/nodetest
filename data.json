@@ -32982,5 +32982,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nikolaj",
+      "last": "Sørensen"
+    },
+    "location": {
+      "street": {
+        "number": 8971,
+        "name": "Bavnehøjvej"
+      },
+      "city": "Brondby",
+      "state": "Hovedstaden",
+      "country": "Denmark",
+      "postcode": 15025,
+      "coordinates": {
+        "latitude": "-40.5224",
+        "longitude": "-37.2212"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "nikolaj.sorensen@example.com",
+    "login": {
+      "uuid": "ae3e0230-45dc-4799-a39e-d13668014035",
+      "username": "purpletiger847",
+      "password": "carver",
+      "salt": "suYUCLJy",
+      "md5": "68eca05a40210c2cd9024368cf846bb1",
+      "sha1": "e5081d017e163556aa6708e91b7bd933cace6ea2",
+      "sha256": "4e09696f6b596f437ac19477e32dbed9a9c8e635b316fbb6ab140e2fe0a11d1b"
+    },
+    "dob": {
+      "date": "1951-03-11T18:48:33.616Z",
+      "age": 73
+    },
+    "registered": {
+      "date": "2006-03-23T23:50:33.636Z",
+      "age": 18
+    },
+    "phone": "45012023",
+    "cell": "57958585",
+    "id": {
+      "name": "CPR",
+      "value": "110351-9539"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/40.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+    },
+    "nat": "DK"
   }
 ]
