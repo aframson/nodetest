@@ -33038,5 +33038,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
     },
     "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Marcus",
+      "last": "Martin"
+    },
+    "location": {
+      "street": {
+        "number": 1701,
+        "name": "Napier Road"
+      },
+      "city": "Tauranga",
+      "state": "Gisborne",
+      "country": "New Zealand",
+      "postcode": 70921,
+      "coordinates": {
+        "latitude": "54.7322",
+        "longitude": "-115.0662"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "marcus.martin@example.com",
+    "login": {
+      "uuid": "b7829c3a-59b1-4649-ab86-8b189a9dbfee",
+      "username": "lazygorilla591",
+      "password": "qwertz",
+      "salt": "wMReAqMy",
+      "md5": "b31b9e5766338a15f593a8fc337ef502",
+      "sha1": "d7e05ff940b35f674652f2184a794a16ab496c2d",
+      "sha256": "770fdca0e14a212234ea53339be90bd31298e3a91105afef79ba3564b6b15243"
+    },
+    "dob": {
+      "date": "1985-05-21T04:26:59.946Z",
+      "age": 39
+    },
+    "registered": {
+      "date": "2004-02-03T13:14:31.329Z",
+      "age": 20
+    },
+    "phone": "(666)-879-9903",
+    "cell": "(981)-047-2474",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/51.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+    },
+    "nat": "NZ"
   }
 ]
