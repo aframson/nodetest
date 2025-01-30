@@ -32926,5 +32926,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mademoiselle",
+      "first": "Claudine",
+      "last": "Renaud"
+    },
+    "location": {
+      "street": {
+        "number": 9660,
+        "name": "Rue Saint-Georges"
+      },
+      "city": "Mutrux",
+      "state": "Fribourg",
+      "country": "Switzerland",
+      "postcode": 8710,
+      "coordinates": {
+        "latitude": "-56.0372",
+        "longitude": "148.1797"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "claudine.renaud@example.com",
+    "login": {
+      "uuid": "3d2aff94-691d-41b0-b388-92e904d51db2",
+      "username": "lazymeercat226",
+      "password": "kingfish",
+      "salt": "Le1gTaTn",
+      "md5": "e53453a247615eec56e615e6cf3e65d2",
+      "sha1": "4d3f03febbd3d4d066f485679f76860dc3a252a6",
+      "sha256": "4bc9d427de41d19c70263aa98290209f708f39deb1775172d46ce53446741e2b"
+    },
+    "dob": {
+      "date": "1997-06-18T16:36:04.038Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2013-09-05T17:25:13.178Z",
+      "age": 11
+    },
+    "phone": "076 087 16 73",
+    "cell": "079 260 92 21",
+    "id": {
+      "name": "AVS",
+      "value": "756.8839.1610.01"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/2.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+    },
+    "nat": "CH"
   }
 ]
