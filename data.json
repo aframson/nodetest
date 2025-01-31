@@ -33710,5 +33710,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
     },
     "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Marcus",
+      "last": "Baker"
+    },
+    "location": {
+      "street": {
+        "number": 4700,
+        "name": "Oak Ridge Ln"
+      },
+      "city": "Shepparton",
+      "state": "Northern Territory",
+      "country": "Australia",
+      "postcode": 3059,
+      "coordinates": {
+        "latitude": "-89.3540",
+        "longitude": "-131.0317"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "email": "marcus.baker@example.com",
+    "login": {
+      "uuid": "a0f79c57-4cbb-4eec-83f8-52c3d4bf35ef",
+      "username": "whiteleopard391",
+      "password": "cartman1",
+      "salt": "sXQQ46VX",
+      "md5": "793392bed5d62c7a456728be7a812167",
+      "sha1": "67478037e95c5f4852dfdcccc38804cf0f0a0572",
+      "sha256": "a646ba4b7e6745a46593c3a2556db7dd3d08d514a8fa6ab561fb043c6ce15c10"
+    },
+    "dob": {
+      "date": "1955-03-31T12:29:26.887Z",
+      "age": 69
+    },
+    "registered": {
+      "date": "2017-11-03T16:23:22.626Z",
+      "age": 7
+    },
+    "phone": "08-2791-3998",
+    "cell": "0471-192-294",
+    "id": {
+      "name": "TFN",
+      "value": "865429854"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/20.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    },
+    "nat": "AU"
   }
 ]
