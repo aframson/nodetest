@@ -33878,5 +33878,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
     },
     "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Davut",
+      "last": "Aybar"
+    },
+    "location": {
+      "street": {
+        "number": 7365,
+        "name": "Şehitler Cd"
+      },
+      "city": "Kocaeli",
+      "state": "Hatay",
+      "country": "Turkey",
+      "postcode": 97552,
+      "coordinates": {
+        "latitude": "70.6757",
+        "longitude": "-40.0431"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "davut.aybar@example.com",
+    "login": {
+      "uuid": "426b586f-30e1-4921-993e-9adbf5e64b20",
+      "username": "blueswan617",
+      "password": "miles",
+      "salt": "nb6eMlhL",
+      "md5": "c0d1621070abef585c82e10b7d779ede",
+      "sha1": "85bb399b35fb0a1de6f6bf3a7f5b112ab028f91f",
+      "sha256": "39e5dffd4bb2686b5f98daff976572eccc7db324440335f521e2975f49dae39a"
+    },
+    "dob": {
+      "date": "1981-12-28T13:29:41.952Z",
+      "age": 43
+    },
+    "registered": {
+      "date": "2019-10-09T09:37:55.677Z",
+      "age": 5
+    },
+    "phone": "(939)-437-1049",
+    "cell": "(964)-936-1637",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/70.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    },
+    "nat": "TR"
   }
 ]
