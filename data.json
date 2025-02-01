@@ -34438,5 +34438,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Julio",
+      "last": "Méndez"
+    },
+    "location": {
+      "street": {
+        "number": 8534,
+        "name": "Avenida del Planetario"
+      },
+      "city": "Vigo",
+      "state": "Extremadura",
+      "country": "Spain",
+      "postcode": 93015,
+      "coordinates": {
+        "latitude": "-34.8189",
+        "longitude": "-75.1182"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "julio.mendez@example.com",
+    "login": {
+      "uuid": "a8bd2f9e-13ca-4e7d-9471-b9d1346db592",
+      "username": "heavybird737",
+      "password": "dandfa",
+      "salt": "goXO3D12",
+      "md5": "6a4772a29ebaa80fa948c21fb0a90931",
+      "sha1": "06614593f3f859499e35505d872ad81f97d142e9",
+      "sha256": "80e63e108df3e1312ab0dba9943b5218362988826b8e3742a7ccd39bb8d11b9f"
+    },
+    "dob": {
+      "date": "1978-07-17T10:12:51.759Z",
+      "age": 46
+    },
+    "registered": {
+      "date": "2019-08-27T12:44:17.230Z",
+      "age": 5
+    },
+    "phone": "912-487-351",
+    "cell": "673-607-723",
+    "id": {
+      "name": "DNI",
+      "value": "59006504-Q"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "ES"
   }
 ]
