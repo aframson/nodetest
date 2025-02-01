@@ -34550,5 +34550,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
     },
     "nat": "NZ"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Marluce",
+      "last": "Nunes"
+    },
+    "location": {
+      "street": {
+        "number": 6691,
+        "name": "Rua João Xxiii"
+      },
+      "city": "Camaçari",
+      "state": "Minas Gerais",
+      "country": "Brazil",
+      "postcode": 55878,
+      "coordinates": {
+        "latitude": "-80.2505",
+        "longitude": "162.7098"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "marluce.nunes@example.com",
+    "login": {
+      "uuid": "ab1ea627-8a84-4ff8-b119-55934245c001",
+      "username": "organicgoose406",
+      "password": "admin1",
+      "salt": "OFp90Gmh",
+      "md5": "a4fa491e3d65c436c5a405020756bbc0",
+      "sha1": "f0d91af2c6e54fd33c1f8e743f94c325838d4956",
+      "sha256": "c3adbff62800c7fc0cc08d66ba4db385ac8ced01b5d309448e1d2ce7b8fceab4"
+    },
+    "dob": {
+      "date": "1978-01-24T15:04:16.532Z",
+      "age": 47
+    },
+    "registered": {
+      "date": "2007-02-25T17:30:53.224Z",
+      "age": 17
+    },
+    "phone": "(12) 3700-1624",
+    "cell": "(34) 1886-8399",
+    "id": {
+      "name": "CPF",
+      "value": "729.908.906-81"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/24.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+    },
+    "nat": "BR"
   }
 ]
