@@ -34494,5 +34494,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Lewis",
+      "last": "Lewis"
+    },
+    "location": {
+      "street": {
+        "number": 5935,
+        "name": "Domain Road"
+      },
+      "city": "Invercargill",
+      "state": "Northland",
+      "country": "New Zealand",
+      "postcode": 72487,
+      "coordinates": {
+        "latitude": "51.3621",
+        "longitude": "-42.8726"
+      },
+      "timezone": {
+        "offset": "-4:00",
+        "description": "Atlantic Time (Canada), Caracas, La Paz"
+      }
+    },
+    "email": "lewis.lewis@example.com",
+    "login": {
+      "uuid": "a749358b-2274-448a-96c1-8841e3230911",
+      "username": "silverbutterfly589",
+      "password": "garion",
+      "salt": "ilDrrGPY",
+      "md5": "4be481637521511b3111e3115e3ad83f",
+      "sha1": "4e3f92b8b03cfb9cd3ec2a56da0ca9d2883f7fb0",
+      "sha256": "8db1a92b556877349917842e3f1b1c9e081a66704344dd4689fff344ffd7990a"
+    },
+    "dob": {
+      "date": "1973-12-07T13:36:21.843Z",
+      "age": 51
+    },
+    "registered": {
+      "date": "2008-02-03T18:02:25.857Z",
+      "age": 16
+    },
+    "phone": "(821)-106-0056",
+    "cell": "(010)-966-1579",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/6.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+    },
+    "nat": "NZ"
   }
 ]
