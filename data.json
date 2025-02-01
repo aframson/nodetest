@@ -34214,5 +34214,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Hrithik",
+      "last": "Nagane"
+    },
+    "location": {
+      "street": {
+        "number": 8131,
+        "name": "Pali Hill"
+      },
+      "city": "Pudukkottai",
+      "state": "Meghalaya",
+      "country": "India",
+      "postcode": 77142,
+      "coordinates": {
+        "latitude": "6.8635",
+        "longitude": "-119.0292"
+      },
+      "timezone": {
+        "offset": "-3:30",
+        "description": "Newfoundland"
+      }
+    },
+    "email": "hrithik.nagane@example.com",
+    "login": {
+      "uuid": "794dabab-b46c-4f6f-8318-60d27cc2f8a8",
+      "username": "beautifullion492",
+      "password": "colors",
+      "salt": "UqxV0y0b",
+      "md5": "fc54bd570bb70602139b00d65854f990",
+      "sha1": "4ff235674b3444599563270db13b666a08d61407",
+      "sha256": "665a564723abc36992b3a997e44541c4fca9c2be0d21083535385150ad376c0b"
+    },
+    "dob": {
+      "date": "1945-09-09T06:38:24.685Z",
+      "age": 79
+    },
+    "registered": {
+      "date": "2019-05-03T22:37:52.847Z",
+      "age": 5
+    },
+    "phone": "8771956517",
+    "cell": "7369276148",
+    "id": {
+      "name": "UIDAI",
+      "value": "047695496635"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/17.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    },
+    "nat": "IN"
   }
 ]
