@@ -34046,5 +34046,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Johan",
+      "last": "Møller"
+    },
+    "location": {
+      "street": {
+        "number": 1554,
+        "name": "Stenager"
+      },
+      "city": "Vesterborg",
+      "state": "Syddanmark",
+      "country": "Denmark",
+      "postcode": 89254,
+      "coordinates": {
+        "latitude": "-40.1982",
+        "longitude": "-84.4944"
+      },
+      "timezone": {
+        "offset": "-11:00",
+        "description": "Midway Island, Samoa"
+      }
+    },
+    "email": "johan.moller@example.com",
+    "login": {
+      "uuid": "6902cefe-fbb6-4163-8600-538c6b2baf11",
+      "username": "beautifulbear396",
+      "password": "gunner",
+      "salt": "9RQzfxmc",
+      "md5": "caa0614bb77f6098835ff295d1ff2145",
+      "sha1": "cb5bf33219e1f2d50e6b6221c3fa451eb96e0653",
+      "sha256": "b8771d69c3173901bca65dea91598f942152943a2ebec1461ae22bbf8055e100"
+    },
+    "dob": {
+      "date": "1957-10-26T19:32:41.156Z",
+      "age": 67
+    },
+    "registered": {
+      "date": "2012-07-10T01:49:29.270Z",
+      "age": 12
+    },
+    "phone": "47176901",
+    "cell": "14874009",
+    "id": {
+      "name": "CPR",
+      "value": "261057-7865"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/78.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+    },
+    "nat": "DK"
   }
 ]
