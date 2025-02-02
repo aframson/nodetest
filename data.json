@@ -34830,5 +34830,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
     },
     "nat": "ES"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Engrácio",
+      "last": "das Neves"
+    },
+    "location": {
+      "street": {
+        "number": 6750,
+        "name": "Rua Santo Antônio "
+      },
+      "city": "Itu",
+      "state": "Roraima",
+      "country": "Brazil",
+      "postcode": 10414,
+      "coordinates": {
+        "latitude": "-73.9123",
+        "longitude": "-89.3191"
+      },
+      "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+      }
+    },
+    "email": "engracio.dasneves@example.com",
+    "login": {
+      "uuid": "556aa7d0-821e-4120-b943-e7224b237637",
+      "username": "crazyduck920",
+      "password": "monk",
+      "salt": "Hhh3elc9",
+      "md5": "098d9d5b31cf20dba55c3561fe4fe34c",
+      "sha1": "bf581785ef7514d923a11f2bdce5a3a94e09cb56",
+      "sha256": "80d3e2f5c3155c866316ce420d036cf6928b9bf24c1d0af1ef0cec88b4a7e761"
+    },
+    "dob": {
+      "date": "1970-06-26T14:24:44.540Z",
+      "age": 54
+    },
+    "registered": {
+      "date": "2005-01-07T23:17:23.760Z",
+      "age": 20
+    },
+    "phone": "(27) 1244-2444",
+    "cell": "(16) 7208-6467",
+    "id": {
+      "name": "CPF",
+      "value": "421.516.990-78"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/13.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    },
+    "nat": "BR"
   }
 ]
