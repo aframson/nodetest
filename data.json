@@ -35838,5 +35838,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
     },
     "nat": "IN"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Titouan",
+      "last": "Menard"
+    },
+    "location": {
+      "street": {
+        "number": 1698,
+        "name": "Place de L'Abbé-Georges-Hénocque"
+      },
+      "city": "Saint-Denis",
+      "state": "Ardennes",
+      "country": "France",
+      "postcode": 28320,
+      "coordinates": {
+        "latitude": "-16.3559",
+        "longitude": "-54.2150"
+      },
+      "timezone": {
+        "offset": "+9:30",
+        "description": "Adelaide, Darwin"
+      }
+    },
+    "email": "titouan.menard@example.com",
+    "login": {
+      "uuid": "fae23d03-f018-4c55-8bfb-e3eeaf4eee87",
+      "username": "whitepeacock888",
+      "password": "rebecca",
+      "salt": "0dgFXvwX",
+      "md5": "81195013ac6ac0f377f581101c915fcc",
+      "sha1": "12b73666bb55118602ea3b41d919876505a786a2",
+      "sha256": "c37b5b386d01bdb59a097125258f530f90d7d787323e44f4be79850b0b492a79"
+    },
+    "dob": {
+      "date": "1956-06-04T14:24:46.339Z",
+      "age": 68
+    },
+    "registered": {
+      "date": "2020-03-20T13:44:07.331Z",
+      "age": 4
+    },
+    "phone": "04-92-89-95-41",
+    "cell": "06-94-01-04-11",
+    "id": {
+      "name": "INSEE",
+      "value": "1560568101493 75"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/87.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+    },
+    "nat": "FR"
   }
 ]
