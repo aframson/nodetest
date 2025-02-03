@@ -35726,5 +35726,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Simone",
+      "last": "Hubert"
+    },
+    "location": {
+      "street": {
+        "number": 8005,
+        "name": "Rue Jean-Baldassini"
+      },
+      "city": "Bärschwil",
+      "state": "Genève",
+      "country": "Switzerland",
+      "postcode": 1520,
+      "coordinates": {
+        "latitude": "-59.1989",
+        "longitude": "-43.8431"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "simone.hubert@example.com",
+    "login": {
+      "uuid": "e7bce04d-818c-4088-aefa-f4b500cf44b7",
+      "username": "whitemouse953",
+      "password": "umpire",
+      "salt": "HeHVaHGA",
+      "md5": "72a96c33a4b18ff03761a431e13a889a",
+      "sha1": "b0df1f1d772c6c01d419b607dbea9f9d7bbd8481",
+      "sha256": "db271e7cb145b0cdaa4905a1d4b895b33a97f3e07701b58b4820511f5a482745"
+    },
+    "dob": {
+      "date": "1961-12-20T21:23:24.754Z",
+      "age": 63
+    },
+    "registered": {
+      "date": "2016-03-10T15:55:57.301Z",
+      "age": 8
+    },
+    "phone": "075 792 26 41",
+    "cell": "077 210 03 43",
+    "id": {
+      "name": "AVS",
+      "value": "756.4561.2769.90"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/34.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    },
+    "nat": "CH"
   }
 ]
