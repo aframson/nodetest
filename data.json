@@ -35670,5 +35670,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
     },
     "nat": "CA"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ugo",
+      "last": "Rey"
+    },
+    "location": {
+      "street": {
+        "number": 8279,
+        "name": "Rue André-Gide"
+      },
+      "city": "Reims",
+      "state": "Cher",
+      "country": "France",
+      "postcode": 64641,
+      "coordinates": {
+        "latitude": "-15.0452",
+        "longitude": "-7.2199"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "ugo.rey@example.com",
+    "login": {
+      "uuid": "fd6d6b29-7f2b-428b-b1de-86e07585ec6e",
+      "username": "ticklishswan562",
+      "password": "arkansas",
+      "salt": "E0jSiGSo",
+      "md5": "ce584acf2db454e0b62ce4cc027a485f",
+      "sha1": "afe62e8b33bbaba9c8356e3fb0a39451acbe172e",
+      "sha256": "1d8469cac59c9906e48c65d93a4e56416223cf9e468c235b54b9e134da1158b3"
+    },
+    "dob": {
+      "date": "1968-04-10T00:36:08.126Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2020-06-14T08:34:57.371Z",
+      "age": 4
+    },
+    "phone": "03-35-39-74-91",
+    "cell": "06-06-71-40-21",
+    "id": {
+      "name": "INSEE",
+      "value": "1680343377418 73"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/4.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+    },
+    "nat": "FR"
   }
 ]
