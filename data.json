@@ -36174,5 +36174,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jayden",
+      "last": "Evans"
+    },
+    "location": {
+      "street": {
+        "number": 4393,
+        "name": "Worcester Street"
+      },
+      "city": "Blenheim",
+      "state": "Taranaki",
+      "country": "New Zealand",
+      "postcode": 37399,
+      "coordinates": {
+        "latitude": "50.2981",
+        "longitude": "-101.9385"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "jayden.evans@example.com",
+    "login": {
+      "uuid": "8227f0b4-1ed2-4421-9cb6-9cd3408e991f",
+      "username": "silvergorilla641",
+      "password": "seviyi",
+      "salt": "f62islgw",
+      "md5": "6687ff0f960f0b6abf5ecfd3eb343a8a",
+      "sha1": "eb45c8731407ab68f22e80344131da74e8cbfa30",
+      "sha256": "d503d84a775bf4bceed8bf8d6537c70c09972c46e26b9e410c2c301a64b0a5f7"
+    },
+    "dob": {
+      "date": "1987-10-06T03:45:45.769Z",
+      "age": 37
+    },
+    "registered": {
+      "date": "2018-09-18T11:56:59.167Z",
+      "age": 6
+    },
+    "phone": "(305)-855-1997",
+    "cell": "(499)-663-9494",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/19.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    },
+    "nat": "NZ"
   }
 ]
