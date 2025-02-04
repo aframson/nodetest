@@ -36342,5 +36342,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
     },
     "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Enes",
+      "last": "Masson"
+    },
+    "location": {
+      "street": {
+        "number": 559,
+        "name": "Quai Chauveau"
+      },
+      "city": "Schwarzhäusern",
+      "state": "Appenzell Innerrhoden",
+      "country": "Switzerland",
+      "postcode": 6648,
+      "coordinates": {
+        "latitude": "-58.3129",
+        "longitude": "-18.5046"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "enes.masson@example.com",
+    "login": {
+      "uuid": "4ac05c1c-ae84-47bb-a62e-8587a8d79e45",
+      "username": "bigtiger596",
+      "password": "gilligan",
+      "salt": "O4GrETRk",
+      "md5": "0f37f4a3c0c9e9503eafc833c8f3e3f9",
+      "sha1": "478c2d8d9a1cd32a98790025238bf4cf67553302",
+      "sha256": "f92557f341b164a8b18d6849f66d500fce533e0e777297490d02d54d0bbddb0d"
+    },
+    "dob": {
+      "date": "1964-02-15T19:00:03.815Z",
+      "age": 60
+    },
+    "registered": {
+      "date": "2013-02-16T13:58:11.276Z",
+      "age": 11
+    },
+    "phone": "077 846 92 30",
+    "cell": "075 317 38 42",
+    "id": {
+      "name": "AVS",
+      "value": "756.8945.5724.83"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/44.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+    },
+    "nat": "CH"
   }
 ]
