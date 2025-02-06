@@ -37518,5 +37518,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
     },
     "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Nemésio",
+      "last": "Costa"
+    },
+    "location": {
+      "street": {
+        "number": 1682,
+        "name": "Travessa dos Açorianos"
+      },
+      "city": "Arapiraca",
+      "state": "Pará",
+      "country": "Brazil",
+      "postcode": 51851,
+      "coordinates": {
+        "latitude": "-77.7260",
+        "longitude": "-24.2570"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "nemesio.costa@example.com",
+    "login": {
+      "uuid": "b272f097-f52b-41f3-b504-92be5fad833d",
+      "username": "angryfish653",
+      "password": "flames",
+      "salt": "9viRh7ol",
+      "md5": "54fd91a83917c29ac03d14f66d18fb03",
+      "sha1": "eb7d5ca86070ca63f18619bfdc12a077c058fafd",
+      "sha256": "810022bac9203d919968812a590e452f763f8c74145aa8f3bb1a9f95ebb577a4"
+    },
+    "dob": {
+      "date": "1953-07-22T01:14:25.749Z",
+      "age": 71
+    },
+    "registered": {
+      "date": "2016-07-02T20:05:41.246Z",
+      "age": 8
+    },
+    "phone": "(39) 6852-2875",
+    "cell": "(48) 2448-7786",
+    "id": {
+      "name": "CPF",
+      "value": "694.000.301-19"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/87.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+    },
+    "nat": "BR"
   }
 ]
