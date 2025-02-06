@@ -37686,5 +37686,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
     },
     "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Samuel",
+      "last": "Alvarez"
+    },
+    "location": {
+      "street": {
+        "number": 6007,
+        "name": "North Road"
+      },
+      "city": "Dundee",
+      "state": "Somerset",
+      "country": "United Kingdom",
+      "postcode": "X73 5LH",
+      "coordinates": {
+        "latitude": "-10.8883",
+        "longitude": "-173.0351"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "samuel.alvarez@example.com",
+    "login": {
+      "uuid": "d0d984cc-6aa0-4547-9b25-f268a5ca1702",
+      "username": "blackgoose960",
+      "password": "pictere",
+      "salt": "ANQbwrDt",
+      "md5": "f645f92d5b4b9fa78cfdb21ff7a2254c",
+      "sha1": "c35e1fff3a1ef31f64190e30baf13a47216cb31f",
+      "sha256": "b3ae048c7fbae2160f0f6b4b354e304ccf182b7aacb571bfbb3accc9b5482c5a"
+    },
+    "dob": {
+      "date": "1952-10-20T12:26:16.226Z",
+      "age": 72
+    },
+    "registered": {
+      "date": "2010-12-08T02:42:49.813Z",
+      "age": 14
+    },
+    "phone": "01530 915834",
+    "cell": "07537 173299",
+    "id": {
+      "name": "NINO",
+      "value": "AY 46 19 62 C"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/54.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+    },
+    "nat": "GB"
   }
 ]
