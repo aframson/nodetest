@@ -37742,5 +37742,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
     },
     "nat": "GB"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Aurelio",
+      "last": "Casanova"
+    },
+    "location": {
+      "street": {
+        "number": 1744,
+        "name": "Circunvalación Rodríquez"
+      },
+      "city": "Zimapán",
+      "state": "Yucatan",
+      "country": "Mexico",
+      "postcode": 97331,
+      "coordinates": {
+        "latitude": "25.8898",
+        "longitude": "-22.5400"
+      },
+      "timezone": {
+        "offset": "+3:30",
+        "description": "Tehran"
+      }
+    },
+    "email": "aurelio.casanova@example.com",
+    "login": {
+      "uuid": "13926fff-214b-49a0-938d-efe18a67679c",
+      "username": "orangesnake909",
+      "password": "charter",
+      "salt": "jhsSMNdu",
+      "md5": "09958a66aee045f71ab804a83f334083",
+      "sha1": "2e228b0d7ffd7502f69592a1f9a90ef25f01c22c",
+      "sha256": "cae1a5c0e77908d707918f77e503b27de2b8b270e269d800a91535594f6363e9"
+    },
+    "dob": {
+      "date": "1997-12-04T21:48:19.140Z",
+      "age": 27
+    },
+    "registered": {
+      "date": "2020-12-08T21:13:17.817Z",
+      "age": 4
+    },
+    "phone": "(656) 444 4570",
+    "cell": "(637) 116 9891",
+    "id": {
+      "name": "NSS",
+      "value": "69 58 69 3438 3"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/11.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    },
+    "nat": "MX"
   }
 ]
