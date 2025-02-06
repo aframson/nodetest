@@ -37406,5 +37406,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
     },
     "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Aleksej",
+      "last": "Golubović"
+    },
+    "location": {
+      "street": {
+        "number": 2474,
+        "name": "Vojvode Stepe Stepanovića"
+      },
+      "city": "Ljig",
+      "state": "Srem",
+      "country": "Serbia",
+      "postcode": 90642,
+      "coordinates": {
+        "latitude": "61.1249",
+        "longitude": "-150.1313"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "aleksej.golubovic@example.com",
+    "login": {
+      "uuid": "0263e7de-a2a6-444e-a16c-a33ebac204f8",
+      "username": "happyrabbit705",
+      "password": "archange",
+      "salt": "OlNyqt6z",
+      "md5": "c8d2ce13048e769f32ec192433b54c17",
+      "sha1": "376d567f18b78b2c067c4d8fbcf3d4f1f4e41b3b",
+      "sha256": "d1f8d5f6f82c3470734bae9f03b07ade6f9da2621254c6a866c7b42d085efa90"
+    },
+    "dob": {
+      "date": "1955-11-24T04:02:50.823Z",
+      "age": 69
+    },
+    "registered": {
+      "date": "2006-08-26T02:09:23.155Z",
+      "age": 18
+    },
+    "phone": "036-7102-959",
+    "cell": "063-1545-035",
+    "id": {
+      "name": "SID",
+      "value": "705310699"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/91.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    },
+    "nat": "RS"
   }
 ]
