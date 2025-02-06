@@ -37798,5 +37798,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
     },
     "nat": "MX"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Joseph",
+      "last": "Morris"
+    },
+    "location": {
+      "street": {
+        "number": 5732,
+        "name": "Hanover Street"
+      },
+      "city": "Timaru",
+      "state": "Nelson",
+      "country": "New Zealand",
+      "postcode": 55018,
+      "coordinates": {
+        "latitude": "53.5151",
+        "longitude": "-161.5546"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "joseph.morris@example.com",
+    "login": {
+      "uuid": "98795c78-24a0-4c74-8790-67bc7fd5d109",
+      "username": "purplebird487",
+      "password": "hurley",
+      "salt": "kpPdYCpG",
+      "md5": "cd4461bf71e20d8a779ca863aed67734",
+      "sha1": "1322e76a2d44bb1787a7347e80949023299ca132",
+      "sha256": "6cee6e7d7edd081b9d3e8f1a12d76130ac34be667f16b70da3fa6ee1a07d8e90"
+    },
+    "dob": {
+      "date": "1969-10-03T07:08:47.498Z",
+      "age": 55
+    },
+    "registered": {
+      "date": "2016-09-18T04:04:46.315Z",
+      "age": 8
+    },
+    "phone": "(498)-380-0598",
+    "cell": "(249)-752-7191",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/79.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    },
+    "nat": "NZ"
   }
 ]
