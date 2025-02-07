@@ -37966,5 +37966,61 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
     },
     "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Seth",
+      "last": "Turner"
+    },
+    "location": {
+      "street": {
+        "number": 1898,
+        "name": "Mcgowen St"
+      },
+      "city": "Lincoln",
+      "state": "Missouri",
+      "country": "United States",
+      "postcode": 76010,
+      "coordinates": {
+        "latitude": "86.2211",
+        "longitude": "-176.8394"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "seth.turner@example.com",
+    "login": {
+      "uuid": "de13787b-0e49-4939-8348-d2a3a3a1d840",
+      "username": "crazyleopard853",
+      "password": "chase1",
+      "salt": "c4rKJoKp",
+      "md5": "5330341c966fd1e1a0023cfbcbb23e5b",
+      "sha1": "05c0993d94b4a65b11c11137e28d2a23811cf7be",
+      "sha256": "c3c9d0ecade47aabde1acd1dd153af5a4f5d52546f13fd5e196cfd2faaad7c07"
+    },
+    "dob": {
+      "date": "1952-02-04T09:47:57.722Z",
+      "age": 73
+    },
+    "registered": {
+      "date": "2015-09-30T09:02:59.877Z",
+      "age": 9
+    },
+    "phone": "(726) 285-2056",
+    "cell": "(712) 656-5877",
+    "id": {
+      "name": "SSN",
+      "value": "645-54-7940"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/19.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    },
+    "nat": "US"
   }
 ]
